@@ -16,6 +16,16 @@
 </div>
 
 <div align="center">
+  <b>
+    <a href="https://horizonwind2004.github.io/" target="_blank">Ji Xie</a><sup>1</sup>,
+    <a href="https://people.eecs.berkeley.edu/~trevor/" target="_blank">Trevor Darrell</a><sup>1</sup>,
+    <a href="https://homes.cs.washington.edu/~lsz/" target="_blank">Luke Zettlemoyer</a><sup>2</sup>,
+    <a href="https://people.eecs.berkeley.edu/~xdwang/" target="_blank">XuDong Wang</a><sup>1*</sup>
+  </b><br>
+  <span style="font-size: 1em; color: #555;">UC Berkeley<sup>1</sup>; University of Washington<sup>2</sup></span>
+</div>
+
+<div align="center">
   <img src="./assets/DEMO.jpg" alt="" style="width: 100%; margin: 20px 0;">
 </div>
 
