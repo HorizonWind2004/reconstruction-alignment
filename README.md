@@ -7,11 +7,11 @@
 
   <h4 style="color: #7f8c8d; margin-top: 6px;">Unlocking the Massive Zero-shot Potential in Unified Multimodal Models through Self-supervised Learning</h3>
 
-  [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2412.17910)
-  [![ArXiv](https://img.shields.io/badge/arXiv-A42C25?style=for-the-badge&logo=arxiv&logoColor=white&color=blue)](https://arxiv.org/abs/2412.17910)
+  [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2509.07295)
+  [![ArXiv](https://img.shields.io/badge/arXiv-A42C25?style=for-the-badge&logo=arxiv&logoColor=white&color=blue)](https://arxiv.org/abs/2509.07295)
   [![Hugging Face Collection](https://img.shields.io/badge/HF_Models-fcd022?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/collections/sanaka87/realign-68ad2176380355a3dcedc068)
   [![HF Demo](https://img.shields.io/badge/Demo_(BAGEL)-fcd022?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/spaces/sanaka87/BAGEL-ReAlign)
-  [![Project Page](https://img.shields.io/badge/Project_Page-00CED1?style=for-the-badge&logo=web&logoColor=white)](https://horizonwind2004.github.io/ReAlign-Page)
+  [![Project Page](https://img.shields.io/badge/Project_Page-00CED1?style=for-the-badge&logo=web&logoColor=white)](https://reconstruction-alignment.github.io/)
 
 </div>
 
@@ -73,6 +73,7 @@ A collection of RecA models on Hugging Face with benchmark performance:
 
 ## 🚧 TODO
 
+- [ ] Release our model weights on Hugging Face.
 - [ ] Release BAGEL and Harmon training code.
 - [ ] Release Show-o and OpenUni training code.
 - [ ] Further scale-up BAGEL training.
