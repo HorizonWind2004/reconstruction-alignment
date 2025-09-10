@@ -21,7 +21,7 @@
 
 ## 🔥 News
 
-- **2025.9.9**: Our finetuned weights and arXiv paper are available! We expect to release the training code tomorrow.
+- **2025.9.9**: Our [finetuned weights](https://huggingface.co/collections/sanaka87/realign-68ad2176380355a3dcedc068) and [arXiv paper](https://arxiv.org/abs/2509.07295) are available! We expect to release the training code tomorrow.
 
 ## 🍭 Results
 
