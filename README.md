@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <img src="./assets/teaser.jpg" alt="" style="width: 100%; margin: 20px 0;">
+  <img src="./assets/DEMO.jpg" alt="" style="width: 100%; margin: 20px 0;">
 </div>
 
 ## 🔥 News
