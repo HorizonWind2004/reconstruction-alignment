@@ -19,15 +19,9 @@
   <img src="./assets/teaser.jpg" alt="" style="width: 100%; margin: 20px 0;">
 </div>
 
-## 📚 Overview
+## 🔥 News
 
-- [📚 Overview](#-overview)
-- [🍭 Results](#-results)
-- [🏆 Model Zoo](#-model-zoo)
-- [✨ Getting Started](#-getting-started)
-- [🚧 TODO](#-todo)
-- [📮 Contact](#-contact)
-- [📄 Citation](#-citation)
+- **2025.9.9**: Our finetuned weights and arXiv paper are available! We expect to release the training code tomorrow.
 
 ## 🍭 Results
 
