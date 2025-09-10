@@ -1,0 +1,17 @@
+reconstruction:
+  dataset_names:
+  - webdataset
+  image_transform_args:
+    image_stride: 16
+    max_image_size: 1024
+    min_image_size: 512
+
+  vit_image_transform_args:
+    image_stride: 14
+    max_image_size: 224
+    min_image_size: 224
+
+  is_mandatory: false
+  num_used_data:
+  - 12345678910
+  weight: 1

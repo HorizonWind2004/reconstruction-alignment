@@ -1,0 +1,3687 @@
+{
+    "1082": {
+        "id": "animal/000342021.jpg",
+        "prompt": "Change the tortoise's shell texture to a smooth surface.",
+        "edit_type": "adjust"
+    },
+    "1068": {
+        "id": "animal/000047206.jpg",
+        "prompt": "Change the animal's fur color to a darker shade.",
+        "edit_type": "adjust"
+    },
+    "673": {
+        "id": "style/000278574.jpg",
+        "prompt": "Transfer the image into a traditional ukiyo-e woodblock-print style.",
+        "edit_type": "style"
+    },
+    "281": {
+        "id": "architecture/000386778.jpg",
+        "prompt": "Change the beach and ocean environment in the picture to a snowy mountain.",
+        "edit_type": "background"
+    },
+    "450": {
+        "id": "clothes/00000051.jpg",
+        "prompt": "Extract the colorful striped top worn by the person in the image.",
+        "edit_type": "extract"
+    },
+    "510": {
+        "id": "transport/000351716.jpg",
+        "prompt": "Remove the red trolley (marked \"77\" and labeled \"WEST CHESTER\") from the railway track in the foreground.",
+        "edit_type": "remove"
+    },
+    "628": {
+        "id": "daily object/000276684.jpg",
+        "prompt": "Replace the giant boot in the image with a large coffee mug.",
+        "edit_type": "replace"
+    },
+    "97": {
+        "id": "for_add/000236569.jpg",
+        "prompt": "Add an elegant chandelier in the center of the ceiling.",
+        "edit_type": "add"
+    },
+    "91": {
+        "id": "for_add/000155856.jpg",
+        "prompt": "Add a person walking along the dirt path, facing toward the ocean, wearing a backpack and casual hiking clothes.",
+        "edit_type": "add"
+    },
+    "238": {
+        "id": "animal/000294276.jpg",
+        "prompt": "Change the green foliage background in the picture to a coastal beach setting.",
+        "edit_type": "background"
+    },
+    "254": {
+        "id": "transport/000265699.jpg",
+        "prompt": "Change the forest in the picture from autumn to spring.",
+        "edit_type": "background"
+    },
+    "103": {
+        "id": "for_add/000295872.jpg",
+        "prompt": "Add a dog walking beside the person on the snow-covered path.",
+        "edit_type": "add"
+    },
+    "22": {
+        "id": "for_add/000001314.jpg",
+        "prompt": "Add a small brown dog sitting inside the open trunk of the antique car.",
+        "edit_type": "add"
+    },
+    "667": {
+        "id": "style/000278574.jpg",
+        "prompt": "Transfer the image into a sepia-toned vintage-photograph style.",
+        "edit_type": "style"
+    },
+    "48": {
+        "id": "for_add/000032566.jpg",
+        "prompt": "Add a person sitting at the edge of the wooden dock, facing the water, as if watching the sunset.",
+        "edit_type": "add"
+    },
+    "541": {
+        "id": "daily object/000363394.jpg",
+        "prompt": "Remove the armchair with wooden armrests and checkered upholstery from the image.",
+        "edit_type": "remove"
+    },
+    "445": {
+        "id": "clothes/00000036.jpg",
+        "prompt": "Extract the white high-neck blouse with black chevron pattern worn by the person in the image.",
+        "edit_type": "extract"
+    },
+    "709": {
+        "id": "style/000308113.jpg",
+        "prompt": "Transfer the image into a vibrant graffiti street-mural style.",
+        "edit_type": "style"
+    },
+    "651": {
+        "id": "style/000015317.jpg",
+        "prompt": "Transfer the image into an ornate steampunk brass-engraving style.",
+        "edit_type": "style"
+    },
+    "710": {
+        "id": "style/000308113.jpg",
+        "prompt": "Transfer the image into a cyan blueprint technical-drawing style.",
+        "edit_type": "style"
+    },
+    "700": {
+        "id": "style/000308113.jpg",
+        "prompt": "Transfer the image into a colourful ceramic mosaic-tile style.",
+        "edit_type": "style"
+    },
+    "361": {
+        "id": "animal/000125904.jpg",
+        "prompt": "Extract the animal in the image.",
+        "edit_type": "extract"
+    },
+    "577": {
+        "id": "animal/000316504.jpg",
+        "prompt": "Replace the deer in the image with a lion standing majestically in the same forest setting, under the glowing golden light and light snowflakes.",
+        "edit_type": "replace"
+    },
+    "584": {
+        "id": "transport/000076056.jpg",
+        "prompt": "Replace the tiny house on wheels in the image with a vintage car.",
+        "edit_type": "replace"
+    },
+    "49": {
+        "id": "for_add/000032566.jpg",
+        "prompt": "Add a bicycle leaning against the pier in the foreground, positioned near the left side of the dock.",
+        "edit_type": "add"
+    },
+    "299": {
+        "id": "daily object/000306869.jpg",
+        "prompt": "Change the beach in the picture to a mountain landscape.",
+        "edit_type": "background"
+    },
+    "568": {
+        "id": "animal/000125904.jpg",
+        "prompt": "Replace the dog in the image with a sunflower sticking out of the car window.",
+        "edit_type": "replace"
+    },
+    "449": {
+        "id": "clothes/00000048.jpg",
+        "prompt": "Extract the metallic long-sleeve turtleneck top and black high-waisted leather pants worn by the person in the image.",
+        "edit_type": "extract"
+    },
+    "45": {
+        "id": "for_add/000018370.jpg",
+        "prompt": "Add a modern skyscraper in the background.",
+        "edit_type": "add"
+    },
+    "646": {
+        "id": "style/000015317.jpg",
+        "prompt": "Transfer the image into a high-contrast black-and-white film-noir style.",
+        "edit_type": "style"
+    },
+    "500": {
+        "id": "transport/000156391.jpg",
+        "prompt": "Remove the yacht in the image.",
+        "edit_type": "remove"
+    },
+    "693": {
+        "id": "style/000280642.jpg",
+        "prompt": "Transfer the image into a traditional ukiyo-e woodblock-print style.",
+        "edit_type": "style"
+    },
+    "293": {
+        "id": "daily object/000158674.jpg",
+        "prompt": "Change the wooden cutting board background to a marble countertop.",
+        "edit_type": "background"
+    },
+    "337": {
+        "id": "human/000033638.jpg",
+        "prompt": "Extract the human figure standing in the image, including their clothing and posture, while separating them cleanly from the background environment.",
+        "edit_type": "extract"
+    },
+    "1136": {
+        "id": "daily object/000276684.jpg",
+        "prompt": "Change the object color to a soft blue.",
+        "edit_type": "adjust"
+    },
+    "55": {
+        "id": "for_add/000060085.jpg",
+        "prompt": "Add a small wooden cabin with a chimney near the edge of the forest on the right side of the image.",
+        "edit_type": "add"
+    },
+    "35": {
+        "id": "for_add/000010208.jpg",
+        "prompt": "Add a set of colorful beach towels hanging over the railing on the right side of the pier.",
+        "edit_type": "add"
+    },
+    "1149": {
+        "id": "compose/human/14.jpg",
+        "prompt": "Remove the gift box in the air held by the woman on the right, and adjust the lighting to brighten the scene.",
+        "edit_type": "compose"
+    },
+    "225": {
+        "id": "animal/000020881.jpg",
+        "prompt": "Change the background from the snow to a beach setting.",
+        "edit_type": "background"
+    },
+    "632": {
+        "id": "daily object/000340873.jpg",
+        "prompt": "Replace the dress in the image with a red backpack.",
+        "edit_type": "replace"
+    },
+    "292": {
+        "id": "daily object/000128286.jpg",
+        "prompt": "Change the wooden surface background in the picture to a marble countertop.",
+        "edit_type": "background"
+    },
+    "99": {
+        "id": "for_add/000276222.jpg",
+        "prompt": "Add a horse-drawn sleigh traveling along the snow-covered path near the broken fence in the foreground.",
+        "edit_type": "add"
+    },
+    "1009": {
+        "id": "human/000268923.jpg",
+        "prompt": "Make the person lift his head slightly.",
+        "edit_type": "action"
+    },
+    "303": {
+        "id": "daily object/000392212.jpg",
+        "prompt": "Blur the background to create a bokeh effect, making the bear-themed chocolate candy sled more prominent and removing any potential distractions.",
+        "edit_type": "background"
+    },
+    "34": {
+        "id": "for_add/000010208.jpg",
+        "prompt": "Add a person enjoying the view on the pier, walking near the railing with a relaxed posture, wearing casual clothing like a T-shirt and shorts.",
+        "edit_type": "add"
+    },
+    "1052": {
+        "id": "human/000268923.jpg",
+        "prompt": "Change the skin tone to a lighter shade.",
+        "edit_type": "adjust"
+    },
+    "502": {
+        "id": "transport/000210129.jpg",
+        "prompt": "Remove the transport object in the image.",
+        "edit_type": "remove"
+    },
+    "659": {
+        "id": "style/000278574.jpg",
+        "prompt": "Transfer the image into a stained-glass cathedral-window style.",
+        "edit_type": "style"
+    },
+    "294": {
+        "id": "daily object/000240448.jpg",
+        "prompt": "Change the indoor showroom environment in the picture to a cozy children's bedroom with colorful wall murals and plush carpets.",
+        "edit_type": "background"
+    },
+    "407": {
+        "id": "architecture/000352732.jpg",
+        "prompt": "Extract the architecture of the house in the image, focusing on the design and structure of the building, including the driveway, landscaping, and surrounding elements.",
+        "edit_type": "extract"
+    },
+    "47": {
+        "id": "for_add/000032566.jpg",
+        "prompt": "Add a small sailboat floating near the end of the dock in the background, with its sails partially filled with wind.",
+        "edit_type": "add"
+    },
+    "1100": {
+        "id": "transport/000289941.jpg",
+        "prompt": "Change the color of the bicycle to red.",
+        "edit_type": "adjust"
+    },
+    "563": {
+        "id": "animal/000035229.jpg",
+        "prompt": "Replace the bird in the image with a small rabbit.",
+        "edit_type": "replace"
+    },
+    "1015": {
+        "id": "human/000305698.jpg",
+        "prompt": "Raise the person's right arm.",
+        "edit_type": "action"
+    },
+    "578": {
+        "id": "animal/000342021.jpg",
+        "prompt": "Replace the tortoise in the image with a large rock.",
+        "edit_type": "replace"
+    },
+    "1112": {
+        "id": "architecture/000231250.jpg",
+        "prompt": "Change the wall color to a soft beige.",
+        "edit_type": "adjust"
+    },
+    "620": {
+        "id": "daily object/000027344.jpg",
+        "prompt": "Replace the teddy bear holding a heart in the image with a coffee mug.",
+        "edit_type": "replace"
+    },
+    "223": {
+        "id": "human/000352814.jpg",
+        "prompt": "Change the interior setting in the image from a historic or vintage room to a modern office environment.",
+        "edit_type": "background"
+    },
+    "72": {
+        "id": "for_add/000088945.jpg",
+        "prompt": "Add a coffee mug on the table in the foreground.",
+        "edit_type": "add"
+    },
+    "656": {
+        "id": "style/000278574.jpg",
+        "prompt": "Transfer the image into a loose, flowing watercolor-wash style.",
+        "edit_type": "style"
+    },
+    "634": {
+        "id": "daily object/000368863.jpg",
+        "prompt": "Replace the dragon made of pipe cleaners in the image with a bright yellow rubber duck. ",
+        "edit_type": "replace"
+    },
+    "562": {
+        "id": "animal/000020881.jpg",
+        "prompt": "Replace the husky in the image with a snow-covered pine tree.",
+        "edit_type": "replace"
+    },
+    "58": {
+        "id": "for_add/000081452.jpg",
+        "prompt": "Add a lifeguard standing on the ladder of the lifeguard tower. The lifeguard should be wearing a red lifeguard uniform, sunglasses, and have a whistle hanging around their neck. They should be looking out towards the ocean, with the lifeguard tower in the background.",
+        "edit_type": "add"
+    },
+    "1038": {
+        "id": "clothes/00000051.jpg",
+        "prompt": "Raise the person's left arm.",
+        "edit_type": "action"
+    },
+    "300": {
+        "id": "daily object/000340873.jpg",
+        "prompt": "Change the floral surface in the background to a simple white fabric.",
+        "edit_type": "background"
+    },
+    "106": {
+        "id": "for_add/000295872.jpg",
+        "prompt": "Add a small, charming gazebo in the foreground, slightly to the right of the path, near the park benches. The gazebo should match the wintery, serene atmosphere of the scene and be illuminated by a soft, warm light from the nearby street lamps.",
+        "edit_type": "add"
+    },
+    "653": {
+        "id": "style/000015317.jpg",
+        "prompt": "Transfer the image into a traditional ukiyo-e woodblock-print style.",
+        "edit_type": "style"
+    },
+    "485": {
+        "id": "animal/000140400.jpg",
+        "prompt": "Remove the bear in the center of the image, blending the background of trees and foliage to make it seamless.",
+        "edit_type": "remove"
+    },
+    "678": {
+        "id": "style/000280642.jpg",
+        "prompt": "Transfer the image into a dramatic charcoal-drawing style.",
+        "edit_type": "style"
+    },
+    "41": {
+        "id": "for_add/000015573.jpg",
+        "prompt": "Add a modern glass building in the background.",
+        "edit_type": "add"
+    },
+    "559": {
+        "id": "human/000336112.jpg",
+        "prompt": "Replace the woman in the image with a large potted plant sitting at the table.",
+        "edit_type": "replace"
+    },
+    "387": {
+        "id": "transport/000278321.jpg",
+        "prompt": "Extract the yacht and the water surrounding it from the image.",
+        "edit_type": "extract"
+    },
+    "417": {
+        "id": "daily object/000077522.jpg",
+        "prompt": "Extract the Adidas sneakers visible in the image.",
+        "edit_type": "extract"
+    },
+    "1104": {
+        "id": "architecture/000004499.jpg",
+        "prompt": "Change the building's wall color to light blue.",
+        "edit_type": "adjust"
+    },
+    "1075": {
+        "id": "animal/000216869.jpg",
+        "prompt": "Change the animal's fur color to a light brown shade.",
+        "edit_type": "adjust"
+    },
+    "1140": {
+        "id": "daily object/000340873.jpg",
+        "prompt": "Change the surface color of the object to a solid shade of blue.",
+        "edit_type": "adjust"
+    },
+    "441": {
+        "id": "clothes/00000024.jpg",
+        "prompt": "Extract the black T-shirt and the black sheer skirt worn by the person in the image",
+        "edit_type": "extract"
+    },
+    "46": {
+        "id": "for_add/000032566.jpg",
+        "prompt": "Add a seagull perched on the edge of the wooden pier.",
+        "edit_type": "add"
+    },
+    "475": {
+        "id": "human/000352814.jpg",
+        "prompt": "Remove the human sitting on the bench in the foreground.",
+        "edit_type": "remove"
+    },
+    "669": {
+        "id": "style/000278574.jpg",
+        "prompt": "Transfer the image into a vibrant graffiti street-mural style.",
+        "edit_type": "style"
+    },
+    "371": {
+        "id": "animal/000342021.jpg",
+        "prompt": "Extract the animal visible in the image, including its full body and surrounding fur texture, while preserving the background environment.",
+        "edit_type": "extract"
+    },
+    "262": {
+        "id": "transport/000369014.jpg",
+        "prompt": "Change the snowy environment surrounding the house to a beach setting with sand and palm trees.",
+        "edit_type": "background"
+    },
+    "586": {
+        "id": "transport/000156391.jpg",
+        "prompt": "Replace the yacht in the image with a hot air balloon floating just above the ocean surface.",
+        "edit_type": "replace"
+    },
+    "243": {
+        "id": "animal/000370801.jpg",
+        "prompt": "Change the green grass in the background to a sandy beach with the puppy playing near the water.",
+        "edit_type": "background"
+    },
+    "373": {
+        "id": "transport/000038819.jpg",
+        "prompt": "Extract the vintage blue car driving on the desert highway in the image",
+        "edit_type": "extract"
+    },
+    "1106": {
+        "id": "architecture/000050054.jpg",
+        "prompt": "Change the building's facade color to light grey.",
+        "edit_type": "adjust"
+    },
+    "1164": {
+        "id": "compose/objects/11.jpg",
+        "prompt": "Remove the basket of fruit on the coffee table, and change the color of the left armchair cushion to dark green.",
+        "edit_type": "compose"
+    },
+    "557": {
+        "id": "human/000307468.jpg",
+        "prompt": "Replace the child standing by the lake in the image with a large potted cactus.",
+        "edit_type": "replace"
+    },
+    "442": {
+        "id": "clothes/00000027.jpg",
+        "prompt": "Extract the black sweatshirt with \"OBEY\" and \"WORLDWIDE\" text worn by the person in the image.",
+        "edit_type": "extract"
+    },
+    "1062": {
+        "id": "human/000336112.jpg",
+        "prompt": "Change the person's shirt color to blue.",
+        "edit_type": "adjust"
+    },
+    "686": {
+        "id": "style/000280642.jpg",
+        "prompt": "Transfer the image into a high-contrast black-and-white film-noir style.",
+        "edit_type": "style"
+    },
+    "1078": {
+        "id": "animal/000294276.jpg",
+        "prompt": "Change the bird's blue feathers to a brighter shade of turquoise.",
+        "edit_type": "adjust"
+    },
+    "481": {
+        "id": "animal/000065685.jpg",
+        "prompt": "Remove the brown trout fish in the center of the image.",
+        "edit_type": "remove"
+    },
+    "454": {
+        "id": "clothes/00000063.jpg",
+        "prompt": "Extract the black Levi's T-shirt and high-waisted black denim shorts worn by the person in the image.",
+        "edit_type": "extract"
+    },
+    "90": {
+        "id": "for_add/000155856.jpg",
+        "prompt": "Add a small bicycle on the dirt path near the foreground of the image.",
+        "edit_type": "add"
+    },
+    "214": {
+        "id": "human/000281608.jpg",
+        "prompt": "Change the bar setting in the picture to a beach setting.",
+        "edit_type": "background"
+    },
+    "732": {
+        "id": "style/000308736.jpg",
+        "prompt": "Transfer the image into a folded-paper origami art style.",
+        "edit_type": "style"
+    },
+    "711": {
+        "id": "style/000308113.jpg",
+        "prompt": "Transfer the image into an ornate steampunk brass-engraving style.",
+        "edit_type": "style"
+    },
+    "1081": {
+        "id": "animal/000316504.jpg",
+        "prompt": "Change the animal's fur color to a solid brown.",
+        "edit_type": "adjust"
+    },
+    "483": {
+        "id": "animal/000098730.jpg",
+        "prompt": "Remove the dog wearing goggles sitting in the vehicle.",
+        "edit_type": "remove"
+    },
+    "1050": {
+        "id": "human/000094249.jpg",
+        "prompt": "Change the color of the person's shirt to blue.",
+        "edit_type": "adjust"
+    },
+    "100": {
+        "id": "for_add/000276222.jpg",
+        "prompt": "Add a person walking in the foreground near the broken wooden fence, dressed in winter clothing.",
+        "edit_type": "add"
+    },
+    "428": {
+        "id": "daily object/000306869.jpg",
+        "prompt": "Extract the flower vase from the image.",
+        "edit_type": "extract"
+    },
+    "1132": {
+        "id": "daily object/000128286.jpg",
+        "prompt": "Change the surface color of the object to light blue.",
+        "edit_type": "adjust"
+    },
+    "1085": {
+        "id": "transport/000045228.jpg",
+        "prompt": "Change the motorcycle's body color to matte black.",
+        "edit_type": "adjust"
+    },
+    "269": {
+        "id": "architecture/000189825.jpg",
+        "prompt": "Change the green field and trees in the background to a snowy landscape.",
+        "edit_type": "background"
+    },
+    "593": {
+        "id": "transport/000278113.jpg",
+        "prompt": "Replace the off-road desert vehicle in the image with a giant skateboard.",
+        "edit_type": "replace"
+    },
+    "1155": {
+        "id": "compose/human/6.jpg",
+        "prompt": "Remove the plant on the right side of the image, and adjust the man's suit to a darker shade of blue.",
+        "edit_type": "compose"
+    },
+    "507": {
+        "id": "transport/000278321.jpg",
+        "prompt": "Remove the luxury boat in the foreground.",
+        "edit_type": "remove"
+    },
+    "434": {
+        "id": "clothes/00000003.jpg",
+        "prompt": "Extract the black T-shirt worn by the person in the image",
+        "edit_type": "extract"
+    },
+    "533": {
+        "id": "daily object/000109381.jpg",
+        "prompt": "Remove the white baby onesie from the image.",
+        "edit_type": "remove"
+    },
+    "506": {
+        "id": "transport/000276156.jpg",
+        "prompt": "Remove the car in the foreground.",
+        "edit_type": "remove"
+    },
+    "682": {
+        "id": "style/000280642.jpg",
+        "prompt": "Transfer the image into a Lego-brick stop-motion diorama style.",
+        "edit_type": "style"
+    },
+    "493": {
+        "id": "animal/000316504.jpg",
+        "prompt": "Remove the deer sitting on the floor.",
+        "edit_type": "remove"
+    },
+    "408": {
+        "id": "architecture/000366472.jpg",
+        "prompt": "Extract the architecture (beach house) from the image",
+        "edit_type": "extract"
+    },
+    "1093": {
+        "id": "transport/000264803.jpg",
+        "prompt": "Change the boat's hull color to dark blue.",
+        "edit_type": "adjust"
+    },
+    "629": {
+        "id": "daily object/000278574.jpg",
+        "prompt": "Replace the green armchair in the image with a wooden bookshelf.",
+        "edit_type": "replace"
+    },
+    "660": {
+        "id": "style/000278574.jpg",
+        "prompt": "Transfer the image into a colourful ceramic mosaic-tile style.",
+        "edit_type": "style"
+    },
+    "1158": {
+        "id": "compose/human/9.jpg",
+        "prompt": "Remove the object on the table, and increase the brightness of the background.",
+        "edit_type": "compose"
+    },
+    "427": {
+        "id": "daily object/000299747.jpg",
+        "prompt": "Extract the yellow necktie worn in the image",
+        "edit_type": "extract"
+    },
+    "504": {
+        "id": "transport/000265699.jpg",
+        "prompt": "Remove the camper van in the image and make the surrounding forest more seamless.",
+        "edit_type": "remove"
+    },
+    "276": {
+        "id": "architecture/000303190.jpg",
+        "prompt": "Change the forested camping area to a snowy mountain landscape with a wooden cabin.",
+        "edit_type": "background"
+    },
+    "1036": {
+        "id": "clothes/00000045.jpg",
+        "prompt": "Make the person raise her right arm.",
+        "edit_type": "action"
+    },
+    "1107": {
+        "id": "architecture/000121353.jpg",
+        "prompt": "Change the color of the domes to a gradient of blue shades.",
+        "edit_type": "adjust"
+    },
+    "38": {
+        "id": "for_add/000015573.jpg",
+        "prompt": "Add a vintage car driving along the dirt path in the foreground of the image.",
+        "edit_type": "add"
+    },
+    "698": {
+        "id": "style/000308113.jpg",
+        "prompt": "Transfer the image into a dramatic charcoal-drawing style.",
+        "edit_type": "style"
+    },
+    "486": {
+        "id": "animal/000145087.jpg",
+        "prompt": "Remove the sheep in the foreground.",
+        "edit_type": "remove"
+    },
+    "1035": {
+        "id": "clothes/00000042.jpg",
+        "prompt": "Raise the person's left arm.",
+        "edit_type": "action"
+    },
+    "28": {
+        "id": "for_add/000002796.jpg",
+        "prompt": "Add a vintage car to the left side of the image, ensuring it blends naturally with the surroundings.",
+        "edit_type": "add"
+    },
+    "111": {
+        "id": "for_add/000313906.jpg",
+        "prompt": "Add a small wooden cabin to the left side of the image, near the tree, blending naturally with the landscape.",
+        "edit_type": "add"
+    },
+    "679": {
+        "id": "style/000280642.jpg",
+        "prompt": "Transfer the image into a stained-glass cathedral-window style.",
+        "edit_type": "style"
+    },
+    "733": {
+        "id": "style/000308736.jpg",
+        "prompt": "Transfer the image into a traditional ukiyo-e woodblock-print style.",
+        "edit_type": "style"
+    },
+    "727": {
+        "id": "style/000308736.jpg",
+        "prompt": "Transfer the image into a sepia-toned vintage-photograph style.",
+        "edit_type": "style"
+    },
+    "1108": {
+        "id": "architecture/000186995.jpg",
+        "prompt": "Change the building's exterior color to a soft beige.",
+        "edit_type": "adjust"
+    },
+    "472": {
+        "id": "human/000307468.jpg",
+        "prompt": "Remove the child standing near the edge of the water.",
+        "edit_type": "remove"
+    },
+    "526": {
+        "id": "architecture/000392550.jpg",
+        "prompt": "Remove the red telephone box in the foreground.",
+        "edit_type": "remove"
+    },
+    "390": {
+        "id": "transport/000351716.jpg",
+        "prompt": "Extract the trolley car present in the image.",
+        "edit_type": "extract"
+    },
+    "222": {
+        "id": "human/000336112.jpg",
+        "prompt": "Change the interior environment of the image from a classic and elegant room with green chairs and ornate rugs to a modern minimalist setting with sleek furniture and a neutral color palette.",
+        "edit_type": "background"
+    },
+    "229": {
+        "id": "animal/000065685.jpg",
+        "prompt": "Change the underwater environment surrounding the fish to a lush forest riverbank.",
+        "edit_type": "background"
+    },
+    "386": {
+        "id": "transport/000278113.jpg",
+        "prompt": "Extract the transport (the rusty off-road vehicle) from the image, including the surrounding environment (sand dunes and background).",
+        "edit_type": "extract"
+    },
+    "204": {
+        "id": "human/000005103.jpg",
+        "prompt": "Change the concert stage background to a beach setting.",
+        "edit_type": "background"
+    },
+    "1041": {
+        "id": "clothes/00000060.jpg",
+        "prompt": "Make the person raise her right arm.",
+        "edit_type": "action"
+    },
+    "24": {
+        "id": "for_add/000001314.jpg",
+        "prompt": "Add a person standing next to the open trunk of the car, looking inside, wearing casual clothes.",
+        "edit_type": "add"
+    },
+    "277": {
+        "id": "architecture/000332228.jpg",
+        "prompt": "Change the tent in the picture from the forest to the beach.",
+        "edit_type": "background"
+    },
+    "706": {
+        "id": "style/000308113.jpg",
+        "prompt": "Transfer the image into a high-contrast black-and-white film-noir style.",
+        "edit_type": "style"
+    },
+    "491": {
+        "id": "animal/000305887.jpg",
+        "prompt": "Remove the tiger in the water.",
+        "edit_type": "remove"
+    },
+    "496": {
+        "id": "transport/000060711.jpg",
+        "prompt": "Remove the utility vehicle (Polaris Ranger XP) from the snowy environment.",
+        "edit_type": "remove"
+    },
+    "539": {
+        "id": "daily object/000306869.jpg",
+        "prompt": "Remove the table and the flower vase in the foreground.",
+        "edit_type": "remove"
+    },
+    "1157": {
+        "id": "compose/human/8.jpg",
+        "prompt": "Remove the books from the shelf, and change the color of the couch pillow to blue.",
+        "edit_type": "compose"
+    },
+    "87": {
+        "id": "for_add/000153470.jpg",
+        "prompt": "Add a bicycle in the foreground near the flower bed in the center of the image.",
+        "edit_type": "add"
+    },
+    "675": {
+        "id": "style/000280642.jpg",
+        "prompt": "Transfer the image into a classic impasto oil-painting style.",
+        "edit_type": "style"
+    },
+    "221": {
+        "id": "human/000309116.jpg",
+        "prompt": "Change the railway tracks and vegetation in the background to an urban cityscape with skyscrapers.",
+        "edit_type": "background"
+    },
+    "339": {
+        "id": "human/000094249.jpg",
+        "prompt": "Extract the human figure in the image",
+        "edit_type": "extract"
+    },
+    "1024": {
+        "id": "clothes/00000009.jpg",
+        "prompt": "Raise the person's left arm.",
+        "edit_type": "action"
+    },
+    "1054": {
+        "id": "human/000281608.jpg",
+        "prompt": "Change the person's shirt color to blue.",
+        "edit_type": "adjust"
+    },
+    "410": {
+        "id": "architecture/000386778.jpg",
+        "prompt": "Extract the white building with a tower structure located on the left side of the image, situated on a beach during sunset.",
+        "edit_type": "extract"
+    },
+    "92": {
+        "id": "for_add/000155856.jpg",
+        "prompt": "Add Add a wooden a wooden bench along the path near the bench along the dirt path edge of the cliff, facing the on the right side of the image. ocean.",
+        "edit_type": "add"
+    },
+    "275": {
+        "id": "architecture/000294699.jpg",
+        "prompt": "Change the house in the picture to a coastal setting with a beach and ocean in the background.",
+        "edit_type": "background"
+    },
+    "265": {
+        "id": "architecture/000023390.jpg",
+        "prompt": "Change the cabin in the picture from the forest to the beach.",
+        "edit_type": "background"
+    },
+    "56": {
+        "id": "for_add/000081452.jpg",
+        "prompt": "Add a seagull flying above the lifeguard tower, near the clouds.",
+        "edit_type": "add"
+    },
+    "508": {
+        "id": "transport/000286634.jpg",
+        "prompt": "Remove the seaplane on the shoreline.",
+        "edit_type": "remove"
+    },
+    "264": {
+        "id": "architecture/000004499.jpg",
+        "prompt": "Change the environment around the house from the desert to a snowy mountain landscape.",
+        "edit_type": "background"
+    },
+    "1044": {
+        "id": "human/000005103.jpg",
+        "prompt": "Change the color of the suit to a deep blue.",
+        "edit_type": "adjust"
+    },
+    "603": {
+        "id": "architecture/000121353.jpg",
+        "prompt": "Replace the cathedral in the image with a giant stack of colorful macarons in the same setting and lighting.",
+        "edit_type": "replace"
+    },
+    "62": {
+        "id": "for_add/000084341.jpg",
+        "prompt": "Add a vintage bicycle in the foreground, towards the left side of the field.",
+        "edit_type": "add"
+    },
+    "558": {
+        "id": "human/000309116.jpg",
+        "prompt": "Replace the person in the image with a large red balloon.",
+        "edit_type": "replace"
+    },
+    "1065": {
+        "id": "animal/000020881.jpg",
+        "prompt": "Change the animal's fur color to a shade of brown.",
+        "edit_type": "adjust"
+    },
+    "384": {
+        "id": "transport/000270866.jpg",
+        "prompt": "Extract the helicopter flying over the waterfall in the image",
+        "edit_type": "extract"
+    },
+    "516": {
+        "id": "architecture/000186995.jpg",
+        "prompt": "Remove the colorful inflatable bounce house with slides in the foreground.",
+        "edit_type": "remove"
+    },
+    "623": {
+        "id": "daily object/000077522.jpg",
+        "prompt": "Replace the Adidas sneakers in the image with a stapler.",
+        "edit_type": "replace"
+    },
+    "380": {
+        "id": "transport/000159802.jpg",
+        "prompt": "Extract the red motorcycle parked on the concrete surface in the image.",
+        "edit_type": "extract"
+    },
+    "1012": {
+        "id": "human/000282756.jpg",
+        "prompt": "Raise the person's left arm.",
+        "edit_type": "action"
+    },
+    "257": {
+        "id": "transport/000278113.jpg",
+        "prompt": "Change the desert environment in the picture to a dense jungle setting with lush greenery and large trees.",
+        "edit_type": "background"
+    },
+    "661": {
+        "id": "style/000278574.jpg",
+        "prompt": "Transfer the image into an 8-bit pixel-art video-game style.",
+        "edit_type": "style"
+    },
+    "84": {
+        "id": "for_add/000153470.jpg",
+        "prompt": "Add a cat sitting on the bench in the foreground.",
+        "edit_type": "add"
+    },
+    "1053": {
+        "id": "human/000270466.jpg",
+        "prompt": "Change the person's shirt color to blue.",
+        "edit_type": "adjust"
+    },
+    "1135": {
+        "id": "daily object/000273675.jpg",
+        "prompt": "Change the frosting color to a light blue.",
+        "edit_type": "adjust"
+    },
+    "366": {
+        "id": "animal/000250140.jpg",
+        "prompt": "Extract the red and black bird perched on the tree branch in the image",
+        "edit_type": "extract"
+    },
+    "462": {
+        "id": "human/000094249.jpg",
+        "prompt": "Remove the human in the image.",
+        "edit_type": "remove"
+    },
+    "1016": {
+        "id": "human/000306019.jpg",
+        "prompt": "Make the person smile slightly.",
+        "edit_type": "action"
+    },
+    "1043": {
+        "id": "clothes/00000066.jpg",
+        "prompt": "Raise the person's right arm.",
+        "edit_type": "action"
+    },
+    "555": {
+        "id": "human/000305698.jpg",
+        "prompt": "Replace the person in the image with a large sunflower.",
+        "edit_type": "replace"
+    },
+    "684": {
+        "id": "style/000280642.jpg",
+        "prompt": "Transfer the image into a faceted low-poly 3-D render style.",
+        "edit_type": "style"
+    },
+    "419": {
+        "id": "daily object/000109381.jpg",
+        "prompt": "Extract the white baby onesie with the rainbow and \"baby\" text printed on it from the image",
+        "edit_type": "extract"
+    },
+    "717": {
+        "id": "style/000308736.jpg",
+        "prompt": "Transfer the image into a clean graphite pencil-sketch style.",
+        "edit_type": "style"
+    },
+    "1090": {
+        "id": "transport/000156391.jpg",
+        "prompt": "Change the yacht's hull color to navy blue.",
+        "edit_type": "adjust"
+    },
+    "260": {
+        "id": "transport/000289941.jpg",
+        "prompt": "Replace the lush, green landscape with a desert setting, such as sand dunes and sparse vegetation, while keeping the bicycle in the foreground.",
+        "edit_type": "background"
+    },
+    "729": {
+        "id": "style/000308736.jpg",
+        "prompt": "Transfer the image into a vibrant graffiti street-mural style.",
+        "edit_type": "style"
+    },
+    "1139": {
+        "id": "daily object/000306869.jpg",
+        "prompt": "Change the surface texture of the object to smooth.",
+        "edit_type": "adjust"
+    },
+    "600": {
+        "id": "architecture/000004499.jpg",
+        "prompt": "Replace the house in the image with a giant tree.",
+        "edit_type": "replace"
+    },
+    "230": {
+        "id": "animal/000069528.jpg",
+        "prompt": "Replace the rocky background with a lush green forest setting, while keeping the mountain goat and the yellow flowers in the foreground.",
+        "edit_type": "background"
+    },
+    "383": {
+        "id": "transport/000265699.jpg",
+        "prompt": "Extract the red transport vehicle located in the center of the image, including its full structure and surrounding details such as wheels and visible markings, while isolating it from the background environment.",
+        "edit_type": "extract"
+    },
+    "1133": {
+        "id": "daily object/000158674.jpg",
+        "prompt": "Change the color of the sliced steak to red.",
+        "edit_type": "adjust"
+    },
+    "81": {
+        "id": "for_add/000145048.jpg",
+        "prompt": "Add a person sitting on the white bench in the garden, enjoying the peaceful view.",
+        "edit_type": "add"
+    },
+    "413": {
+        "id": "daily object/000007834.jpg",
+        "prompt": "Extract the colorful patterned hat from the image.",
+        "edit_type": "extract"
+    },
+    "630": {
+        "id": "daily object/000299747.jpg",
+        "prompt": "Replace the the yellow necktie worn in the image with a black one.",
+        "edit_type": "replace"
+    },
+    "377": {
+        "id": "transport/000076056.jpg",
+        "prompt": "Extract the transport object(s) in the image.",
+        "edit_type": "extract"
+    },
+    "1099": {
+        "id": "transport/000286634.jpg",
+        "prompt": "Change the seaplane's color to red.",
+        "edit_type": "adjust"
+    },
+    "476": {
+        "id": "animal/000000265.jpg",
+        "prompt": "Remove the white rabbit sitting on the cabbage.",
+        "edit_type": "remove"
+    },
+    "571": {
+        "id": "animal/000216869.jpg",
+        "prompt": "Replace the bird in the image with a squirrel sitting on the branch.",
+        "edit_type": "replace"
+    },
+    "723": {
+        "id": "style/000308736.jpg",
+        "prompt": "Transfer the image into a hand-sculpted claymation style.",
+        "edit_type": "style"
+    },
+    "665": {
+        "id": "style/000278574.jpg",
+        "prompt": "Transfer the image into a neon-soaked cyberpunk poster style.",
+        "edit_type": "style"
+    },
+    "680": {
+        "id": "style/000280642.jpg",
+        "prompt": "Transfer the image into a colourful ceramic mosaic-tile style.",
+        "edit_type": "style"
+    },
+    "658": {
+        "id": "style/000278574.jpg",
+        "prompt": "Transfer the image into a dramatic charcoal-drawing style.",
+        "edit_type": "style"
+    },
+    "585": {
+        "id": "transport/000143869.jpg",
+        "prompt": "Replace the scooter in the image with a bicycle.",
+        "edit_type": "replace"
+    },
+    "392": {
+        "id": "transport/000370777.jpg",
+        "prompt": "Extract the black bicycle leaning against the brick wall in the image.",
+        "edit_type": "extract"
+    },
+    "1023": {
+        "id": "clothes/00000006.jpg",
+        "prompt": "Make the person raise her right arm.",
+        "edit_type": "action"
+    },
+    "536": {
+        "id": "daily object/000273675.jpg",
+        "prompt": "Remove the slices of cake on the wooden platter.",
+        "edit_type": "remove"
+    },
+    "590": {
+        "id": "transport/000265699.jpg",
+        "prompt": "Replace the camper van in the image with a hot air balloon.",
+        "edit_type": "replace"
+    },
+    "1019": {
+        "id": "human/000336112.jpg",
+        "prompt": "Raise the person's left arm.",
+        "edit_type": "action"
+    },
+    "708": {
+        "id": "style/000308113.jpg",
+        "prompt": "Transfer the image into a bold halftone pop-art comics style.",
+        "edit_type": "style"
+    },
+    "639": {
+        "id": "style/000015317.jpg",
+        "prompt": "Transfer the image into a stained-glass cathedral-window style.",
+        "edit_type": "style"
+    },
+    "614": {
+        "id": "architecture/000352732.jpg",
+        "prompt": "Replace the architecture in the image with a large tree.",
+        "edit_type": "replace"
+    },
+    "1032": {
+        "id": "clothes/00000033.jpg",
+        "prompt": "Make the person raise her right arm.",
+        "edit_type": "action"
+    },
+    "219": {
+        "id": "human/000306019.jpg",
+        "prompt": "Change the industrial stage background with metal scaffolding to a lush green forest environment.",
+        "edit_type": "background"
+    },
+    "1127": {
+        "id": "daily object/000073841.jpg",
+        "prompt": "Change the color of footprint in the sand to red.",
+        "edit_type": "adjust"
+    },
+    "1030": {
+        "id": "clothes/00000027.jpg",
+        "prompt": "Raise the personRaise the person's right's right arm.",
+        "edit_type": "action"
+    },
+    "80": {
+        "id": "for_add/000145048.jpg",
+        "prompt": "Add a red sports car in the center of the image, positioned facing towards the right.",
+        "edit_type": "add"
+    },
+    "1058": {
+        "id": "human/000305698.jpg",
+        "prompt": "Change the color of the dress to a soft pink.",
+        "edit_type": "adjust"
+    },
+    "286": {
+        "id": "daily object/000056963.jpg",
+        "prompt": "Place the pineapple on a sandy beach with the ocean in the background.",
+        "edit_type": "background"
+    },
+    "73": {
+        "id": "for_add/000088945.jpg",
+        "prompt": "Add a small wooden cabin next to the fence on the left side of the ice rink.",
+        "edit_type": "add"
+    },
+    "431": {
+        "id": "daily object/000368863.jpg",
+        "prompt": "Extract the red and green pipe cleaner dragon toy placed on the carpet in the image.",
+        "edit_type": "extract"
+    },
+    "1073": {
+        "id": "animal/000140400.jpg",
+        "prompt": "Change the animal's fur color to a solid shade of brown.",
+        "edit_type": "adjust"
+    },
+    "422": {
+        "id": "daily object/000158674.jpg",
+        "prompt": "Extract the sliced steak visible in the image.",
+        "edit_type": "extract"
+    },
+    "1148": {
+        "id": "compose/human/13.jpg",
+        "prompt": "Remove the phone from the man on the left, and change the color of the woman's sweater to light blue.",
+        "edit_type": "compose"
+    },
+    "627": {
+        "id": "daily object/000273675.jpg",
+        "prompt": "Replace the slices of cake in the image with slices of cookie.",
+        "edit_type": "replace"
+    },
+    "39": {
+        "id": "for_add/000015573.jpg",
+        "prompt": "Add a human figure standing near the center of the image, wearing casual clothes and looking towards the left.",
+        "edit_type": "add"
+    },
+    "553": {
+        "id": "human/000282756.jpg",
+        "prompt": "Replace the man in the image with a snowman sitting in the same pose, surrounded by the snowy garden environment.",
+        "edit_type": "replace"
+    },
+    "411": {
+        "id": "architecture/000392550.jpg",
+        "prompt": "Extract the red telephone booth in the image.",
+        "edit_type": "extract"
+    },
+    "720": {
+        "id": "style/000308736.jpg",
+        "prompt": "Transfer the image into a colourful ceramic mosaic-tile style.",
+        "edit_type": "style"
+    },
+    "480": {
+        "id": "animal/000047206.jpg",
+        "prompt": "Remove the butterfly in the foreground.",
+        "edit_type": "remove"
+    },
+    "521": {
+        "id": "architecture/000294699.jpg",
+        "prompt": "Remove the house in the image.",
+        "edit_type": "remove"
+    },
+    "615": {
+        "id": "architecture/000366472.jpg",
+        "prompt": "Replace the beach house in the image with a large camping tent.",
+        "edit_type": "replace"
+    },
+    "1049": {
+        "id": "human/000063961.jpg",
+        "prompt": "Change the person's shirt color to blue.",
+        "edit_type": "adjust"
+    },
+    "687": {
+        "id": "style/000280642.jpg",
+        "prompt": "Transfer the image into a sepia-toned vintage-photograph style.",
+        "edit_type": "style"
+    },
+    "233": {
+        "id": "animal/000140400.jpg",
+        "prompt": "Change the forest in the picture to a beach setting.",
+        "edit_type": "background"
+    },
+    "1084": {
+        "id": "transport/000038819.jpg",
+        "prompt": "Change the color of the vehicle to blue.",
+        "edit_type": "adjust"
+    },
+    "426": {
+        "id": "daily object/000278574.jpg",
+        "prompt": "Extract the green armchair visible in the image.",
+        "edit_type": "extract"
+    },
+    "509": {
+        "id": "transport/000289941.jpg",
+        "prompt": "Remove the bicycle from the image.",
+        "edit_type": "remove"
+    },
+    "1034": {
+        "id": "clothes/00000039.jpg",
+        "prompt": "Raise the person's left arm.",
+        "edit_type": "action"
+    },
+    "69": {
+        "id": "for_add/000088945.jpg",
+        "prompt": "Add a cat sitting on the table in the foreground.",
+        "edit_type": "add"
+    },
+    "358": {
+        "id": "animal/000065685.jpg",
+        "prompt": "Extract the brown trout fish from the image.",
+        "edit_type": "extract"
+    },
+    "270": {
+        "id": "architecture/000211771.jpg",
+        "prompt": "Add a flower garden surrounding the shed and change the trees in the background to blossom trees.",
+        "edit_type": "background"
+    },
+    "716": {
+        "id": "style/000308736.jpg",
+        "prompt": "Transfer the image into a loose, flowing watercolor-wash style.",
+        "edit_type": "style"
+    },
+    "468": {
+        "id": "human/000286285.jpg",
+        "prompt": "Remove the person from the image.",
+        "edit_type": "remove"
+    },
+    "36": {
+        "id": "for_add/000010208.jpg",
+        "prompt": "Add a small lighthouse at the end of the pier in the background.",
+        "edit_type": "add"
+    },
+    "1150": {
+        "id": "compose/human/15.jpg",
+        "prompt": "Remove the pink cushion on the ground, and change the drink in the woman's hand on the right to a green beverage.",
+        "edit_type": "compose"
+    },
+    "640": {
+        "id": "style/000015317.jpg",
+        "prompt": "Transfer the image into a colourful ceramic mosaic-tile style.",
+        "edit_type": "style"
+    },
+    "1110": {
+        "id": "architecture/000211771.jpg",
+        "prompt": "Change the wall color to a soft beige.",
+        "edit_type": "adjust"
+    },
+    "93": {
+        "id": "for_add/000155856.jpg",
+        "prompt": "Add a small lighthouse near the edge of the cliff, visible in the foreground near the path.",
+        "edit_type": "add"
+    },
+    "113": {
+        "id": "for_add/000320977.jpg",
+        "prompt": "Add a snowmobile near the right edge of the frozen lake, close to the tree line.",
+        "edit_type": "add"
+    },
+    "498": {
+        "id": "transport/000076056.jpg",
+        "prompt": "Remove the transport (trailer) in the image.",
+        "edit_type": "remove"
+    },
+    "351": {
+        "id": "human/000336112.jpg",
+        "prompt": "Extract the woman wearing the white lace wedding dress seated at the wooden table in the image.",
+        "edit_type": "extract"
+    },
+    "566": {
+        "id": "animal/000069528.jpg",
+        "prompt": "Replace the mountain goat in the image with a rabbit.",
+        "edit_type": "replace"
+    },
+    "705": {
+        "id": "style/000308113.jpg",
+        "prompt": "Transfer the image into a neon-soaked cyberpunk poster style.",
+        "edit_type": "style"
+    },
+    "297": {
+        "id": "daily object/000278574.jpg",
+        "prompt": "Change the wallpaper in the background to a modern geometric design.",
+        "edit_type": "background"
+    },
+    "1042": {
+        "id": "clothes/00000063.jpg",
+        "prompt": "Raise the person's left arm.",
+        "edit_type": "action"
+    },
+    "503": {
+        "id": "transport/000264803.jpg",
+        "prompt": "Remove the boat in the image.",
+        "edit_type": "remove"
+    },
+    "622": {
+        "id": "daily object/000073841.jpg",
+        "prompt": "Replace the footprint in the sand with a toothbrush.",
+        "edit_type": "replace"
+    },
+    "430": {
+        "id": "daily object/000363394.jpg",
+        "prompt": "Extract the armchair in the image",
+        "edit_type": "extract"
+    },
+    "704": {
+        "id": "style/000308113.jpg",
+        "prompt": "Transfer the image into a faceted low-poly 3-D render style.",
+        "edit_type": "style"
+    },
+    "611": {
+        "id": "architecture/000294699.jpg",
+        "prompt": "Replace the house in the image with a giant tree.",
+        "edit_type": "replace"
+    },
+    "282": {
+        "id": "architecture/000392550.jpg",
+        "prompt": "Change the lawn in the image to a sandy beach environment and replace the tree with a beach umbrella.",
+        "edit_type": "background"
+    },
+    "505": {
+        "id": "transport/000270866.jpg",
+        "prompt": "Remove the helicopter in the foreground.",
+        "edit_type": "remove"
+    },
+    "44": {
+        "id": "for_add/000018370.jpg",
+        "prompt": "Add a coffee mug on the table in the foreground.",
+        "edit_type": "add"
+    },
+    "473": {
+        "id": "human/000309116.jpg",
+        "prompt": "Remove the person in the image who is standing next to the fence by the railway track.",
+        "edit_type": "remove"
+    },
+    "224": {
+        "id": "animal/000000265.jpg",
+        "prompt": "Change the garden environment in the picture to a snowy landscape.",
+        "edit_type": "background"
+    },
+    "245": {
+        "id": "transport/000045228.jpg",
+        "prompt": "Add a dramatic sunset in the background with a desert landscape, including cacti and sand dunes, and replace the house with an old western-style wooden building to match the new environment.",
+        "edit_type": "background"
+    },
+    "396": {
+        "id": "architecture/000121353.jpg",
+        "prompt": "Extract the colorful domes and structure of the St. Basil's Cathedral architecture in the image",
+        "edit_type": "extract"
+    },
+    "455": {
+        "id": "clothes/00000066.jpg",
+        "prompt": "Extract the blue jacket worn by the person in the image",
+        "edit_type": "extract"
+    },
+    "291": {
+        "id": "daily object/000117413.jpg",
+        "prompt": "Change the background from the stone wall and plants to a sandy beach with ocean waves.",
+        "edit_type": "background"
+    },
+    "1154": {
+        "id": "compose/human/5.jpg",
+        "prompt": "Remove the smartphone from the man's hand, and adjust the woman's hair to appear more windblown.",
+        "edit_type": "compose"
+    },
+    "68": {
+        "id": "for_add/000088053.jpg",
+        "prompt": "Add a small wooden cabin with a thatched roof near the shoreline on the right side of the lake, partially surrounded by trees to blend naturally into the environment.",
+        "edit_type": "add"
+    },
+    "602": {
+        "id": "architecture/000050054.jpg",
+        "prompt": "Replace the modern house in the image with a medieval stone castle.",
+        "edit_type": "replace"
+    },
+    "394": {
+        "id": "architecture/000023390.jpg",
+        "prompt": "Extract the architecture from the image.",
+        "edit_type": "extract"
+    },
+    "389": {
+        "id": "transport/000289941.jpg",
+        "prompt": "Extract the road bicycle leaning against the gate in the image",
+        "edit_type": "extract"
+    },
+    "109": {
+        "id": "for_add/000313906.jpg",
+        "prompt": "Add a person sitting near the small structure in the center of the image, facing the scenic landscape as if enjoying the view.",
+        "edit_type": "add"
+    },
+    "77": {
+        "id": "for_add/000096740.jpg",
+        "prompt": "Add a cup of coffee on the table in the foreground.",
+        "edit_type": "add"
+    },
+    "244": {
+        "id": "transport/000038819.jpg",
+        "prompt": "Change the desert cliffs in the background to snow-capped mountains.",
+        "edit_type": "background"
+    },
+    "613": {
+        "id": "architecture/000332228.jpg",
+        "prompt": "Replace the tent in the image with a small wooden cabin.",
+        "edit_type": "replace"
+    },
+    "279": {
+        "id": "architecture/000366472.jpg",
+        "prompt": "Change the palm trees and sandy beach in the background to a snowy landscape with pine trees.",
+        "edit_type": "background"
+    },
+    "1070": {
+        "id": "animal/000069528.jpg",
+        "prompt": "Change the animal's fur color to a solid shade of brown.",
+        "edit_type": "adjust"
+    },
+    "414": {
+        "id": "daily object/000027344.jpg",
+        "prompt": "Extract the pop-up teddy bear holding a red heart from the greeting card in the image",
+        "edit_type": "extract"
+    },
+    "624": {
+        "id": "daily object/000117413.jpg",
+        "prompt": "Replace the brown suitcase in the image with a large potted plant.",
+        "edit_type": "replace"
+    },
+    "1138": {
+        "id": "daily object/000299747.jpg",
+        "prompt": "Change the surface texture of the object to a smooth metallic finish.",
+        "edit_type": "adjust"
+    },
+    "259": {
+        "id": "transport/000286634.jpg",
+        "prompt": "Change the beach setting in the picture to a bustling cityscape with skyscrapers in the background.",
+        "edit_type": "background"
+    },
+    "439": {
+        "id": "clothes/00000018.jpg",
+        "prompt": "Extract the black PUMA T-shirt and the orange zip-front skirt worn by the person in the image",
+        "edit_type": "extract"
+    },
+    "1096": {
+        "id": "transport/000276156.jpg",
+        "prompt": "Change the color of the vehicle to red.",
+        "edit_type": "adjust"
+    },
+    "1059": {
+        "id": "human/000306019.jpg",
+        "prompt": "Change the person's shirt color to blue.",
+        "edit_type": "adjust"
+    },
+    "1021": {
+        "id": "clothes/00000000.jpg",
+        "prompt": "Raise the person's right arm.",
+        "edit_type": "action"
+    },
+    "1114": {
+        "id": "architecture/000280642.jpg",
+        "prompt": "Change the wall color to a light gray.",
+        "edit_type": "adjust"
+    },
+    "114": {
+        "id": "for_add/000320977.jpg",
+        "prompt": "Add a person wearing a red winter coat and black snow pants walking across the snowy field near the center of the image.",
+        "edit_type": "add"
+    },
+    "574": {
+        "id": "animal/000294276.jpg",
+        "prompt": "Replace the blue bird in the image with a red fox.",
+        "edit_type": "replace"
+    },
+    "74": {
+        "id": "for_add/000096740.jpg",
+        "prompt": "Add a cat sitting on the floor near the bottom right corner.",
+        "edit_type": "add"
+    },
+    "1027": {
+        "id": "clothes/00000018.jpg",
+        "prompt": "Raise the person's right arm.",
+        "edit_type": "action"
+    },
+    "692": {
+        "id": "style/000280642.jpg",
+        "prompt": "Transfer the image into a folded-paper origami art style.",
+        "edit_type": "style"
+    },
+    "354": {
+        "id": "animal/000020881.jpg",
+        "prompt": "Extract the animal in the image, including its full body and fur details, while preserving the surrounding environment for context.",
+        "edit_type": "extract"
+    },
+    "268": {
+        "id": "architecture/000186995.jpg",
+        "prompt": "Change the backyard setting to a beachside environment",
+        "edit_type": "background"
+    },
+    "535": {
+        "id": "daily object/000240448.jpg",
+        "prompt": "Remove the wooden bunk bed in the image.",
+        "edit_type": "remove"
+    },
+    "251": {
+        "id": "transport/000159802.jpg",
+        "prompt": "Change the trees and grass in the background to a snowy mountain landscape.",
+        "edit_type": "background"
+    },
+    "650": {
+        "id": "style/000015317.jpg",
+        "prompt": "Transfer the image into a cyan blueprint technical-drawing style.",
+        "edit_type": "style"
+    },
+    "674": {
+        "id": "style/000278574.jpg",
+        "prompt": "Transfer the image into an embroidered cross-stitch textile style.",
+        "edit_type": "style"
+    },
+    "594": {
+        "id": "transport/000278321.jpg",
+        "prompt": "Replace the luxury boat in the image with a futuristic hovercraft.",
+        "edit_type": "replace"
+    },
+    "654": {
+        "id": "style/000015317.jpg",
+        "prompt": "Transfer the image into an embroidered cross-stitch textile style.",
+        "edit_type": "style"
+    },
+    "215": {
+        "id": "human/000282756.jpg",
+        "prompt": "Change the snowy garden and brick house background to a tropical beach setting with sand and palm trees.",
+        "edit_type": "background"
+    },
+    "565": {
+        "id": "animal/000065685.jpg",
+        "prompt": "Replace the fish in the image with a rubber duck.",
+        "edit_type": "replace"
+    },
+    "378": {
+        "id": "transport/000143869.jpg",
+        "prompt": "Extract the orange scooter from the image, including its full body, tires, and handlebar, while preserving the warm background atmosphere with floating autumn leaves.",
+        "edit_type": "extract"
+    },
+    "1092": {
+        "id": "transport/000210129.jpg",
+        "prompt": "Change the color of the vehicle to blue.",
+        "edit_type": "adjust"
+    },
+    "1168": {
+        "id": "compose/objects/2.jpg",
+        "prompt": "Remove the book on the table, and adjust the size of the vase to be larger.",
+        "edit_type": "compose"
+    },
+    "542": {
+        "id": "daily object/000392212.jpg",
+        "prompt": "Remove the candy cane sled with the gingerbread bear on top from the image.",
+        "edit_type": "remove"
+    },
+    "375": {
+        "id": "transport/000060711.jpg",
+        "prompt": "Extract the Polaris Ranger XP utility vehicle from the snowy outdoor scene in the image",
+        "edit_type": "extract"
+    },
+    "580": {
+        "id": "transport/000038819.jpg",
+        "prompt": "Replace the truck in the image with a bicycle.",
+        "edit_type": "replace"
+    },
+    "287": {
+        "id": "daily object/000073841.jpg",
+        "prompt": "Add a beach chair and umbrella next to the footprint in the sand.",
+        "edit_type": "background"
+    },
+    "579": {
+        "id": "animal/000370801.jpg",
+        "prompt": "Replace the dog in the image with a cat.",
+        "edit_type": "replace"
+    },
+    "1001": {
+        "id": "human/000005103.jpg",
+        "prompt": "Make the person lift his head slightly.",
+        "edit_type": "action"
+    },
+    "734": {
+        "id": "style/000308736.jpg",
+        "prompt": "Transfer the image into an embroidered cross-stitch textile style.",
+        "edit_type": "style"
+    },
+    "1010": {
+        "id": "human/000270466.jpg",
+        "prompt": "Raise the person's right arm.",
+        "edit_type": "action"
+    },
+    "1018": {
+        "id": "human/000309116.jpg",
+        "prompt": "Raise the person's right hand.",
+        "edit_type": "action"
+    },
+    "621": {
+        "id": "daily object/000056963.jpg",
+        "prompt": "Replace the pineapple in the image with a coffee mug.",
+        "edit_type": "replace"
+    },
+    "1098": {
+        "id": "transport/000278321.jpg",
+        "prompt": "Change the luxury boat color to red.",
+        "edit_type": "adjust"
+    },
+    "272": {
+        "id": "architecture/000231250.jpg",
+        "prompt": "Change the castle-like structure in the picture from a garden setting to a bustling cityscape with skyscrapers.",
+        "edit_type": "background"
+    },
+    "1086": {
+        "id": "transport/000060711.jpg",
+        "prompt": "Change the vehicle color to red.",
+        "edit_type": "adjust"
+    },
+    "66": {
+        "id": "for_add/000088053.jpg",
+        "prompt": "Add a small boat on the turquoise lake in the foreground.",
+        "edit_type": "add"
+    },
+    "280": {
+        "id": "architecture/000369231.jpg",
+        "prompt": "Change the caravan setting in the picture from the grassy park to a coastal beach environment.",
+        "edit_type": "background"
+    },
+    "89": {
+        "id": "for_add/000155856.jpg",
+        "prompt": "Add a lion sitting in the foreground of the image, near the center.",
+        "edit_type": "add"
+    },
+    "30": {
+        "id": "for_add/000002796.jpg",
+        "prompt": "Add a bicycle leaning against the fence on the right side of the path.",
+        "edit_type": "add"
+    },
+    "712": {
+        "id": "style/000308113.jpg",
+        "prompt": "Transfer the image into a folded-paper origami art style.",
+        "edit_type": "style"
+    },
+    "51": {
+        "id": "for_add/000060085.jpg",
+        "prompt": "Add a deer standing near the riverbank, slightly to the right, in the foreground of the image.",
+        "edit_type": "add"
+    },
+    "573": {
+        "id": "animal/000250140.jpg",
+        "prompt": "Replace the bird in the image with a squirrel.",
+        "edit_type": "replace"
+    },
+    "1129": {
+        "id": "daily object/000106052.jpg",
+        "prompt": "Change the plastic-wrapped cookies color to blue.",
+        "edit_type": "adjust"
+    },
+    "237": {
+        "id": "animal/000250140.jpg",
+        "prompt": "Change the green forest background in the picture to a beach setting with palm trees.",
+        "edit_type": "background"
+    },
+    "436": {
+        "id": "clothes/00000009.jpg",
+        "prompt": "Extract the navy blue T-shirt worn by the person in the image.",
+        "edit_type": "extract"
+    },
+    "288": {
+        "id": "daily object/000077522.jpg",
+        "prompt": "Change the traditional embroidered dress in the picture from a wedding setting to a casual garden setting.",
+        "edit_type": "background"
+    },
+    "456": {
+        "id": "human/000005103.jpg",
+        "prompt": "Remove the human standing prominently in the foreground.",
+        "edit_type": "remove"
+    },
+    "513": {
+        "id": "architecture/000004499.jpg",
+        "prompt": "Remove the house in the image, leaving only the natural landscape and the surrounding environment.",
+        "edit_type": "remove"
+    },
+    "699": {
+        "id": "style/000308113.jpg",
+        "prompt": "Transfer the image into a stained-glass cathedral-window style.",
+        "edit_type": "style"
+    },
+    "1131": {
+        "id": "daily object/000117413.jpg",
+        "prompt": "Change the surface texture of the object to a smooth, glossy finish.",
+        "edit_type": "adjust"
+    },
+    "662": {
+        "id": "style/000278574.jpg",
+        "prompt": "Transfer the image into a Lego-brick stop-motion diorama style.",
+        "edit_type": "style"
+    },
+    "470": {
+        "id": "human/000305698.jpg",
+        "prompt": "Remove the person in the blue dress walking through the sunflower field.",
+        "edit_type": "remove"
+    },
+    "490": {
+        "id": "animal/000294276.jpg",
+        "prompt": "Remove the blue bird perched on the green plant stem.",
+        "edit_type": "remove"
+    },
+    "25": {
+        "id": "for_add/000001314.jpg",
+        "prompt": "Add a vintage brown leather suitcase inside the car trunk.",
+        "edit_type": "add"
+    },
+    "552": {
+        "id": "human/000281608.jpg",
+        "prompt": "Replace the bartender in the image with a person holding a large bouquet of flowers.",
+        "edit_type": "replace"
+    },
+    "537": {
+        "id": "daily object/000278574.jpg",
+        "prompt": "Remove the green armchair in the image.",
+        "edit_type": "remove"
+    },
+    "256": {
+        "id": "transport/000276156.jpg",
+        "prompt": "Change the winding road and mountainous landscape in the background to a cityscape with skyscrapers and busy streets.",
+        "edit_type": "background"
+    },
+    "353": {
+        "id": "animal/000000265.jpg",
+        "prompt": "Extract the white rabbit sitting on the cabbage in the image.",
+        "edit_type": "extract"
+    },
+    "86": {
+        "id": "for_add/000153470.jpg",
+        "prompt": "Add a person walking in the foreground, near the middle of the path, wearing casual clothing.",
+        "edit_type": "add"
+    },
+    "54": {
+        "id": "for_add/000060085.jpg",
+        "prompt": "Add a wooden canoe drifting along the river in the foreground.",
+        "edit_type": "add"
+    },
+    "1115": {
+        "id": "architecture/000294699.jpg",
+        "prompt": "Change the wall color to a soft blue.",
+        "edit_type": "adjust"
+    },
+    "397": {
+        "id": "architecture/000186995.jpg",
+        "prompt": "Extract the inflatable castle structure with twin slides from the image, including its colorful red, yellow, and blue architectural features, and isolate it from the surrounding environment.",
+        "edit_type": "extract"
+    },
+    "596": {
+        "id": "transport/000289941.jpg",
+        "prompt": "Replace the bicycle in the image with a wooden rowboat.",
+        "edit_type": "replace"
+    },
+    "1141": {
+        "id": "daily object/000363394.jpg",
+        "prompt": "Change the armchair to red.",
+        "edit_type": "adjust"
+    },
+    "402": {
+        "id": "architecture/000276347.jpg",
+        "prompt": "Extract the architectural structures visible in the background of the image, including the building with white and grey surfaces and its windows, separating them cleanly from the sky and surrounding environment.",
+        "edit_type": "extract"
+    },
+    "82": {
+        "id": "for_add/000145048.jpg",
+        "prompt": "Add a bicycle leaning against the bench in the garden.",
+        "edit_type": "add"
+    },
+    "643": {
+        "id": "style/000015317.jpg",
+        "prompt": "Transfer the image into a hand-sculpted claymation style.",
+        "edit_type": "style"
+    },
+    "1087": {
+        "id": "transport/000071262.jpg",
+        "prompt": "Change the car color to red.",
+        "edit_type": "adjust"
+    },
+    "267": {
+        "id": "architecture/000121353.jpg",
+        "prompt": "Change the cathedral in the picture from a clear sky to a snowy environment.",
+        "edit_type": "background"
+    },
+    "657": {
+        "id": "style/000278574.jpg",
+        "prompt": "Transfer the image into a clean graphite pencil-sketch style.",
+        "edit_type": "style"
+    },
+    "240": {
+        "id": "animal/000308736.jpg",
+        "prompt": "Change the trees in the picture to a row of palm trees and adjust the ground to resemble a sandy beach environment.",
+        "edit_type": "background"
+    },
+    "348": {
+        "id": "human/000306019.jpg",
+        "prompt": "Extract the person wearing a black hoodie and a beanie in the image.",
+        "edit_type": "extract"
+    },
+    "1147": {
+        "id": "compose/human/12.jpg",
+        "prompt": "Remove the red gift bag from the image, and adjust the color of the woman's red dress to blue.",
+        "edit_type": "compose"
+    },
+    "1169": {
+        "id": "compose/objects/3.jpg",
+        "prompt": "Remove the object on the left side of the image, and increase the brightness of the central figure.",
+        "edit_type": "compose"
+    },
+    "696": {
+        "id": "style/000308113.jpg",
+        "prompt": "Transfer the image into a loose, flowing watercolor-wash style.",
+        "edit_type": "style"
+    },
+    "677": {
+        "id": "style/000280642.jpg",
+        "prompt": "Transfer the image into a clean graphite pencil-sketch style.",
+        "edit_type": "style"
+    },
+    "370": {
+        "id": "animal/000316504.jpg",
+        "prompt": "Extract the animal in the image.",
+        "edit_type": "extract"
+    },
+    "619": {
+        "id": "daily object/000007834.jpg",
+        "prompt": "Replace the hat in the image with a ceramic teapot.",
+        "edit_type": "replace"
+    },
+    "246": {
+        "id": "transport/000060711.jpg",
+        "prompt": "Change the building in the background from snow to a forest environment.",
+        "edit_type": "background"
+    },
+    "1160": {
+        "id": "compose/animal/5.jpg",
+        "prompt": "Remove the tree in the background on the left side of the image, and increase the size of the kangaroo in the foreground on the right.",
+        "edit_type": "compose"
+    },
+    "527": {
+        "id": "daily object/000007834.jpg",
+        "prompt": "Remove the colorful floral-patterned hat from the image.",
+        "edit_type": "remove"
+    },
+    "409": {
+        "id": "architecture/000369231.jpg",
+        "prompt": "Extract the caravan and attached awning structure from the image, including their full architectural details and immediate surrounding grass area.",
+        "edit_type": "extract"
+    },
+    "1071": {
+        "id": "animal/000098730.jpg",
+        "prompt": "Change the animal's fur color to a vibrant blue.",
+        "edit_type": "adjust"
+    },
+    "1143": {
+        "id": "daily object/000392212.jpg",
+        "prompt": "Change the the candy cane to blue.",
+        "edit_type": "adjust"
+    },
+    "393": {
+        "id": "architecture/000004499.jpg",
+        "prompt": "Extract the architecture of the building, focusing on the overall structure, roof, and surrounding landscape.",
+        "edit_type": "extract"
+    },
+    "479": {
+        "id": "animal/000035229.jpg",
+        "prompt": "Remove the bird in the foreground.",
+        "edit_type": "remove"
+    },
+    "689": {
+        "id": "style/000280642.jpg",
+        "prompt": "Transfer the image into a vibrant graffiti street-mural style.",
+        "edit_type": "style"
+    },
+    "1128": {
+        "id": "daily object/000077522.jpg",
+        "prompt": "Change the Adidas sneakers to matte black.",
+        "edit_type": "adjust"
+    },
+    "418": {
+        "id": "daily object/000106052.jpg",
+        "prompt": "Extract the plastic-wrapped cookies visible in the image.",
+        "edit_type": "extract"
+    },
+    "249": {
+        "id": "transport/000143869.jpg",
+        "prompt": "Change the autumn leaves to a sandy beach setting.",
+        "edit_type": "background"
+    },
+    "388": {
+        "id": "transport/000286634.jpg",
+        "prompt": "Extract the seaplane in the image.",
+        "edit_type": "extract"
+    },
+    "638": {
+        "id": "style/000015317.jpg",
+        "prompt": "Transfer the image into a dramatic charcoal-drawing style.",
+        "edit_type": "style"
+    },
+    "599": {
+        "id": "transport/000370777.jpg",
+        "prompt": "Replace the bicycle in the image with a wooden park bench.",
+        "edit_type": "replace"
+    },
+    "212": {
+        "id": "human/000268923.jpg",
+        "prompt": "Change the baseball field background in the image to a beach setting.",
+        "edit_type": "background"
+    },
+    "1167": {
+        "id": "compose/objects/15.jpg",
+        "prompt": "Remove the object in the foreground, and adjust the brightness of the background to make it lighter.",
+        "edit_type": "compose"
+    },
+    "258": {
+        "id": "transport/000278321.jpg",
+        "prompt": "Change the ocean water background to a tropical lagoon setting with clear turquoise water and vibrant coral reefs visible below the surface.",
+        "edit_type": "background"
+    },
+    "424": {
+        "id": "daily object/000273675.jpg",
+        "prompt": "Extract the wooden serving tray holding the dessert bars in the image.",
+        "edit_type": "extract"
+    },
+    "560": {
+        "id": "human/000352814.jpg",
+        "prompt": "Replace the person in the image with a vintage gramophone.",
+        "edit_type": "replace"
+    },
+    "465": {
+        "id": "human/000270466.jpg",
+        "prompt": "Remove the person in the foreground of the image.",
+        "edit_type": "remove"
+    },
+    "208": {
+        "id": "human/000033638.jpg",
+        "prompt": "Change the industrial or warehouse-like setting to a vibrant, green forest environment.",
+        "edit_type": "background"
+    },
+    "683": {
+        "id": "style/000280642.jpg",
+        "prompt": "Transfer the image into a hand-sculpted claymation style.",
+        "edit_type": "style"
+    },
+    "1145": {
+        "id": "compose/human/10.jpg",
+        "prompt": "Remove the laptop from the person's lap, and change the color of the couch to light blue.",
+        "edit_type": "compose"
+    },
+    "96": {
+        "id": "for_add/000236569.jpg",
+        "prompt": "Add a vintage-style clock on the wall between the two large golden-framed mirrors on the right side.",
+        "edit_type": "add"
+    },
+    "26": {
+        "id": "for_add/000001314.jpg",
+        "prompt": "Add a small vintage house in the background behind the car, ensuring it blends naturally with the scenery and lighting.",
+        "edit_type": "add"
+    },
+    "37": {
+        "id": "for_add/000015573.jpg",
+        "prompt": "Add a deer grazing in the field near the center of the image.",
+        "edit_type": "add"
+    },
+    "420": {
+        "id": "daily object/000117413.jpg",
+        "prompt": "Extract the vintage suitcase in the image, leaving the background and surrounding plants intact.",
+        "edit_type": "extract"
+    },
+    "582": {
+        "id": "transport/000060711.jpg",
+        "prompt": "Replace the Polaris Ranger XP with a flying drone in the image, while keeping the snowy environment intact.",
+        "edit_type": "replace"
+    },
+    "592": {
+        "id": "transport/000276156.jpg",
+        "prompt": "Replace the car in the image with a hot air balloon while keeping the mountainous road and sunset background intact.",
+        "edit_type": "replace"
+    },
+    "460": {
+        "id": "human/000033638.jpg",
+        "prompt": "Remove the person (a man in a black coat with a priest collar) from the image while maintaining the background environment (an industrial or abandoned setting with yellow walls).",
+        "edit_type": "remove"
+    },
+    "255": {
+        "id": "transport/000270866.jpg",
+        "prompt": "Change the waterfall and rocky cliff background to snowy mountains and icy landscape.",
+        "edit_type": "background"
+    },
+    "721": {
+        "id": "style/000308736.jpg",
+        "prompt": "Transfer the image into an 8-bit pixel-art video-game style.",
+        "edit_type": "style"
+    },
+    "67": {
+        "id": "for_add/000088053.jpg",
+        "prompt": "Add a small rowboat floating on the turquoise water in the center of the image.",
+        "edit_type": "add"
+    },
+    "569": {
+        "id": "animal/000140400.jpg",
+        "prompt": "Replace the animal in the image with a cat.",
+        "edit_type": "replace"
+    },
+    "447": {
+        "id": "clothes/00000042.jpg",
+        "prompt": "Extract the black T-shirt worn by the person in the image",
+        "edit_type": "extract"
+    },
+    "551": {
+        "id": "human/000270466.jpg",
+        "prompt": "Replace the man in the image with a woman.",
+        "edit_type": "replace"
+    },
+    "1064": {
+        "id": "animal/000000265.jpg",
+        "prompt": "Change the rabbit's fur color to light brown.",
+        "edit_type": "adjust"
+    },
+    "289": {
+        "id": "daily object/000106052.jpg",
+        "prompt": "Change the metal surface background to a wooden table background.",
+        "edit_type": "background"
+    },
+    "564": {
+        "id": "animal/000047206.jpg",
+        "prompt": "Replace the butterfly in the image with a squirrel.",
+        "edit_type": "replace"
+    },
+    "581": {
+        "id": "transport/000045228.jpg",
+        "prompt": "Replace the motorcycle in the image with a grand piano.",
+        "edit_type": "replace"
+    },
+    "606": {
+        "id": "architecture/000211771.jpg",
+        "prompt": "Replace the modern shed in the image with a vintage red British telephone booth, keeping the surrounding greenery and lighting consistent.",
+        "edit_type": "replace"
+    },
+    "1028": {
+        "id": "clothes/00000021.jpg",
+        "prompt": "Make the person raise her left arm.",
+        "edit_type": "action"
+    },
+    "352": {
+        "id": "human/000352814.jpg",
+        "prompt": "Extract the person in the image sitting at the table, dressed in a Victorian-era outfit with a dark coat and gloves.",
+        "edit_type": "extract"
+    },
+    "694": {
+        "id": "style/000280642.jpg",
+        "prompt": "Transfer the image into an embroidered cross-stitch textile style.",
+        "edit_type": "style"
+    },
+    "1061": {
+        "id": "human/000309116.jpg",
+        "prompt": "Change the person's shirt color to blue.",
+        "edit_type": "adjust"
+    },
+    "1076": {
+        "id": "animal/000222070.jpg",
+        "prompt": "Change the animal's fur color to a lighter shade.",
+        "edit_type": "adjust"
+    },
+    "1151": {
+        "id": "compose/human/2.jpg",
+        "prompt": "Remove the person on the left side of the image, and adjust the brightness of the background to make it appear lighter.",
+        "edit_type": "compose"
+    },
+    "302": {
+        "id": "daily object/000368863.jpg",
+        "prompt": "Change the carpet background to a lush forest setting.",
+        "edit_type": "background"
+    },
+    "406": {
+        "id": "architecture/000332228.jpg",
+        "prompt": "Extract the architectural structure visible in the background of the image, including all visible buildings and structural elements, while maintaining the surrounding environmental context such as the sky and nearby terrain.",
+        "edit_type": "extract"
+    },
+    "33": {
+        "id": "for_add/000010208.jpg",
+        "prompt": "Add a sailboat in the ocean to the left side of the image.",
+        "edit_type": "add"
+    },
+    "1069": {
+        "id": "animal/000065685.jpg",
+        "prompt": "Change the animal's fur color to a soft shade of brown.",
+        "edit_type": "adjust"
+    },
+    "543": {
+        "id": "human/000005103.jpg",
+        "prompt": "Replace the singer in the image with a person holding a colorful balloon.",
+        "edit_type": "replace"
+    },
+    "608": {
+        "id": "architecture/000231250.jpg",
+        "prompt": "Replace the central gothic-style archway architecture in the image with a large windmill.",
+        "edit_type": "replace"
+    },
+    "672": {
+        "id": "style/000278574.jpg",
+        "prompt": "Transfer the image into a folded-paper origami art style.",
+        "edit_type": "style"
+    },
+    "210": {
+        "id": "human/000094249.jpg",
+        "prompt": "Change the surroundings in the picture from the autumn foliage park setting to a snowy winter landscape with gently falling snow.",
+        "edit_type": "background"
+    },
+    "655": {
+        "id": "style/000278574.jpg",
+        "prompt": "Transfer the image into a classic impasto oil-painting style.",
+        "edit_type": "style"
+    },
+    "612": {
+        "id": "architecture/000303190.jpg",
+        "prompt": "Replace the wooden shelter structure in the image with a large wooden treehouse.",
+        "edit_type": "replace"
+    },
+    "429": {
+        "id": "daily object/000340873.jpg",
+        "prompt": "Extract the dress in the image.",
+        "edit_type": "extract"
+    },
+    "107": {
+        "id": "for_add/000313906.jpg",
+        "prompt": "Add a group of sheep grazing in the field near the trees on the right side of the image.",
+        "edit_type": "add"
+    },
+    "1122": {
+        "id": "architecture/000392550.jpg",
+        "prompt": "Change the color of the telephone booth to blue.",
+        "edit_type": "adjust"
+    },
+    "105": {
+        "id": "for_add/000295872.jpg",
+        "prompt": "Add a person walking a dog in the foreground of the snowy path, in a winter coat.",
+        "edit_type": "add"
+    },
+    "64": {
+        "id": "for_add/000084341.jpg",
+        "prompt": "Add a small stone cottage in the middle of the flower field, near the bottom center of the image.",
+        "edit_type": "add"
+    },
+    "252": {
+        "id": "transport/000210129.jpg",
+        "prompt": "Change the racetrack in the picture from an asphalt circuit to a desert track.",
+        "edit_type": "background"
+    },
+    "232": {
+        "id": "animal/000125904.jpg",
+        "prompt": "Change the street view visible in the car's side mirror to a beautiful coastal scene with a sandy beach and ocean waves.",
+        "edit_type": "background"
+    },
+    "1011": {
+        "id": "human/000281608.jpg",
+        "prompt": "Make the person lower his right arm.",
+        "edit_type": "action"
+    },
+    "511": {
+        "id": "transport/000369014.jpg",
+        "prompt": "Remove the ski lift chair and cables in the background.",
+        "edit_type": "remove"
+    },
+    "618": {
+        "id": "architecture/000403575.jpg",
+        "prompt": "Replace the architecture in the image with a large tree.",
+        "edit_type": "replace"
+    },
+    "604": {
+        "id": "architecture/000186995.jpg",
+        "prompt": "Replace the inflatable castle structure in the image with a modern skyscraper.",
+        "edit_type": "replace"
+    },
+    "464": {
+        "id": "human/000268923.jpg",
+        "prompt": "Remove the baseball player in the foreground wearing the red \"MIAMI\" uniform.",
+        "edit_type": "remove"
+    },
+    "1103": {
+        "id": "transport/000370777.jpg",
+        "prompt": "Change the bicycle's color to red.",
+        "edit_type": "adjust"
+    },
+    "403": {
+        "id": "architecture/000280642.jpg",
+        "prompt": "Extract the medieval stone castle structure including its walls and tower situated on the rocky terrain in the image.",
+        "edit_type": "extract"
+    },
+    "477": {
+        "id": "animal/000020881.jpg",
+        "prompt": "Remove the husky lying in the snow.",
+        "edit_type": "remove"
+    },
+    "1029": {
+        "id": "clothes/00000024.jpg",
+        "prompt": "Raise the person's left arm.",
+        "edit_type": "action"
+    },
+    "391": {
+        "id": "transport/000369014.jpg",
+        "prompt": "Extract the ski lift chairs suspended by cables in the image",
+        "edit_type": "extract"
+    },
+    "451": {
+        "id": "clothes/00000054.jpg",
+        "prompt": "Extract the metallic silver top worn by the person in the image.",
+        "edit_type": "extract"
+    },
+    "1007": {
+        "id": "human/000094249.jpg",
+        "prompt": "Make the person raise his left arm.",
+        "edit_type": "action"
+    },
+    "401": {
+        "id": "architecture/000231250.jpg",
+        "prompt": "Extract the architectural elements present in the image, focusing on any building structures, architectural features, or objects related to architecture.",
+        "edit_type": "extract"
+    },
+    "671": {
+        "id": "style/000278574.jpg",
+        "prompt": "Transfer the image into an ornate steampunk brass-engraving style.",
+        "edit_type": "style"
+    },
+    "32": {
+        "id": "for_add/000010208.jpg",
+        "prompt": "Add a group of dolphins swimming in the water near the center of the image.",
+        "edit_type": "add"
+    },
+    "1134": {
+        "id": "daily object/000240448.jpg",
+        "prompt": "Change the wooden bunk bed to blue.",
+        "edit_type": "adjust"
+    },
+    "529": {
+        "id": "daily object/000056963.jpg",
+        "prompt": "Remove the pineapple.",
+        "edit_type": "remove"
+    },
+    "635": {
+        "id": "style/000015317.jpg",
+        "prompt": "Transfer the image into a classic impasto oil-painting style.",
+        "edit_type": "style"
+    },
+    "374": {
+        "id": "transport/000045228.jpg",
+        "prompt": "Extract the motorcycle from the image.",
+        "edit_type": "extract"
+    },
+    "226": {
+        "id": "animal/000023506.jpg",
+        "prompt": "Change the background in the image from a lush, green forest and grassland to a snowy tundra landscape.",
+        "edit_type": "background"
+    },
+    "681": {
+        "id": "style/000280642.jpg",
+        "prompt": "Transfer the image into an 8-bit pixel-art video-game style.",
+        "edit_type": "style"
+    },
+    "416": {
+        "id": "daily object/000073841.jpg",
+        "prompt": "Extract the footprint in the sand from the image.",
+        "edit_type": "extract"
+    },
+    "1006": {
+        "id": "human/000063961.jpg",
+        "prompt": "Make the person lift his head slightly.",
+        "edit_type": "action"
+    },
+    "1055": {
+        "id": "human/000282756.jpg",
+        "prompt": "Change the color of the jacket to a deep blue.",
+        "edit_type": "adjust"
+    },
+    "567": {
+        "id": "animal/000098730.jpg",
+        "prompt": "Replace the dog in the image with a large pineapple while keeping it seated in the vehicle and wearing the same goggles.",
+        "edit_type": "replace"
+    },
+    "1153": {
+        "id": "compose/human/4.jpg",
+        "prompt": "Remove the object on the left side of the image, and adjust the lighting to brighten the right side.",
+        "edit_type": "compose"
+    },
+    "1130": {
+        "id": "daily object/000109381.jpg",
+        "prompt": "Change the surface color of the white baby onesie to red.",
+        "edit_type": "adjust"
+    },
+    "595": {
+        "id": "transport/000286634.jpg",
+        "prompt": "Replace the seaplane in the image with a hot air balloon.",
+        "edit_type": "replace"
+    },
+    "1031": {
+        "id": "clothes/00000030.jpg",
+        "prompt": "Raise the person's left arm.",
+        "edit_type": "action"
+    },
+    "453": {
+        "id": "clothes/00000060.jpg",
+        "prompt": "Extract the white long-sleeve shirt worn by the person in the image.",
+        "edit_type": "extract"
+    },
+    "31": {
+        "id": "for_add/000002796.jpg",
+        "prompt": "Add a modern skyscraper in the background, towering over the scene.",
+        "edit_type": "add"
+    },
+    "531": {
+        "id": "daily object/000077522.jpg",
+        "prompt": "Remove the Adidas sneakers in the foreground, maintaining the focus on the embroidered traditional outfit.",
+        "edit_type": "remove"
+    },
+    "355": {
+        "id": "animal/000023506.jpg",
+        "prompt": "Extract the animal present in the image.",
+        "edit_type": "extract"
+    },
+    "1101": {
+        "id": "transport/000351716.jpg",
+        "prompt": "Change the trolley car's color to blue.",
+        "edit_type": "adjust"
+    },
+    "588": {
+        "id": "transport/000210129.jpg",
+        "prompt": "Replace the race car in the image with a vintage bicycle.",
+        "edit_type": "replace"
+    },
+    "1033": {
+        "id": "clothes/00000036.jpg",
+        "prompt": "Raise the person's left arm.",
+        "edit_type": "action"
+    },
+    "467": {
+        "id": "human/000282756.jpg",
+        "prompt": "Remove the human figure from the image, ensuring the background is restored to appear natural and seamless.",
+        "edit_type": "remove"
+    },
+    "1088": {
+        "id": "transport/000076056.jpg",
+        "prompt": "Change the color of the vehicle to red.",
+        "edit_type": "adjust"
+    },
+    "663": {
+        "id": "style/000278574.jpg",
+        "prompt": "Transfer the image into a hand-sculpted claymation style.",
+        "edit_type": "style"
+    },
+    "1095": {
+        "id": "transport/000270866.jpg",
+        "prompt": "Change the color of the helicopter to red.",
+        "edit_type": "adjust"
+    },
+    "235": {
+        "id": "animal/000216869.jpg",
+        "prompt": "Change the background from a clear blue sky with bare branches to a sunset sky over a lush forest.",
+        "edit_type": "background"
+    },
+    "1083": {
+        "id": "animal/000370801.jpg",
+        "prompt": "Change the dog's fur color to a soft brown.",
+        "edit_type": "adjust"
+    },
+    "1074": {
+        "id": "animal/000145087.jpg",
+        "prompt": "Change the sheep's wool texture to a smoother, softer appearance.",
+        "edit_type": "adjust"
+    },
+    "1091": {
+        "id": "transport/000159802.jpg",
+        "prompt": "Change the color of the motorcycle to matte black.",
+        "edit_type": "adjust"
+    },
+    "76": {
+        "id": "for_add/000096740.jpg",
+        "prompt": "Add a person sitting on the couch near the bed, dressed casually, looking relaxed.",
+        "edit_type": "add"
+    },
+    "415": {
+        "id": "daily object/000056963.jpg",
+        "prompt": "Extract the pineapple visible in the image.",
+        "edit_type": "extract"
+    },
+    "530": {
+        "id": "daily object/000073841.jpg",
+        "prompt": "Remove the footprint in the sand.",
+        "edit_type": "remove"
+    },
+    "494": {
+        "id": "animal/000342021.jpg",
+        "prompt": "Remove the animal in the foreground and blend the surrounding background elements to restore the scene natural appearance.",
+        "edit_type": "remove"
+    },
+    "421": {
+        "id": "daily object/000128286.jpg",
+        "prompt": "Extract the coffee mug visible in the image.",
+        "edit_type": "extract"
+    },
+    "597": {
+        "id": "transport/000351716.jpg",
+        "prompt": "Replace the red trolley car in the image with a giant vintage radio, keeping it on the same train tracks in the urban environment.",
+        "edit_type": "replace"
+    },
+    "285": {
+        "id": "daily object/000027344.jpg",
+        "prompt": "Change the background color from black to a light blue sky with fluffy white clouds.",
+        "edit_type": "background"
+    },
+    "668": {
+        "id": "style/000278574.jpg",
+        "prompt": "Transfer the image into a bold halftone pop-art comics style.",
+        "edit_type": "style"
+    },
+    "290": {
+        "id": "daily object/000109381.jpg",
+        "prompt": "Change the wooden background in the image to a grassy field.",
+        "edit_type": "background"
+    },
+    "645": {
+        "id": "style/000015317.jpg",
+        "prompt": "Transfer the image into a neon-soaked cyberpunk poster style.",
+        "edit_type": "style"
+    },
+    "515": {
+        "id": "architecture/000121353.jpg",
+        "prompt": "Remove the colorful cathedral with onion-shaped domes in the center of the image.",
+        "edit_type": "remove"
+    },
+    "1067": {
+        "id": "animal/000035229.jpg",
+        "prompt": "Change the fur color to a light brown.",
+        "edit_type": "adjust"
+    },
+    "364": {
+        "id": "animal/000216869.jpg",
+        "prompt": "Extract the animals present in the image.",
+        "edit_type": "extract"
+    },
+    "642": {
+        "id": "style/000015317.jpg",
+        "prompt": "Transfer the image into a Lego-brick stop-motion diorama style.",
+        "edit_type": "style"
+    },
+    "649": {
+        "id": "style/000015317.jpg",
+        "prompt": "Transfer the image into a vibrant graffiti street-mural style.",
+        "edit_type": "style"
+    },
+    "29": {
+        "id": "for_add/000002796.jpg",
+        "prompt": "Add a person walking along the dirt path towards the house in the middle ground.",
+        "edit_type": "add"
+    },
+    "523": {
+        "id": "architecture/000332228.jpg",
+        "prompt": "Remove the tent in the center of the image.",
+        "edit_type": "remove"
+    },
+    "70": {
+        "id": "for_add/000088945.jpg",
+        "prompt": "Add a person riding a skateboard on the ice rink in the foreground, near the center of the image.",
+        "edit_type": "add"
+    },
+    "432": {
+        "id": "daily object/000392212.jpg",
+        "prompt": "Extract the chocolate bar sleigh with candy cane runners and teddy bear cookie rider from the image.",
+        "edit_type": "extract"
+    },
+    "514": {
+        "id": "architecture/000050054.jpg",
+        "prompt": "Remove the modern house in the center of the image, including the pool and patio area, and seamlessly blend the background with surrounding trees, vegetation, and landscape.",
+        "edit_type": "remove"
+    },
+    "724": {
+        "id": "style/000308736.jpg",
+        "prompt": "Transfer the image into a faceted low-poly 3-D render style.",
+        "edit_type": "style"
+    },
+    "637": {
+        "id": "style/000015317.jpg",
+        "prompt": "Transfer the image into a clean graphite pencil-sketch style.",
+        "edit_type": "style"
+    },
+    "115": {
+        "id": "for_add/000320977.jpg",
+        "prompt": "Add a coffee cup on the table in the foreground.",
+        "edit_type": "add"
+    },
+    "1048": {
+        "id": "human/000033638.jpg",
+        "prompt": "Change the priest's coat color to dark brown.",
+        "edit_type": "adjust"
+    },
+    "333": {
+        "id": "human/000005103.jpg",
+        "prompt": "Extract the human figure standing in the image along with their clothing and visible accessories, separating them from the background environment.",
+        "edit_type": "extract"
+    },
+    "730": {
+        "id": "style/000308736.jpg",
+        "prompt": "Transfer the image into a cyan blueprint technical-drawing style.",
+        "edit_type": "style"
+    },
+    "576": {
+        "id": "animal/000308736.jpg",
+        "prompt": "Replace the horse in the image with a cat.",
+        "edit_type": "replace"
+    },
+    "116": {
+        "id": "for_add/000320977.jpg",
+        "prompt": "Add a small classical pavilion on the right side of the image near the horizon.",
+        "edit_type": "add"
+    },
+    "1022": {
+        "id": "clothes/00000003.jpg",
+        "prompt": "Make the person raise her right arm.",
+        "edit_type": "action"
+    },
+    "701": {
+        "id": "style/000308113.jpg",
+        "prompt": "Transfer the image into an 8-bit pixel-art video-game style.",
+        "edit_type": "style"
+    },
+    "461": {
+        "id": "human/000063961.jpg",
+        "prompt": "Remove the person from the image while maintaining the background elements, such as lighting, stage, and microphone stand. Ensure that the background seamlessly fills in the space where the person was.",
+        "edit_type": "remove"
+    },
+    "1102": {
+        "id": "transport/000369014.jpg",
+        "prompt": "Change the ski lift chair's color to red.",
+        "edit_type": "adjust"
+    },
+    "497": {
+        "id": "transport/000071262.jpg",
+        "prompt": "Remove the red streetcar (tram) in the foreground of the image.",
+        "edit_type": "remove"
+    },
+    "1121": {
+        "id": "architecture/000386778.jpg",
+        "prompt": "Change the roof color to a darker shade of gray.",
+        "edit_type": "adjust"
+    },
+    "1118": {
+        "id": "architecture/000352732.jpg",
+        "prompt": "Change the color of the house's front door to navy blue.",
+        "edit_type": "adjust"
+    },
+    "1046": {
+        "id": "human/000015317.jpg",
+        "prompt": "Change the suit color to navy blue.",
+        "edit_type": "adjust"
+    },
+    "301": {
+        "id": "daily object/000363394.jpg",
+        "prompt": "Change the gravel ground in the foreground to a wooden deck setting.",
+        "edit_type": "background"
+    },
+    "88": {
+        "id": "for_add/000153470.jpg",
+        "prompt": "Add a modern skyscraper to the background.",
+        "edit_type": "add"
+    },
+    "437": {
+        "id": "clothes/00000012.jpg",
+        "prompt": "Extract the white T-shirt with a red \"Levi's\" logo worn by the person in the image.",
+        "edit_type": "extract"
+    },
+    "452": {
+        "id": "clothes/00000057.jpg",
+        "prompt": "Extract the navy blue Adidas bodysuit with short sleeves and light blue shoulder stripes worn by the person in the image",
+        "edit_type": "extract"
+    },
+    "457": {
+        "id": "human/000013135.jpg",
+        "prompt": "Remove the human child bending over the pumpkin in the foreground.",
+        "edit_type": "remove"
+    },
+    "726": {
+        "id": "style/000308736.jpg",
+        "prompt": "Transfer the image into a high-contrast black-and-white film-noir style.",
+        "edit_type": "style"
+    },
+    "108": {
+        "id": "for_add/000313906.jpg",
+        "prompt": "Add a bicycle near the fence on the left side of the image.",
+        "edit_type": "add"
+    },
+    "278": {
+        "id": "architecture/000352732.jpg",
+        "prompt": "Change the greenery and lawn around the house in the picture to a sandy beach setting with palm trees.",
+        "edit_type": "background"
+    },
+    "1117": {
+        "id": "architecture/000332228.jpg",
+        "prompt": "Change the building's exterior color to a light beige.",
+        "edit_type": "adjust"
+    },
+    "359": {
+        "id": "animal/000069528.jpg",
+        "prompt": "Extract the animal (young mountain goat) in the image, including its full body and horns, while excluding the background environment such as rocks, plants, and flowers.",
+        "edit_type": "extract"
+    },
+    "213": {
+        "id": "human/000270466.jpg",
+        "prompt": "Change the car garage environment in the picture to a beach setting.",
+        "edit_type": "background"
+    },
+    "218": {
+        "id": "human/000305698.jpg",
+        "prompt": "Replace the sunflower field in the image with a lavender field.",
+        "edit_type": "background"
+    },
+    "546": {
+        "id": "human/000018060.jpg",
+        "prompt": "Replace the human in the image with a large, colorful beach ball.",
+        "edit_type": "replace"
+    },
+    "482": {
+        "id": "animal/000069528.jpg",
+        "prompt": "Remove the animal from the image.",
+        "edit_type": "remove"
+    },
+    "379": {
+        "id": "transport/000156391.jpg",
+        "prompt": "Extract the yacht in the image.",
+        "edit_type": "extract"
+    },
+    "1113": {
+        "id": "architecture/000276347.jpg",
+        "prompt": "Change the building's wall color to light gray.",
+        "edit_type": "adjust"
+    },
+    "1172": {
+        "id": "compose/objects/8.jpg",
+        "prompt": "Remove the object on the left side of the image, and adjust the brightness of the background.",
+        "edit_type": "compose"
+    },
+    "601": {
+        "id": "architecture/000023390.jpg",
+        "prompt": "Replace the wooden cabin in the image with a large camping tent.",
+        "edit_type": "replace"
+    },
+    "1119": {
+        "id": "architecture/000366472.jpg",
+        "prompt": "Change the wall color to a light blue.",
+        "edit_type": "adjust"
+    },
+    "296": {
+        "id": "daily object/000276684.jpg",
+        "prompt": "Change the cloudy and foggy hilltop background to a bright, sunny beach environment.",
+        "edit_type": "background"
+    },
+    "350": {
+        "id": "human/000309116.jpg",
+        "prompt": "Extract the man wearing a light blue plaid suit, red-striped tie, and glasses standing in front of the railway track.",
+        "edit_type": "extract"
+    },
+    "607": {
+        "id": "architecture/000231068.jpg",
+        "prompt": "Replace the log cabin in the image with a large treehouse.",
+        "edit_type": "replace"
+    },
+    "398": {
+        "id": "architecture/000189825.jpg",
+        "prompt": "Extract the yurt in the image.",
+        "edit_type": "extract"
+    },
+    "495": {
+        "id": "transport/000038819.jpg",
+        "prompt": "Remove the car driving on the road in the foreground.",
+        "edit_type": "remove"
+    },
+    "1120": {
+        "id": "architecture/000369231.jpg",
+        "prompt": "Change the building's facade color to a lighter shade of blue.",
+        "edit_type": "adjust"
+    },
+    "1146": {
+        "id": "compose/human/11.jpg",
+        "prompt": "Remove the plant on the left side of the image, and increase the brightness of the person in the center.",
+        "edit_type": "compose"
+    },
+    "241": {
+        "id": "animal/000316504.jpg",
+        "prompt": "Change the environment in the picture from the snow to a green forest in spring.",
+        "edit_type": "background"
+    },
+    "489": {
+        "id": "animal/000250140.jpg",
+        "prompt": "Remove the bird from the image and replace the background with a natural, unaltered scene of trees and foliage.",
+        "edit_type": "remove"
+    },
+    "1020": {
+        "id": "human/000352814.jpg",
+        "prompt": "Make the person turn his head slightly to the right.",
+        "edit_type": "action"
+    },
+    "263": {
+        "id": "transport/000370777.jpg",
+        "prompt": "Change the brick wall background in the picture to a lush green garden.",
+        "edit_type": "background"
+    },
+    "616": {
+        "id": "architecture/000369231.jpg",
+        "prompt": "Replace the caravan in the image with a small wooden cabin.",
+        "edit_type": "replace"
+    },
+    "478": {
+        "id": "animal/000023506.jpg",
+        "prompt": "Remove the animal from the image.",
+        "edit_type": "remove"
+    },
+    "1079": {
+        "id": "animal/000305887.jpg",
+        "prompt": "Change the tiger's fur color to a deeper orange.",
+        "edit_type": "adjust"
+    },
+    "206": {
+        "id": "human/000015317.jpg",
+        "prompt": "Change the construction site in the picture to a beach scene.",
+        "edit_type": "background"
+    },
+    "357": {
+        "id": "animal/000047206.jpg",
+        "prompt": "Extract the butterfly in the image",
+        "edit_type": "extract"
+    },
+    "1137": {
+        "id": "daily object/000278574.jpg",
+        "prompt": "Change the chair fabric color to deep blue.",
+        "edit_type": "adjust"
+    },
+    "538": {
+        "id": "daily object/000299747.jpg",
+        "prompt": "Remove the suit jacket and tie combination in the image.",
+        "edit_type": "remove"
+    },
+    "412": {
+        "id": "architecture/000403575.jpg",
+        "prompt": "Extract the architectural elements in the image.",
+        "edit_type": "extract"
+    },
+    "517": {
+        "id": "architecture/000189825.jpg",
+        "prompt": "Remove the yurt in the background.",
+        "edit_type": "remove"
+    },
+    "273": {
+        "id": "architecture/000276347.jpg",
+        "prompt": "Change the snowy forest environment to a springtime forest with budding trees and wildflowers.",
+        "edit_type": "background"
+    },
+    "446": {
+        "id": "clothes/00000039.jpg",
+        "prompt": "Extract the black blouse worn by the person in the image.",
+        "edit_type": "extract"
+    },
+    "85": {
+        "id": "for_add/000153470.jpg",
+        "prompt": "Add a bicycle parked near the bench in the foreground.",
+        "edit_type": "add"
+    },
+    "227": {
+        "id": "animal/000035229.jpg",
+        "prompt": "Change the background of the image from rotting apples on the ground to a lush green garden with vibrant flowers.",
+        "edit_type": "background"
+    },
+    "591": {
+        "id": "transport/000270866.jpg",
+        "prompt": "Replace the helicopter in the image with a bicycle.",
+        "edit_type": "replace"
+    },
+    "664": {
+        "id": "style/000278574.jpg",
+        "prompt": "Transfer the image into a faceted low-poly 3-D render style.",
+        "edit_type": "style"
+    },
+    "707": {
+        "id": "style/000308113.jpg",
+        "prompt": "Transfer the image into a sepia-toned vintage-photograph style.",
+        "edit_type": "style"
+    },
+    "438": {
+        "id": "clothes/00000015.jpg",
+        "prompt": "Extract the purple Adidas T-shirt worn by the person in the image.",
+        "edit_type": "extract"
+    },
+    "547": {
+        "id": "human/000033638.jpg",
+        "prompt": "Replace the priest in the image with a large cactus plant.",
+        "edit_type": "replace"
+    },
+    "404": {
+        "id": "architecture/000294699.jpg",
+        "prompt": "Extract the architecture elements in the image",
+        "edit_type": "extract"
+    },
+    "112": {
+        "id": "for_add/000320977.jpg",
+        "prompt": "Add a deer standing near the edge of the snow-covered forest on the right side of the image, close to the leaning tree.",
+        "edit_type": "add"
+    },
+    "60": {
+        "id": "for_add/000081452.jpg",
+        "prompt": "Add a modern beachside caf building near the lifeguard tower on the right side of the image.",
+        "edit_type": "add"
+    },
+    "556": {
+        "id": "human/000306019.jpg",
+        "prompt": "Replace the person in the image with a large, colorful balloon.",
+        "edit_type": "replace"
+    },
+    "512": {
+        "id": "transport/000370777.jpg",
+        "prompt": "Remove the bicycle in the foreground.",
+        "edit_type": "remove"
+    },
+    "697": {
+        "id": "style/000308113.jpg",
+        "prompt": "Transfer the image into a clean graphite pencil-sketch style.",
+        "edit_type": "style"
+    },
+    "676": {
+        "id": "style/000280642.jpg",
+        "prompt": "Transfer the image into a loose, flowing watercolor-wash style.",
+        "edit_type": "style"
+    },
+    "343": {
+        "id": "human/000281608.jpg",
+        "prompt": "Extract the human figure, specifically the bartender wearing the floral shirt and hat, along with the cocktail he is preparing.",
+        "edit_type": "extract"
+    },
+    "731": {
+        "id": "style/000308736.jpg",
+        "prompt": "Transfer the image into an ornate steampunk brass-engraving style.",
+        "edit_type": "style"
+    },
+    "75": {
+        "id": "for_add/000096740.jpg",
+        "prompt": "Add a small vintage bicycle leaning against the wooden panel wall near the lamp.",
+        "edit_type": "add"
+    },
+    "399": {
+        "id": "architecture/000211771.jpg",
+        "prompt": "Extract the architectural elements from the image.",
+        "edit_type": "extract"
+    },
+    "1089": {
+        "id": "transport/000143869.jpg",
+        "prompt": "Change the color of the orange scooter to red.",
+        "edit_type": "adjust"
+    },
+    "589": {
+        "id": "transport/000264803.jpg",
+        "prompt": "Replace the sailboat in the image with a hot air balloon floating above the water.",
+        "edit_type": "replace"
+    },
+    "443": {
+        "id": "clothes/00000030.jpg",
+        "prompt": "Extract the black blouse worn by the person in the image.",
+        "edit_type": "extract"
+    },
+    "27": {
+        "id": "for_add/000002796.jpg",
+        "prompt": "Add a dog standing near the fence in the foreground, close to the road.",
+        "edit_type": "add"
+    },
+    "609": {
+        "id": "architecture/000276347.jpg",
+        "prompt": "Replace the two houses in the image with futuristic, metallic structures.",
+        "edit_type": "replace"
+    },
+    "695": {
+        "id": "style/000308113.jpg",
+        "prompt": "Transfer the image into a classic impasto oil-painting style.",
+        "edit_type": "style"
+    },
+    "575": {
+        "id": "animal/000305887.jpg",
+        "prompt": "Replace the tiger in the image with a deer.",
+        "edit_type": "replace"
+    },
+    "95": {
+        "id": "for_add/000236569.jpg",
+        "prompt": "Add a vintage car parked near the edge of the circular dance floor to give the event a luxurious and classic touch.",
+        "edit_type": "add"
+    },
+    "459": {
+        "id": "human/000018060.jpg",
+        "prompt": "Remove the child wearing the firefighter uniform from the image.",
+        "edit_type": "remove"
+    },
+    "1063": {
+        "id": "human/000352814.jpg",
+        "prompt": "Change the coat color to deep navy blue.",
+        "edit_type": "adjust"
+    },
+    "53": {
+        "id": "for_add/000060085.jpg",
+        "prompt": "Add a hiker standing on one of the rocks near the river, wearing a backpack, and looking towards the mountain in the background.",
+        "edit_type": "add"
+    },
+    "499": {
+        "id": "transport/000143869.jpg",
+        "prompt": "Remove the orange scooter in the foreground.",
+        "edit_type": "remove"
+    },
+    "688": {
+        "id": "style/000280642.jpg",
+        "prompt": "Transfer the image into a bold halftone pop-art comics style.",
+        "edit_type": "style"
+    },
+    "474": {
+        "id": "human/000336112.jpg",
+        "prompt": "Remove the woman in the white dress from the image while maintaining the background and surrounding elements.",
+        "edit_type": "remove"
+    },
+    "518": {
+        "id": "architecture/000211771.jpg",
+        "prompt": "Remove the shed (small building) in the center of the grassy area.",
+        "edit_type": "remove"
+    },
+    "703": {
+        "id": "style/000308113.jpg",
+        "prompt": "Transfer the image into a hand-sculpted claymation style.",
+        "edit_type": "style"
+    },
+    "65": {
+        "id": "for_add/000088053.jpg",
+        "prompt": "Add a family of ducks swimming in the turquoise water near the waterfalls.",
+        "edit_type": "add"
+    },
+    "79": {
+        "id": "for_add/000145048.jpg",
+        "prompt": "Add a cat lounging on the grass near the garden seating area.",
+        "edit_type": "add"
+    },
+    "372": {
+        "id": "animal/000370801.jpg",
+        "prompt": "Extract the white and black puppy from the image, including its red collar and the surrounding green grass environment.",
+        "edit_type": "extract"
+    },
+    "1161": {
+        "id": "compose/animal/7.jpg",
+        "prompt": "Remove the radiator on the right side of the image, and change the color of the black and white cat to brown.",
+        "edit_type": "compose"
+    },
+    "1109": {
+        "id": "architecture/000189825.jpg",
+        "prompt": "Change the building's exterior color to a shade of blue.",
+        "edit_type": "adjust"
+    },
+    "52": {
+        "id": "for_add/000060085.jpg",
+        "prompt": "Add a small red canoe with a person paddling it in the river near the center of the image.",
+        "edit_type": "add"
+    },
+    "360": {
+        "id": "animal/000098730.jpg",
+        "prompt": "Extract the German Shepherd dog wearing goggles sitting inside the vehicle in the image",
+        "edit_type": "extract"
+    },
+    "469": {
+        "id": "human/000292447.jpg",
+        "prompt": "Remove the rainbow and cloud face paint from the image.",
+        "edit_type": "remove"
+    },
+    "78": {
+        "id": "for_add/000096740.jpg",
+        "prompt": "Add a modern glass skyscraper in the background.",
+        "edit_type": "add"
+    },
+    "376": {
+        "id": "transport/000071262.jpg",
+        "prompt": "Extract the red tram(s) in the image.",
+        "edit_type": "extract"
+    },
+    "274": {
+        "id": "architecture/000280642.jpg",
+        "prompt": "Change the castle in the picture from the rocky landscape to a lush tropical forest",
+        "edit_type": "background"
+    },
+    "247": {
+        "id": "transport/000071262.jpg",
+        "prompt": "Change the tram depot in the picture from a winter setting with snow to a summer setting with green grass.",
+        "edit_type": "background"
+    },
+    "271": {
+        "id": "architecture/000231068.jpg",
+        "prompt": "Change the cabin environment from a forest to a tropical beach setting.",
+        "edit_type": "background"
+    },
+    "713": {
+        "id": "style/000308113.jpg",
+        "prompt": "Transfer the image into a traditional ukiyo-e woodblock-print style.",
+        "edit_type": "style"
+    },
+    "648": {
+        "id": "style/000015317.jpg",
+        "prompt": "Transfer the image into a bold halftone pop-art comics style.",
+        "edit_type": "style"
+    },
+    "714": {
+        "id": "style/000308113.jpg",
+        "prompt": "Transfer the image into an embroidered cross-stitch textile style.",
+        "edit_type": "style"
+    },
+    "1123": {
+        "id": "architecture/000403575.jpg",
+        "prompt": "Change the building facade color to a light gray.",
+        "edit_type": "adjust"
+    },
+    "718": {
+        "id": "style/000308736.jpg",
+        "prompt": "Transfer the image into a dramatic charcoal-drawing style.",
+        "edit_type": "style"
+    },
+    "43": {
+        "id": "for_add/000018370.jpg",
+        "prompt": "Add a person walking on the path in the center of the image.",
+        "edit_type": "add"
+    },
+    "652": {
+        "id": "style/000015317.jpg",
+        "prompt": "Transfer the image into a folded-paper origami art style.",
+        "edit_type": "style"
+    },
+    "231": {
+        "id": "animal/000098730.jpg",
+        "prompt": "Change the military vehicle in the picture to be set in a beach environment.",
+        "edit_type": "background"
+    },
+    "236": {
+        "id": "animal/000222070.jpg",
+        "prompt": "Change the blurred environment in the background to an autumn forest with orange and yellow leaves on the trees.",
+        "edit_type": "background"
+    },
+    "335": {
+        "id": "human/000015317.jpg",
+        "prompt": "Extract the human figure from the image.",
+        "edit_type": "extract"
+    },
+    "1156": {
+        "id": "compose/human/7.jpg",
+        "prompt": "Remove the person on the left side of the image, and adjust the brightness of the sky to make it appear sunnier.",
+        "edit_type": "compose"
+    },
+    "250": {
+        "id": "transport/000156391.jpg",
+        "prompt": "Change the background from the ocean to an urban cityscape with the yacht cruising down a river.",
+        "edit_type": "background"
+    },
+    "50": {
+        "id": "for_add/000032566.jpg",
+        "prompt": "Add a small wooden bench to the end of the pier, near the edge, facing the water, with a scenic view of the sunset and mountains in the background.",
+        "edit_type": "add"
+    },
+    "545": {
+        "id": "human/000015317.jpg",
+        "prompt": "Replace the human in the image with a giant pumpkin.",
+        "edit_type": "replace"
+    },
+    "466": {
+        "id": "human/000281608.jpg",
+        "prompt": "Remove the bartender from the image, leaving the cocktail and bar environment.",
+        "edit_type": "remove"
+    },
+    "382": {
+        "id": "transport/000264803.jpg",
+        "prompt": "Extract the sailboat on the river in the image, including its mast, sails, flags, and visible hull.",
+        "edit_type": "extract"
+    },
+    "23": {
+        "id": "for_add/000001314.jpg",
+        "prompt": "Add a vintage suitcase inside the trunk of the car to emphasize the transport theme.",
+        "edit_type": "add"
+    },
+    "261": {
+        "id": "transport/000351716.jpg",
+        "prompt": "Change the background from the industrial setting to a scenic countryside landscape.",
+        "edit_type": "background"
+    },
+    "636": {
+        "id": "style/000015317.jpg",
+        "prompt": "Transfer the image into a loose, flowing watercolor-wash style.",
+        "edit_type": "style"
+    },
+    "719": {
+        "id": "style/000308736.jpg",
+        "prompt": "Transfer the image into a stained-glass cathedral-window style.",
+        "edit_type": "style"
+    },
+    "1170": {
+        "id": "compose/objects/4.jpg",
+        "prompt": "Remove the object in the top left corner of the image, and resize the object in the bottom right to be larger.",
+        "edit_type": "compose"
+    },
+    "1025": {
+        "id": "clothes/00000012.jpg",
+        "prompt": "Raise the person's right arm.",
+        "edit_type": "action"
+    },
+    "524": {
+        "id": "architecture/000352732.jpg",
+        "prompt": "Remove the large white house in the center of the image.",
+        "edit_type": "remove"
+    },
+    "1125": {
+        "id": "daily object/000027344.jpg",
+        "prompt": "Change the pop-up teddy bear's color to blue.",
+        "edit_type": "adjust"
+    },
+    "381": {
+        "id": "transport/000210129.jpg",
+        "prompt": "Extract the vehicle in the image.",
+        "edit_type": "extract"
+    },
+    "435": {
+        "id": "clothes/00000006.jpg",
+        "prompt": "Extract the person standing in the image",
+        "edit_type": "extract"
+    },
+    "633": {
+        "id": "daily object/000363394.jpg",
+        "prompt": "Replace the chair in the image with a bicycle.",
+        "edit_type": "replace"
+    },
+    "484": {
+        "id": "animal/000125904.jpg",
+        "prompt": "Remove the animal in the image, ensuring that the background remains intact and the area where the animal was is seamlessly blended with the surrounding environment.",
+        "edit_type": "remove"
+    },
+    "83": {
+        "id": "for_add/000145048.jpg",
+        "prompt": "Add a small stone gazebo with a tiled roof near the center-left area of the garden, blending naturally with the surrounding greenery and landscape.",
+        "edit_type": "add"
+    },
+    "488": {
+        "id": "animal/000222070.jpg",
+        "prompt": "Remove the dog from the image.",
+        "edit_type": "remove"
+    },
+    "691": {
+        "id": "style/000280642.jpg",
+        "prompt": "Transfer the image into an ornate steampunk brass-engraving style.",
+        "edit_type": "style"
+    },
+    "59": {
+        "id": "for_add/000081452.jpg",
+        "prompt": "Add a coffee mug on the table near the center of the image.",
+        "edit_type": "add"
+    },
+    "344": {
+        "id": "human/000282756.jpg",
+        "prompt": "Extract the human figure in the image.",
+        "edit_type": "extract"
+    },
+    "385": {
+        "id": "transport/000276156.jpg",
+        "prompt": "Extract the vehicles visible in the image.",
+        "edit_type": "extract"
+    },
+    "239": {
+        "id": "animal/000305887.jpg",
+        "prompt": "Change the water and greenery background in the picture to a snowy forest environment.",
+        "edit_type": "background"
+    },
+    "666": {
+        "id": "style/000278574.jpg",
+        "prompt": "Transfer the image into a high-contrast black-and-white film-noir style.",
+        "edit_type": "style"
+    },
+    "395": {
+        "id": "architecture/000050054.jpg",
+        "prompt": "Extract the architectural structure visible in the background of the image, including the roof, walls, and any windows or doors, while excluding people and other non-architectural elements.",
+        "edit_type": "extract"
+    },
+    "583": {
+        "id": "transport/000071262.jpg",
+        "prompt": "Replace the red trams in the image with yellow school buses.",
+        "edit_type": "replace"
+    },
+    "587": {
+        "id": "transport/000159802.jpg",
+        "prompt": "Replace the motorcycle in the image with a horse standing in the same position on the pavement, maintaining the outdoor background with palm trees and blue sky.",
+        "edit_type": "replace"
+    },
+    "550": {
+        "id": "human/000264849.jpg",
+        "prompt": "Replace the girl in the image with a large crystal chandelier hanging from an invisible support, blending naturally into the forest environment.",
+        "edit_type": "replace"
+    },
+    "617": {
+        "id": "architecture/000386778.jpg",
+        "prompt": "Replace the building in the image with a large tree.",
+        "edit_type": "replace"
+    },
+    "1077": {
+        "id": "animal/000250140.jpg",
+        "prompt": "Change the animal's fur color to a solid shade of brown.",
+        "edit_type": "adjust"
+    },
+    "63": {
+        "id": "for_add/000084341.jpg",
+        "prompt": "Place a bicycle in the foreground of the flower field, near the bottom left side, to add a sense of leisure and outdoor activity.",
+        "edit_type": "add"
+    },
+    "356": {
+        "id": "animal/000035229.jpg",
+        "prompt": "Extract the bird from the image, keeping it isolated from the surrounding apples and background.",
+        "edit_type": "extract"
+    },
+    "423": {
+        "id": "daily object/000240448.jpg",
+        "prompt": "Extract the wooden bunk bed in the image.",
+        "edit_type": "extract"
+    },
+    "544": {
+        "id": "human/000013135.jpg",
+        "prompt": "Replace the child in the image with a large pumpkin.",
+        "edit_type": "replace"
+    },
+    "1005": {
+        "id": "human/000033638.jpg",
+        "prompt": "Make the person look slightly to the right.",
+        "edit_type": "action"
+    },
+    "284": {
+        "id": "daily object/000007834.jpg",
+        "prompt": "Change the wooden table background in the picture to a vibrant garden setting.",
+        "edit_type": "background"
+    },
+    "295": {
+        "id": "daily object/000273675.jpg",
+        "prompt": "Change the tablecloth in the background to a solid light blue color.",
+        "edit_type": "background"
+    },
+    "248": {
+        "id": "transport/000076056.jpg",
+        "prompt": "Change the tiny house in the picture from the forest to the beach.",
+        "edit_type": "background"
+    },
+    "283": {
+        "id": "architecture/000403575.jpg",
+        "prompt": "Change the windmill and houses in the picture from the countryside to a bustling city skyline.",
+        "edit_type": "background"
+    },
+    "532": {
+        "id": "daily object/000106052.jpg",
+        "prompt": "Remove the plastic-wrapped cookies on the metallic surface.",
+        "edit_type": "remove"
+    },
+    "641": {
+        "id": "style/000015317.jpg",
+        "prompt": "Transfer the image into an 8-bit pixel-art video-game style.",
+        "edit_type": "style"
+    },
+    "501": {
+        "id": "transport/000159802.jpg",
+        "prompt": "Remove the motorcycle from the image.",
+        "edit_type": "remove"
+    },
+    "98": {
+        "id": "for_add/000276222.jpg",
+        "prompt": "Add a group of deer grazing in the middle-right area of the snow-covered field.",
+        "edit_type": "add"
+    },
+    "670": {
+        "id": "style/000278574.jpg",
+        "prompt": "Transfer the image into a cyan blueprint technical-drawing style.",
+        "edit_type": "style"
+    },
+    "40": {
+        "id": "for_add/000015573.jpg",
+        "prompt": "Add a vintage bicycle along the dirt path in the foreground.",
+        "edit_type": "add"
+    },
+    "715": {
+        "id": "style/000308736.jpg",
+        "prompt": "Transfer the image into a classic impasto oil-painting style.",
+        "edit_type": "style"
+    },
+    "444": {
+        "id": "clothes/00000033.jpg",
+        "prompt": "Extract the grey Adidas T-shirt with white trim and stripes worn by the person in the image.",
+        "edit_type": "extract"
+    },
+    "492": {
+        "id": "animal/000308736.jpg",
+        "prompt": "Remove the horse in the foreground.",
+        "edit_type": "remove"
+    },
+    "341": {
+        "id": "human/000268923.jpg",
+        "prompt": "Extract the red baseball uniform worn by the person in the image",
+        "edit_type": "extract"
+    },
+    "347": {
+        "id": "human/000305698.jpg",
+        "prompt": "Extract the light blue off-shoulder dress worn by the woman in the sunflower field.",
+        "edit_type": "extract"
+    },
+    "598": {
+        "id": "transport/000369014.jpg",
+        "prompt": "Replace the ski lift chair in the image with a hot air balloon floating above the building.",
+        "edit_type": "replace"
+    },
+    "525": {
+        "id": "architecture/000369231.jpg",
+        "prompt": "Remove the caravan with the attached awning from the grassy field and trees in the background.",
+        "edit_type": "remove"
+    },
+    "1066": {
+        "id": "animal/000023506.jpg",
+        "prompt": "Change the animal's fur color to a bright shade of blue.",
+        "edit_type": "adjust"
+    },
+    "57": {
+        "id": "for_add/000081452.jpg",
+        "prompt": "Add a car in the foreground to the right side of the image.",
+        "edit_type": "add"
+    },
+    "298": {
+        "id": "daily object/000299747.jpg",
+        "prompt": "Change the background of the suit from a blank wall to a luxurious office setting that includes a wooden desk and a large window showing a cityscape.",
+        "edit_type": "background"
+    },
+    "367": {
+        "id": "animal/000294276.jpg",
+        "prompt": "Extract the blue bird from the image",
+        "edit_type": "extract"
+    },
+    "519": {
+        "id": "architecture/000231250.jpg",
+        "prompt": "Remove the architectural structure (the gate or tower) in the middle of the image, ensuring the background environment remains intact with the trees, lampposts, and flower planters.",
+        "edit_type": "remove"
+    },
+    "725": {
+        "id": "style/000308736.jpg",
+        "prompt": "Transfer the image into a neon-soaked cyberpunk poster style.",
+        "edit_type": "style"
+    },
+    "1094": {
+        "id": "transport/000265699.jpg",
+        "prompt": "Change the vehicle's color to red.",
+        "edit_type": "adjust"
+    },
+    "570": {
+        "id": "animal/000145087.jpg",
+        "prompt": "Replace the sheep in the image with a deer.",
+        "edit_type": "replace"
+    },
+    "1037": {
+        "id": "clothes/00000048.jpg",
+        "prompt": "Raise the person's left arm.",
+        "edit_type": "action"
+    },
+    "61": {
+        "id": "for_add/000084341.jpg",
+        "prompt": "Add a deer grazing in the middle of the flower field.",
+        "edit_type": "add"
+    },
+    "702": {
+        "id": "style/000308113.jpg",
+        "prompt": "Transfer the image into a Lego-brick stop-motion diorama style.",
+        "edit_type": "style"
+    },
+    "440": {
+        "id": "clothes/00000021.jpg",
+        "prompt": "Extract the black T-shirt worn by the person in the image.",
+        "edit_type": "extract"
+    },
+    "644": {
+        "id": "style/000015317.jpg",
+        "prompt": "Transfer the image into a faceted low-poly 3-D render style.",
+        "edit_type": "style"
+    },
+    "368": {
+        "id": "animal/000305887.jpg",
+        "prompt": "Extract the animal lying on the floor in the image.",
+        "edit_type": "extract"
+    },
+    "520": {
+        "id": "architecture/000276347.jpg",
+        "prompt": "Remove the two cabins (architecture) from the image, leaving only the surrounding snow-covered trees and the snowy landscape.",
+        "edit_type": "remove"
+    },
+    "1124": {
+        "id": "daily object/000007834.jpg",
+        "prompt": "Change the hat's floral pattern to polka dots.",
+        "edit_type": "adjust"
+    },
+    "522": {
+        "id": "architecture/000303190.jpg",
+        "prompt": "Remove the shelter structure (including the roof and wooden supports) in the forest clearing.",
+        "edit_type": "remove"
+    },
+    "1105": {
+        "id": "architecture/000023390.jpg",
+        "prompt": "Change the wood paneling color to a darker shade of brown.",
+        "edit_type": "adjust"
+    },
+    "400": {
+        "id": "architecture/000231068.jpg",
+        "prompt": "Extract the log cabin architecture in the image.",
+        "edit_type": "extract"
+    },
+    "1116": {
+        "id": "architecture/000303190.jpg",
+        "prompt": "Change the shelter structure color to light blue.",
+        "edit_type": "adjust"
+    },
+    "242": {
+        "id": "animal/000342021.jpg",
+        "prompt": "Change the background from the forest to a desert landscape.",
+        "edit_type": "background"
+    },
+    "365": {
+        "id": "animal/000222070.jpg",
+        "prompt": "Extract the animal located in the lower center of the image, positioned on the road, with a fluffy tail and brownish fur.",
+        "edit_type": "extract"
+    },
+    "631": {
+        "id": "daily object/000306869.jpg",
+        "prompt": "Replace the flower arrangement on the table in the image with a coffee mug.",
+        "edit_type": "replace"
+    },
+    "42": {
+        "id": "for_add/000018370.jpg",
+        "prompt": "Add a vintage bicycle leaning against the fence on the left side of the road.",
+        "edit_type": "add"
+    },
+    "471": {
+        "id": "human/000306019.jpg",
+        "prompt": "Remove the person in the foreground wearing a black beanie and hoodie.",
+        "edit_type": "remove"
+    },
+    "487": {
+        "id": "animal/000216869.jpg",
+        "prompt": "Remove the bird perched on the branch in the foreground of the image.",
+        "edit_type": "remove"
+    },
+    "728": {
+        "id": "style/000308736.jpg",
+        "prompt": "Transfer the image into a bold halftone pop-art comics style.",
+        "edit_type": "style"
+    },
+    "1039": {
+        "id": "clothes/00000054.jpg",
+        "prompt": "Raise the person's left arm.",
+        "edit_type": "action"
+    },
+    "405": {
+        "id": "architecture/000303190.jpg",
+        "prompt": "Extract the architectural elements from the image.",
+        "edit_type": "extract"
+    },
+    "266": {
+        "id": "architecture/000050054.jpg",
+        "prompt": "Change the background forest to a sandy desert landscape with cacti and sand dunes, while making sure the lighting reflects a warm, sunny desert atmosphere.",
+        "edit_type": "background"
+    },
+    "463": {
+        "id": "human/000264849.jpg",
+        "prompt": "Remove the girl wearing the tulle gown in the image while maintaining the natural background of trees and path.",
+        "edit_type": "remove"
+    },
+    "1026": {
+        "id": "clothes/00000015.jpg",
+        "prompt": "Make the person raise her left arm.",
+        "edit_type": "action"
+    },
+    "1080": {
+        "id": "animal/000308736.jpg",
+        "prompt": "Change the animal's fur color to a shade of blue.",
+        "edit_type": "adjust"
+    },
+    "647": {
+        "id": "style/000015317.jpg",
+        "prompt": "Transfer the image into a sepia-toned vintage-photograph style.",
+        "edit_type": "style"
+    },
+    "722": {
+        "id": "style/000308736.jpg",
+        "prompt": "Transfer the image into a Lego-brick stop-motion diorama style.",
+        "edit_type": "style"
+    },
+    "1097": {
+        "id": "transport/000278113.jpg",
+        "prompt": "Change the car color to red.",
+        "edit_type": "adjust"
+    },
+    "362": {
+        "id": "animal/000140400.jpg",
+        "prompt": "Extract the black bear from the forest environment in the image.",
+        "edit_type": "extract"
+    },
+    "101": {
+        "id": "for_add/000276222.jpg",
+        "prompt": "Add a wooden bench near the tree on the right side of the image.",
+        "edit_type": "add"
+    },
+    "253": {
+        "id": "transport/000264803.jpg",
+        "prompt": "Change the arid desert environment in the background to a lush tropical rainforest setting. Add dense trees and greenery to replace the sand and rocky terrain while keeping the boat visible in the foreground.",
+        "edit_type": "background"
+    },
+    "626": {
+        "id": "daily object/000240448.jpg",
+        "prompt": "Replace the wooden bunk bed in the image with a stack of plastic storage containers.",
+        "edit_type": "replace"
+    },
+    "549": {
+        "id": "human/000094249.jpg",
+        "prompt": "Replace the human in the image with a cactus.",
+        "edit_type": "replace"
+    },
+    "610": {
+        "id": "architecture/000280642.jpg",
+        "prompt": "Replace the castle in the image with a giant wind turbine, blending it naturally into the rocky hillside environment.",
+        "edit_type": "replace"
+    },
+    "534": {
+        "id": "daily object/000117413.jpg",
+        "prompt": "Remove the old brown suitcase on the ground in front of the stone wall.",
+        "edit_type": "remove"
+    },
+    "1003": {
+        "id": "human/000015317.jpg",
+        "prompt": "Make the person raise his right arm.",
+        "edit_type": "action"
+    },
+    "1166": {
+        "id": "compose/objects/14.jpg",
+        "prompt": "Remove the plant from the shelf, and resize the picture frame to be larger.",
+        "edit_type": "compose"
+    },
+    "685": {
+        "id": "style/000280642.jpg",
+        "prompt": "Transfer the image into a neon-soaked cyberpunk poster style.",
+        "edit_type": "style"
+    },
+    "1152": {
+        "id": "compose/human/3.jpg",
+        "prompt": "Remove the tablet in the hands of the man on the right, and change the color of the shirt worn by the man on the left to blue.",
+        "edit_type": "compose"
+    },
+    "625": {
+        "id": "daily object/000158674.jpg",
+        "prompt": "Replace the sliced steak in the image with a folded umbrella.",
+        "edit_type": "replace"
+    },
+    "690": {
+        "id": "style/000280642.jpg",
+        "prompt": "Transfer the image into a cyan blueprint technical-drawing style.",
+        "edit_type": "style"
+    },
+    "234": {
+        "id": "animal/000145087.jpg",
+        "prompt": "Change the grassy hills in the picture to a beach with ocean waves.",
+        "edit_type": "background"
+    },
+    "102": {
+        "id": "for_add/000276222.jpg",
+        "prompt": "Add a small stone gazebo near the center of the image.",
+        "edit_type": "add"
+    },
+    "1142": {
+        "id": "daily object/000368863.jpg",
+        "prompt": "Change the cleaner dragon to blue.",
+        "edit_type": "adjust"
+    },
+    "433": {
+        "id": "clothes/00000000.jpg",
+        "prompt": "Extract the white Levi's T-shirt and the blue distressed denim skirt worn by the person in the image",
+        "edit_type": "extract"
+    },
+    "425": {
+        "id": "daily object/000276684.jpg",
+        "prompt": "Extract the large colorful boot from the image.",
+        "edit_type": "extract"
+    },
+    "228": {
+        "id": "animal/000047206.jpg",
+        "prompt": "Change the meadow with wildflowers background in the picture to a dense tropical rainforest.",
+        "edit_type": "background"
+    },
+    "363": {
+        "id": "animal/000145087.jpg",
+        "prompt": "Extract the animal in the image",
+        "edit_type": "extract"
+    },
+    "1111": {
+        "id": "architecture/000231068.jpg",
+        "prompt": "Change the wall color to light blue.",
+        "edit_type": "adjust"
+    },
+    "209": {
+        "id": "human/000063961.jpg",
+        "prompt": "Change the stage background to a beach setting with palm trees and the ocean visible in the distance.",
+        "edit_type": "background"
+    },
+    "110": {
+        "id": "for_add/000313906.jpg",
+        "prompt": "Add a picnic table with a couple of chairs in the grassy area near the tent, to create a cozy outdoor scene.",
+        "edit_type": "add"
+    },
+    "448": {
+        "id": "clothes/00000045.jpg",
+        "prompt": "Extract the dark pants worn by the person in the image",
+        "edit_type": "extract"
+    },
+    "71": {
+        "id": "for_add/000088945.jpg",
+        "prompt": "Add a person ice skating in the middle of the rink, wearing a winter jacket and helmet.",
+        "edit_type": "add"
+    },
+    "94": {
+        "id": "for_add/000236569.jpg",
+        "prompt": "Add a graceful swan swimming on the dance floor, near the center of the circular pattern.",
+        "edit_type": "add"
+    },
+    "548": {
+        "id": "human/000063961.jpg",
+        "prompt": "Replace the human in the image with a microphone stand.",
+        "edit_type": "replace"
+    },
+    "342": {
+        "id": "human/000270466.jpg",
+        "prompt": "Extract the human standing in the foreground wearing a grey zip-up hoodie with arms crossed.",
+        "edit_type": "extract"
+    },
+    "458": {
+        "id": "human/000015317.jpg",
+        "prompt": "Remove the human standing in the foreground wearing a blue suit, who is positioned in front of the construction site.",
+        "edit_type": "remove"
+    },
+    "338": {
+        "id": "human/000063961.jpg",
+        "prompt": "Extract the person singing into the microphone, including their sunglasses and microphone, from the image.",
+        "edit_type": "extract"
+    },
+    "605": {
+        "id": "architecture/000189825.jpg",
+        "prompt": "Replace the yurt in the image with a small wooden cabin.",
+        "edit_type": "replace"
+    },
+    "554": {
+        "id": "human/000286285.jpg",
+        "prompt": "Replace the child in the image with a large pumpkin. ",
+        "edit_type": "replace"
+    },
+    "104": {
+        "id": "for_add/000295872.jpg",
+        "prompt": "Add a person riding a bicycle on the snowy path in the background.",
+        "edit_type": "add"
+    },
+    "572": {
+        "id": "animal/000222070.jpg",
+        "prompt": "Replace the dog in the image with a vintage bicycle in the same outdoor setting.",
+        "edit_type": "replace"
+    },
+    "369": {
+        "id": "animal/000308736.jpg",
+        "prompt": "Extract the horse standing in the frosty field with sunlight streaming through the trees in the background.",
+        "edit_type": "extract"
+    },
+    "561": {
+        "id": "animal/000000265.jpg",
+        "prompt": "Replace the white rabbit in the image with a pineapple.",
+        "edit_type": "replace"
+    },
+    "1072": {
+        "id": "animal/000125904.jpg",
+        "prompt": "Change the animal's fur color to a lighter shade of brown.",
+        "edit_type": "adjust"
+    },
+    "528": {
+        "id": "daily object/000027344.jpg",
+        "prompt": "Remove the teddy bear holding the heart in the foreground.",
+        "edit_type": "remove"
+    },
+    "1126": {
+        "id": "daily object/000056963.jpg",
+        "prompt": "Change the pineapple to blue.",
+        "edit_type": "adjust"
+    }
+}

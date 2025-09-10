@@ -1,0 +1,10 @@
+{"id": "000038819.jpg", "turn1": "Change the characters on the license plate to 1", "turn2": "Change the car body to white", "turn3": "Change the car body in the original input to white" }
+{"id": "000066341.jpg", "turn1": "Delete the tomato", "turn2": "Your edit is not good, redo it", "turn3": "Add some decoration based on the original image"}
+{"id": "000093912.jpg", "turn1": "Turn the quilt white", "turn2": "Add a piece of clothing on the bed", "turn3": "Cancel the impact of the previous round of edits and change the quilt back to its original color"}
+{"id": "000128286.jpg", "turn1": "Add a cup", "turn2": "Randomly place some items next to the cup", "turn3": "Undo the previous round of edits and turn the cup black"}
+{"id": "000231068.jpg", "turn1": "Change the house door to black", "turn2": "Add a table in the open space", "turn3": "Restore the original image for me"}
+{"id": "000231250.jpg", "turn1": "Add a person in the open space", "turn2": "Add another person", "turn3": "I only want to keep the newly added people"}
+{"id": "000268923.jpg", "turn1": "Change the text on the clothes to 'Hello'", "turn2": "Turn the hat black", "turn3": "Starting from the original image, change the clothing color to green"}
+{"id": "000270466.jpg", "turn1": "Change the person's clothes to yellow", "turn2": "Remove the car in the background", "turn3": "Output the result of the previous round of edits"}
+{"id": "000278574.jpg", "turn1": "Replace the chair with a backless stool", "turn2": "Undo the previous round of edits and turn the original chair black", "turn3": "I still want to keep the edit with the backless stool, output it"}
+{"id": "000339492.jpg", "turn1": "Change the car in front to white", "turn2": "Change the color of the billboard to yellow", "turn3": "Restore the car's color"}

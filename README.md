@@ -31,6 +31,7 @@
 
 ## 🔥 News
 
+- **2025.9.10**: BAGEL training code is released! Harmon training code will be released soon.
 - **2025.9.9**: Our [finetuned weights](https://huggingface.co/collections/sanaka87/realign-68ad2176380355a3dcedc068) and [arXiv paper](https://arxiv.org/abs/2509.07295) are available! We expect to release the training code tomorrow.
 
 ## 🍭 Results
@@ -67,18 +68,20 @@ A collection of RecA models on Hugging Face with benchmark performance:
 | [Harmon-1.5B-RecA-plus](https://huggingface.co/sanaka87/Harmon-1.5B-RecA-plus) | 1.5B | 90.0 | 88.15 | - | - |
 | [OpenUni-RecA](https://huggingface.co/sanaka87/OpenUni-RecA) | 3.6B | 74.1 (+12.2) | 82.75 (+3.73) | - | - |
 
-<!-- ## ✨ Getting Started -->
 
-<!-- For detailed instructions on installation, training, and evaluation, please refer to the respective repository READMEs: -->
+## ✨ Getting Started
 
-<!-- - **[BAGEL Training Guide](./BAGEL/README.md)**: Complete guide for BAGEL model training and evaluation -->
-<!-- - **[Harmon Training Guide](./Harmon/README.md)**: Comprehensive instructions for Harmon model training and evaluation   -->
-<!-- - **[Benchmark Evaluation Guide](./Benchmark/README.md)**: Multi-benchmark evaluation scripts and setup instructions -->
+For detailed instructions on installation, training, and evaluation, please refer to the respective repository READMEs:
+
+- **[BAGEL Training Guide](./BAGEL/README.md)**: Complete guide for BAGEL model training and evaluation.
+
+- **[Benchmark Evaluation Guide](./Benchmark/README.md)**: Multi-benchmark evaluation scripts and setup instructions.
 
 ## 🚧 TODO
 
 - [x] Release our model weights on Hugging Face.
-- [ ] Release BAGEL and Harmon training code.
+- [x] Release BAGEL training code.
+- [ ] Release Harmon training code.
 - [ ] Release Show-o and OpenUni training code.
 - [ ] Further scale-up BAGEL training.
 - [ ] Add support for new UMM architectures like Show-o2.
