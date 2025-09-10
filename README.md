@@ -105,6 +105,6 @@ If you find RecA useful for your research, please consider citing:
   
   ⭐ **If you find this project helpful, please consider giving it a star!** ⭐
   
-  [![Star History Chart](https://api.star-history.com/svg?repos=HorizonWind2004/ReAlign&type=Date)](https://star-history.com/#HorizonWind2004/ReAlign&Date)
+  [![Star History Chart](https://api.star-history.com/svg?repos=HorizonWind2004/reconstruction-alignment&type=Date)](https://www.star-history.com/#HorizonWind2004/reconstruction-alignment&Date)
 
 </div>
