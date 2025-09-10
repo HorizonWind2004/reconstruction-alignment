@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1 style="margin: 0; font-size: 1.8em;">
-    <img src="./assets/logo_white.jpg" alt="RecA Logo" width="60" style="vertical-align: middle; margin-right: 10px;">
+    <img src="./assets/logo_white.png" alt="RecA Logo" width="60" style="vertical-align: middle; margin-right: 10px;">
     RecA: Reconstruction Alignment Improves Unified Multimodal Models
   </h1>
 
@@ -73,7 +73,7 @@ A collection of RecA models on Hugging Face with benchmark performance:
 
 ## 🚧 TODO
 
-- [ ] Release our model weights on Hugging Face.
+- [x] Release our model weights on Hugging Face.
 - [ ] Release BAGEL and Harmon training code.
 - [ ] Release Show-o and OpenUni training code.
 - [ ] Further scale-up BAGEL training.
