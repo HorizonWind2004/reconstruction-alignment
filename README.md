@@ -5,6 +5,11 @@
     RecA: Reconstruction Alignment Improves Unified Multimodal Models
   </h1>
 
+
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 12px; margin: 20px 0; color: white; font-weight: bold; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+    🚀 <strong>Ultra-Efficient Training:</strong> Just <span style="color: #FFD700;">6 80GB A100s × 4.5 hours</span> to boost BAGEL performance across all tasks! Outperforms <span style="color: #FFD700;">FLUX-Kontext</span> in image editing capabilities!
+  </div>
+
   <h4 style="color: #7f8c8d; margin-top: 6px;">Unlocking the Massive Zero-shot Potential in Unified Multimodal Models through Self-supervised Learning</h3>
   [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2509.07295)
   [![alphaXiv](https://img.shields.io/badge/arXiv-A42C25?style=for-the-badge&logo=arxiv&logoColor=white&color=blue)](https://alphaxiv.org/abs/2509.07295)
@@ -25,9 +30,6 @@
 </div>
 
 
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 12px; margin: 20px 0; color: white; font-weight: bold; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    🚀 <strong>Ultra-Efficient Training:</strong> Just <span style="color: #FFD700;">6 80GB A100s × 4.5 hours</span> to boost BAGEL performance across all tasks! Outperforms <span style="color: #FFD700;">FLUX-Kontext</span> in image editing capabilities!
-  </div>
 
 <div align="center">
   <img src="./assets/DEMO.jpg" alt="" style="width: 100%; margin: 20px 0;">
