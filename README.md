@@ -61,6 +61,13 @@ We've tested RecA on various base architectures, including Show-o, OpenUni, Harm
   <img src="./assets/t2i_result.jpg" alt="" style="width: 100%; margin: 20px 0;">
 </div>
 
+## 🎨 Edit Comparison
+
+Our method demonstrates superior image editing capabilities compared to state-of-the-art models including ICEdit, FLUX-Kontext, and GPT-4o:
+
+<div align="center">
+  <img src="./assets/edit_comparison.jpg" alt="Edit Comparison" style="width: 100%; margin: 20px 0;">
+</div>
 
 ## 🏆 Model Zoo
 
