@@ -76,6 +76,8 @@ For detailed instructions on installation, training, and evaluation, please refe
 
 - **[BAGEL Training Guide](./BAGEL/README.md)**: Complete guide for BAGEL model training and evaluation.
 
+- **[Harmon Training Guide](./Harmon/README.md)**: Comprehensive instructions for Harmon model training and evaluation.
+
 - **[Benchmark Evaluation Guide](./Benchmark/README.md)**: Multi-benchmark evaluation scripts and setup instructions.
 
 ## 🚧 TODO
