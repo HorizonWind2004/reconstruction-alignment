@@ -11,6 +11,9 @@
     🚀 <strong>Ultra-Efficient Training:</strong> Just <span style="color: #FFD700;">6 80GB A100s × 4.5 hours</span> to boost BAGEL performance across all tasks! Outperforms <span style="color: #FFD700;">FLUX-Kontext</span> in image editing capabilities!
   </div>
 
+
+  
+
   [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2509.07295)
   [![alphaXiv](https://img.shields.io/badge/arXiv-A42C25?style=for-the-badge&logo=arxiv&logoColor=white&color=blue)](https://alphaxiv.org/abs/2509.07295)
   [![Hugging Face Collection](https://img.shields.io/badge/HF_Models-fcd022?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/collections/sanaka87/realign-68ad2176380355a3dcedc068)
