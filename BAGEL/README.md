@@ -1,4 +1,4 @@
-# BAGEL Training Guide
+# BAGEL Installation Guide
 
 > **Note**: This repository is heavily based on [ByteDance-Seed/BAGEL](https://github.com/bytedance-seed/BAGEL). This repository provides training code and evaluation scripts. For inference scripts and additional resources, please refer to the original repository.
 
@@ -26,6 +26,10 @@ conda create -n bagel python=3.10
 conda activate bagel
 pip install -r requirements.txt
 ```
+
+### 🔥 Start Inference!
+
+You can use the `inference.ipynb` and try out!
 
 ## Model and Data Preparation
 
