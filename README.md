@@ -31,6 +31,7 @@
 
 ## 🔥 News
 
+- **2025.9.11**: Harmon training code is released!
 - **2025.9.10**: BAGEL training code is released! Harmon training code will be released soon.
 - **2025.9.9**: Our [finetuned weights](https://huggingface.co/collections/sanaka87/realign-68ad2176380355a3dcedc068) and [arXiv paper](https://arxiv.org/abs/2509.07295) are available! We expect to release the training code tomorrow.
 
@@ -81,7 +82,7 @@ For detailed instructions on installation, training, and evaluation, please refe
 
 - [x] Release our model weights on Hugging Face.
 - [x] Release BAGEL training code.
-- [ ] Release Harmon training code.
+- [x] Release Harmon training code.
 - [ ] Release Show-o and OpenUni training code.
 - [ ] Further scale-up BAGEL training.
 - [ ] Add support for new UMM architectures like Show-o2.
