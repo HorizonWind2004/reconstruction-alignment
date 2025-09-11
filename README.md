@@ -7,6 +7,10 @@
 
   <h4 style="color: #7f8c8d; margin-top: 6px;">Unlocking the Massive Zero-shot Potential in Unified Multimodal Models through Self-supervised Learning</h3>
 
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 12px; margin: 20px 0; color: white; font-weight: bold; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+    🚀 <strong>Ultra-Efficient Training:</strong> Just <span style="color: #FFD700;">6 80GB A100s × 4.5 hours</span> to boost BAGEL performance across all tasks! Outperforms <span style="color: #FFD700;">FLUX-Kontext</span> in image editing capabilities!
+  </div>
+
   [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2509.07295)
   [![ArXiv](https://img.shields.io/badge/arXiv-A42C25?style=for-the-badge&logo=arxiv&logoColor=white&color=blue)](https://alphaxiv.org/abs/2509.07295)
   [![Hugging Face Collection](https://img.shields.io/badge/HF_Models-fcd022?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/collections/sanaka87/realign-68ad2176380355a3dcedc068)
