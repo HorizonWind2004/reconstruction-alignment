@@ -5,12 +5,10 @@
     RecA: Reconstruction Alignment Improves Unified Multimodal Models
   </h1>
 
+  <h4 style="margin: 15px 0; color: #2c3e50;">
+    🚀 Just 6 × 80GB A100s × 4.5 hours to boost BAGEL performance across all tasks! Outperforms FLUX-Kontext in image editing capabilities!
+  </h4>
 
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 12px; margin: 20px 0; color: white; font-weight: bold; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    🚀 <strong>Ultra-Efficient Training:</strong> Just <span style="color: #FFD700;">6 80GB A100s × 4.5 hours</span> to boost BAGEL performance across all tasks! Outperforms <span style="color: #FFD700;">FLUX-Kontext</span> in image editing capabilities!
-  </div>
-
-  <h4 style="color: #7f8c8d; margin-top: 6px;">Unlocking the Massive Zero-shot Potential in Unified Multimodal Models through Self-supervised Learning</h3>
   [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2509.07295)
   [![alphaXiv](https://img.shields.io/badge/arXiv-A42C25?style=for-the-badge&logo=arxiv&logoColor=white&color=blue)](https://alphaxiv.org/abs/2509.07295)
   [![Hugging Face Collection](https://img.shields.io/badge/HF_Models-fcd022?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/collections/sanaka87/realign-68ad2176380355a3dcedc068)
@@ -32,7 +30,8 @@
 
 
 <div align="center">
-  <img src="./assets/DEMO.jpg" alt="" style="width: 100%; margin: 20px 0;">
+  <img src="./assets/DEMO.jpg" alt="" style="width: 100%; margin: 10px 0;">
+  <img src="./assets/edit_demo.jpg" alt="" style="width: 100%; margin: 10px 0;">
 </div>
 
 ## 🔥 News
@@ -42,6 +41,8 @@
 - **2025.9.9**: Our [finetuned weights](https://huggingface.co/collections/sanaka87/realign-68ad2176380355a3dcedc068) and [arXiv paper](https://alphaxiv.org/abs/2509.07295) are available! We expect to release the training code tomorrow.
 
 ## 🍭 Results
+
+> Unlocking the Massive Zero-shot Potential in Unified Multimodal Models through Self-supervised Learning.
 
 **RecA** achieves state-of-the-art performance on generation benchmarks with remarkable efficiency. Despite using only 1.5B parameters, RecA surpasses models with 7B-24B parameters, achieving GenEval **0.86** and DPGBench **87.21** without GPT-4o distillation data or reinforcement learning. RecA also improves BAGEL's editing performance significantly across all categories. Further two-stage fine-tuning with GPT-4o-Image distillation data enhances the score to **0.90** and **88.15** respectively.
 
