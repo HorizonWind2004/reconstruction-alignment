@@ -6,7 +6,7 @@
   </h1>
 
   <h4 style="margin: 15px 0; color: #2c3e50;">
-    🚀 Just 6 × 80GB A100s × 4.5 hours to boost BAGEL performance across all tasks! Outperforms FLUX-Kontext in image editing capabilities!
+    🚀 Just 6 × 80GB A100s × 4.5 hours to boost BAGEL performance across all tasks! Our BAGEL outperforms FLUX-Kontext in image editing capabilities!
   </h4>
 
   [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2509.07295)
