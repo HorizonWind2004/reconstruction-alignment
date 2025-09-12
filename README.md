@@ -34,7 +34,6 @@
 - [🏆 Model Zoo](#-model-zoo)
 - [🍭 Results](#-results)
 - [🎨 Edit Comparison](#-edit-comparison)
-- [✨ Getting Started](#-getting-started)
 - [🚧 TODO](#-todo)
 - [📮 Contact](#-contact)
 - [📄 Citation](#-citation)
@@ -58,6 +57,13 @@
 
 2. Local Setup: Follow the instructions in the [BAGEL Installation Guide](./BAGEL/README.md) to set up the environment, and run `BAGEL/inference.ipynb` to test the model locally!
 
+3. Full Training & Evaluation: For detailed instructions on installation, training, and evaluation, please refer to the respective repository READMEs:
+
+- **[BAGEL Installation Guide](./BAGEL/README.md)**: Complete guide for BAGEL model training and evaluation.
+
+- **[Harmon Installation Guide](./Harmon/README.md)**: Comprehensive instructions for Harmon model training and evaluation.
+
+- **[Benchmark Evaluation Guide](./Benchmark/README.md)**: Multi-benchmark evaluation scripts and setup instructions.
 
 ## 🏆 Model Zoo
 
@@ -102,16 +108,6 @@ Our method demonstrates superior image editing capabilities compared to state-of
 <div align="center">
   <img src="./assets/edit_comparison.jpg" alt="Edit Comparison" style="width: 100%; margin: 20px 0;">
 </div>
-
-## ✨ Getting Started
-
-For detailed instructions on installation, training, and evaluation, please refer to the respective repository READMEs:
-
-- **[BAGEL Installation Guide](./BAGEL/README.md)**: Complete guide for BAGEL model training and evaluation.
-
-- **[Harmon Installation Guide](./Harmon/README.md)**: Comprehensive instructions for Harmon model training and evaluation.
-
-- **[Benchmark Evaluation Guide](./Benchmark/README.md)**: Multi-benchmark evaluation scripts and setup instructions.
 
 ## 🚧 TODO
 
