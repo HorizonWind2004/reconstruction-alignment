@@ -27,7 +27,14 @@ conda activate bagel
 pip install -r requirements.txt
 ```
 
-### 🔥 Start Inference!
+### 🔥 Try our post-trained BAGEL!
+
+```bash
+mkdir ckpt
+cd ckpt
+git clone https://huggingface.co/sanaka87/BAGEL-RecA
+cd ..
+```
 
 You can use the `inference.ipynb` and try out!
 
