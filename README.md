@@ -27,7 +27,17 @@
   <span style="font-size: 1em; color: #555;">UC Berkeley<sup>1</sup>; University of Washington<sup>2</sup></span>
 </div>
 
+## 📑 Table of Contents
 
+- [🔥 News](#-news)
+- [🔧 Quick Start](#-quick-start)
+- [🏆 Model Zoo](#-model-zoo)
+- [🍭 Results](#-results)
+- [🎨 Edit Comparison](#-edit-comparison)
+- [✨ Getting Started](#-getting-started)
+- [🚧 TODO](#-todo)
+- [📮 Contact](#-contact)
+- [📄 Citation](#-citation)
 
 <div align="center">
   <img src="./assets/DEMO.jpg" alt="" style="width: 100%; margin: 10px 0;">
@@ -115,6 +125,8 @@ For detailed instructions on installation, training, and evaluation, please refe
 ## 📮 Contact
 
 For questions, feedback, or collaboration opportunities, feel free to reach out!
+
+📧 Email: sanaka@berkeley.edu
 
 ## 📄 Citation
 
