@@ -129,14 +129,11 @@ For questions, feedback, or collaboration opportunities, feel free to reach out!
 If you find RecA useful for your research, please consider citing:
 
 ```bibtex
-@misc{xie2025reconstructionalignmentimprovesunified,
-      title={Reconstruction Alignment Improves Unified Multimodal Models}, 
-      author={Ji Xie and Trevor Darrell and Luke Zettlemoyer and XuDong Wang},
-      year={2025},
-      eprint={2509.07295},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2509.07295}, 
+@article{xie2025reconstruction,
+  title={Reconstruction Alignment Improves Unified Multimodal Models},
+  author={Xie, Ji and Darrell, Trevor and Zettlemoyer, Luke and Wang, XuDong},
+  journal={arXiv preprint arXiv:2509.07295},
+  year={2025}
 }
 ```
 
