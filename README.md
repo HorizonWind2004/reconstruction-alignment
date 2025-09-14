@@ -57,7 +57,9 @@
 
 2. Local Setup: Follow the instructions in the [BAGEL Installation Guide](./BAGEL/README.md) to set up the environment, and run `BAGEL/inference.ipynb` to test the model locally!
 
-3. Full Training & Evaluation: For detailed instructions on installation, training, and evaluation, please refer to the respective repository READMEs:
+3. ComfyUI: see [ComfyUI-BAGEL](https://github.com/neverbiasu/ComfyUI-BAGEL). FP8 and FP4 is on the way. Stay tuned!
+
+4. Full Training & Evaluation: For detailed instructions on installation, training, and evaluation, please refer to the respective repository READMEs:
 
 - **[BAGEL Installation Guide](./BAGEL/README.md)**: Complete guide for BAGEL model training and evaluation.
 
@@ -114,6 +116,7 @@ Our method demonstrates superior image editing capabilities compared to state-of
 - [x] Release our model weights on Hugging Face.
 - [x] Release BAGEL training code.
 - [x] Release Harmon training code.
+- [ ] Release fp8 and fp4 version for BAGEL.
 - [ ] Release Show-o and OpenUni training code.
 - [ ] Further scale-up BAGEL training.
 - [ ] Add support for new UMM architectures like Show-o2.
