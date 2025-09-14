@@ -6,7 +6,7 @@
   </h1>
 
   <h4 style="margin: 15px 0; color: #2c3e50;">
-    🚀 Just 6 × 80GB A100s × 4.5 hours to boost BAGEL performance across all tasks! Our BAGEL outperforms FLUX-Kontext in image editing capabilities!
+    🚀 Just 6 × 80GB A100s × 4.5 hours to boost BAGEL performance across all tasks! Our BAGEL outperforms FLUX-Kontext in image editing capabilities! Try to use BAGEL-RecA in [ComfyUI](#-quick-start)!
   </h4>
 
   [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2509.07295)
@@ -45,6 +45,7 @@
 
 ## 🔥 News
 
+- **2025.9.14**: 🔥 Add ComfyUI guide!
 - **2025.9.11**: Harmon training code is released!
 - **2025.9.10**: BAGEL training code is released! Harmon training code will be released soon.
 - **2025.9.9**: Our [finetuned weights](https://huggingface.co/collections/sanaka87/realign-68ad2176380355a3dcedc068) and [arXiv paper](https://alphaxiv.org/abs/2509.07295) are available! We expect to release the training code tomorrow.
@@ -55,9 +56,16 @@
 
 ![alt text](assets/online_demo.png)
 
-2. Local Setup: Follow the instructions in the [BAGEL Installation Guide](./BAGEL/README.md) to set up the environment, and run `BAGEL/inference.ipynb` to test the model locally!
+2. ComfyUI: see [ComfyUI-BAGEL](https://github.com/neverbiasu/ComfyUI-BAGEL). The usage is totally the same as the original ComfyUI-BAGEL but you should replace the BAGEL weight `models/bagel/BAGEL-7B-MoT/ema.safetensors` with RecA-tuned one.
 
-3. ComfyUI: see [ComfyUI-BAGEL](https://github.com/neverbiasu/ComfyUI-BAGEL). FP8 and FP4 is on the way. Stay tuned!
+```shell
+wget https://huggingface.co/sanaka87/BAGEL-RecA/blob/main/model_bf16.safetensors
+mv model_bf16.safetensors models/bagel/BAGEL-7B-MoT/ema.safetensors
+```
+
+The [ComfyUI-BAGEL](https://github.com/neverbiasu/ComfyUI-BAGEL) repo is already support the NF4 and INT8 version of BAGEL.
+
+3. Local Setup: Follow the instructions in the [BAGEL Installation Guide](./BAGEL/README.md) to set up the environment, and run `BAGEL/inference.ipynb` to test the model locally!
 
 4. Full Training & Evaluation: For detailed instructions on installation, training, and evaluation, please refer to the respective repository READMEs:
 
@@ -116,7 +124,7 @@ Our method demonstrates superior image editing capabilities compared to state-of
 - [x] Release our model weights on Hugging Face.
 - [x] Release BAGEL training code.
 - [x] Release Harmon training code.
-- [ ] Release INT8 and NF4 version for BAGEL.
+- [x] Add ComfyUI guide.
 - [ ] Release Show-o and OpenUni training code.
 - [ ] Further scale-up BAGEL training.
 - [ ] Add support for new UMM architectures like Show-o2.
