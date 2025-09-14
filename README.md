@@ -56,16 +56,16 @@
 
 ![alt text](assets/online_demo.png)
 
-2. ComfyUI: see [ComfyUI-BAGEL](https://github.com/neverbiasu/ComfyUI-BAGEL). The usage is totally the same as the original ComfyUI-BAGEL but you should replace the BAGEL weight `models/bagel/BAGEL-7B-MoT/ema.safetensors` with RecA-tuned one.
+2. ComfyUI: see [ComfyUI-BAGEL](https://github.com/neverbiasu/ComfyUI-BAGEL). The usage is totally the same as the original ComfyUI-BAGEL but you should replace the BAGEL weight `models/bagel/BAGEL-7B-MoT/ema.safetensors` with RecA-tuned one. The [ComfyUI-BAGEL](https://github.com/neverbiasu/ComfyUI-BAGEL) repo **already supports** the NF4 and INT8 conversion of BAGEL.
 
 ```shell
 wget https://huggingface.co/sanaka87/BAGEL-RecA/blob/main/model_bf16.safetensors
 mv model_bf16.safetensors models/bagel/BAGEL-7B-MoT/ema.safetensors
 ```
 
-The [ComfyUI-BAGEL](https://github.com/neverbiasu/ComfyUI-BAGEL) repo **already supports** the NF4 and INT8 version of BAGEL.
+You can also download weight of NF4 and INT8 version of BAGEL in [BAGEL-RecA](https://huggingface.co/sanaka87/BAGEL-RecA).
 
-DF11 version [BAGEL-RecA](https://huggingface.co/theunlikely/BAGEL-RecA-DF11/tree/main) (heartfelt thank to @theunlikely !!!).
+DF11 version [BAGEL-RecA](https://huggingface.co/theunlikely/BAGEL-RecA-DF11/tree/main) (heartfelt thank to @theunlikely !!!). 
 
 3. Local Setup: Follow the instructions in the [BAGEL Installation Guide](./BAGEL/README.md) to set up the environment, and run `BAGEL/inference.ipynb` to test the model locally!
 
@@ -83,7 +83,7 @@ A collection of RecA models on Hugging Face with benchmark performance:
 
 | Model Name | Parameters | GenEval | DPGBench | ImgEdit | GEdit |
 |------------|------------|---------|----------|---------|-------|
-| [BAGEL-RecA](https://huggingface.co/sanaka87/BAGEL-RecA) | 14B | 82.4 (+3.6) | 85.29 (+1.26) | 3.75 (+0.37) | 7.27 (+0.33) |
+| [BAGEL-RecA](https://huggingface.co/sanaka87/BAGEL-RecA) (support INT8, NF4) | 14B | 82.4 (+3.6) | 85.29 (+1.26) | 3.75 (+0.37) | 7.27 (+0.33) |
 | [Harmon-0.5B-RecA](https://huggingface.co/sanaka87/Harmon-0.5B-RecA) | 0.5B | 78.7 (+11.1) | 84.67 (+4.55) | - | - |
 | [Harmon-1.5B-RecA](https://huggingface.co/sanaka87/Harmon-1.5B-RecA) | 1.5B | 85.7 (+12.8) | 87.21 (+6.28) | - | - |
 | [Show-o-RecA](https://huggingface.co/sanaka87/Show-o-RecA) | 1.3B | 61.9 (+5.3) | 75.70 (+5.05) | - | - |
