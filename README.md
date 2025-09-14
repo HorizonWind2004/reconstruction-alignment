@@ -116,7 +116,7 @@ Our method demonstrates superior image editing capabilities compared to state-of
 - [x] Release our model weights on Hugging Face.
 - [x] Release BAGEL training code.
 - [x] Release Harmon training code.
-- [ ] Release fp8 and fp4 version for BAGEL.
+- [ ] Release INT8 and NF4 version for BAGEL.
 - [ ] Release Show-o and OpenUni training code.
 - [ ] Further scale-up BAGEL training.
 - [ ] Add support for new UMM architectures like Show-o2.
