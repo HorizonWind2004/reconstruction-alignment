@@ -6,7 +6,7 @@
   </h1>
 
   <h4 style="margin: 15px 0; color: #2c3e50;">
-    🚀 Just 6 × 80GB A100s × 4.5 hours to boost BAGEL performance across all tasks! Our BAGEL outperforms FLUX-Kontext in image editing capabilities! Try to use BAGEL-RecA in [ComfyUI](#-quick-start)!
+    🚀 Just 6 × 80GB A100s × 4.5 hours to boost BAGEL performance across all tasks! Our BAGEL outperforms FLUX-Kontext in image editing capabilities! 
   </h4>
 
   [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2509.07295)
@@ -27,17 +27,6 @@
   <span style="font-size: 1em; color: #555;">UC Berkeley<sup>1</sup>; University of Washington<sup>2</sup></span>
 </div>
 
-## 📑 Table of Contents
-
-- [🔥 News](#-news)
-- [🔧 Quick Start](#-quick-start)
-- [🏆 Model Zoo](#-model-zoo)
-- [🍭 Results](#-results)
-- [🎨 Edit Comparison](#-edit-comparison)
-- [🚧 TODO](#-todo)
-- [📮 Contact](#-contact)
-- [📄 Citation](#-citation)
-
 <div align="center">
   <img src="./assets/DEMO.jpg" alt="" style="width: 100%; margin: 10px 0;">
   <img src="./assets/edit_demo.jpg" alt="" style="width: 100%; margin: 10px 0;">
@@ -45,11 +34,22 @@
 
 ## 🔥 News
 
-- **2025.9.14**: 🔥 Add ComfyUI guide!
+- **2025.9.14**: 🔥 Add ComfyUI guide! Try BAGEL-RecA in [ComfyUI](#-quick-start)!
 - **2025.9.11**: Harmon training code is released!
 - **2025.9.10**: BAGEL training code is released! Harmon training code will be released soon.
 - **2025.9.9**: Our [finetuned weights](https://huggingface.co/collections/sanaka87/realign-68ad2176380355a3dcedc068) and [arXiv paper](https://alphaxiv.org/abs/2509.07295) are available! We expect to release the training code tomorrow.
 
+
+## 📑 Table of Contents
+
+- [🔧 Quick Start](#-quick-start)
+- [🏆 Model Zoo](#-model-zoo)
+- [🍭 Results](#-results)
+- [🎨 Edit Comparison](#-edit-comparison)
+- [🚧 TODO](#-todo)
+- [📮 Contact](#-contact)
+- [📄 Citation](#-citation)
+- 
 ## 🔧 Quick Start!
 
 1. Online Demo: Try out our enhanced [BAGEL-RecA demo](https://huggingface.co/spaces/sanaka87/BAGEL-RecA) on Hugging Face Spaces!
