@@ -33,7 +33,7 @@
 </div>
 
 ## 🔥 News
-
+- **2025.9.15**: 🔥 Add NF4, INT8, DF11 version of BAGEL-RecA! Thank to @theunlikely!
 - **2025.9.14**: 🔥 Add ComfyUI guide! Try BAGEL-RecA in [ComfyUI](#-quick-start)!
 - **2025.9.11**: Harmon training code is released!
 - **2025.9.10**: BAGEL training code is released! Harmon training code will be released soon.
@@ -64,6 +64,8 @@ mv model_bf16.safetensors models/bagel/BAGEL-7B-MoT/ema.safetensors
 ```
 
 The [ComfyUI-BAGEL](https://github.com/neverbiasu/ComfyUI-BAGEL) repo **already supports** the NF4 and INT8 version of BAGEL.
+
+DF11 version [BAGEL-RecA](https://huggingface.co/theunlikely/BAGEL-RecA-DF11/tree/main) (heartfelt thank to @theunlikely !!!).
 
 3. Local Setup: Follow the instructions in the [BAGEL Installation Guide](./BAGEL/README.md) to set up the environment, and run `BAGEL/inference.ipynb` to test the model locally!
 
