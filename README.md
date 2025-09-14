@@ -63,7 +63,7 @@ wget https://huggingface.co/sanaka87/BAGEL-RecA/blob/main/model_bf16.safetensors
 mv model_bf16.safetensors models/bagel/BAGEL-7B-MoT/ema.safetensors
 ```
 
-The [ComfyUI-BAGEL](https://github.com/neverbiasu/ComfyUI-BAGEL) repo is already support the NF4 and INT8 version of BAGEL.
+The [ComfyUI-BAGEL](https://github.com/neverbiasu/ComfyUI-BAGEL) repo **already supports** the NF4 and INT8 version of BAGEL.
 
 3. Local Setup: Follow the instructions in the [BAGEL Installation Guide](./BAGEL/README.md) to set up the environment, and run `BAGEL/inference.ipynb` to test the model locally!
 
