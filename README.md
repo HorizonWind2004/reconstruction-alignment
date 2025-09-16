@@ -49,7 +49,7 @@
 - [🚧 TODO](#-todo)
 - [📮 Contact](#-contact)
 - [📄 Citation](#-citation)
-- 
+  
 ## 🔧 Quick Start!
 
 1. Online Demo: Try out our enhanced [BAGEL-RecA demo](https://huggingface.co/spaces/sanaka87/BAGEL-RecA) on Hugging Face Spaces!
