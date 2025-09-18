@@ -6,7 +6,7 @@
   </h1>
 
   <h4 style="margin: 15px 0; color: #2c3e50;">
-    🚀 Just 6 × 80GB A100s × 4.5 hours to boost BAGEL performance across all tasks! Our BAGEL outperforms FLUX-Kontext in image editing capabilities! 
+    🚀 Just 6 × 80GB A100s × 4.5 hours to boost BAGEL performance across all tasks! Our BAGEL outperforms FLUX-Kontext in image editing capabilities!
   </h4>
 
   [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2509.07295)
@@ -49,7 +49,7 @@
 - [🚧 TODO](#-todo)
 - [📮 Contact](#-contact)
 - [📄 Citation](#-citation)
-  
+
 ## 🔧 Quick Start!
 
 1. Online Demo: Try out our enhanced [BAGEL-RecA demo](https://huggingface.co/spaces/sanaka87/BAGEL-RecA) on Hugging Face Spaces!
@@ -65,7 +65,7 @@ mv model_bf16.safetensors models/bagel/BAGEL-7B-MoT/ema.safetensors
 
 You can also download weight of NF4 and INT8 version of BAGEL in [BAGEL-RecA](https://huggingface.co/sanaka87/BAGEL-RecA).
 
-DF11 version [BAGEL-RecA](https://huggingface.co/theunlikely/BAGEL-RecA-DF11/tree/main) (heartfelt thank to @theunlikely !!!). 
+DF11 version [BAGEL-RecA](https://huggingface.co/theunlikely/BAGEL-RecA-DF11/tree/main) (heartfelt thank to @theunlikely !!!).
 
 3. Local Setup: Follow the instructions in the [BAGEL Installation Guide](./BAGEL/README.md) to set up the environment, and run `BAGEL/inference.ipynb` to test the model locally!
 
@@ -118,7 +118,7 @@ We've tested RecA on various base architectures, including Show-o, OpenUni, Harm
 Our method demonstrates superior image editing capabilities compared to state-of-the-art models including ICEdit, FLUX-Kontext, and GPT-4o:
 
 <div align="center">
-  <img src="./assets/edit_comparison.jpg" alt="Edit Comparison" style="width: 100%; margin: 20px 0;">
+  <img src="./assets/edit_comparisons.jpg" alt="Edit Comparison" style="width: 100%; margin: 20px 0;">
 </div>
 
 ## 🚧 TODO
@@ -131,15 +131,18 @@ Our method demonstrates superior image editing capabilities compared to state-of
 - [ ] Further scale-up BAGEL training.
 - [ ] Add support for new UMM architectures like Show-o2.
 
+## License
+The majority of RecA is licensed under the [Apache License](LICENSE), however portions of the project are available under their own license terms: BAGEL and Show-o are licensed under Apache, Harmon and OpenUni are licensed under S-Lab license; If you later add other third party code, please keep this license info updated, and please let us know if that component is licensed under something other than Apache, CC-BY-NC, MIT, or CC0.
+
 ## 📮 Contact
 
-For questions, feedback, or collaboration opportunities, feel free to reach out!
+For feedback, or collaboration opportunities, feel free to reach out!
 
-📧 Email: sanaka@berkeley.edu
+If you have any general questions, feel free to email us at sanaka@berkeley.edu and xdwang@eecs.berkeley.edu. If you have code or implementation-related questions, please feel free to send emails to us or open an issue in this codebase (We recommend that you open an issue in this codebase, because your questions may help others).
 
 ## 📄 Citation
 
-If you find RecA useful for your research, please consider citing:
+If you find our work inspiring or use our codebase in your research, please consider giving a star ⭐ and a citation.
 
 ```bibtex
 @article{xie2025reconstruction,
@@ -153,9 +156,9 @@ If you find RecA useful for your research, please consider citing:
 ---
 
 <div align="center">
-  
+
   ⭐ **If you find this project helpful, please consider giving it a star!** ⭐
-  
+
   [![Star History Chart](https://api.star-history.com/svg?repos=HorizonWind2004/reconstruction-alignment&type=Date)](https://www.star-history.com/#HorizonWind2004/reconstruction-alignment&Date)
 
 </div>
