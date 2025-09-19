@@ -24,6 +24,7 @@ Create and activate a new conda environment:
 ```bash
 conda create -n bagel python=3.10
 conda activate bagel
+pip install torch==2.5.1 torchvision==0.20.1
 pip install -r requirements.txt
 ```
 
@@ -120,6 +121,36 @@ torchrun \
   --use_flex \
   --lr 0.00004 \
 ```
+### Start Training
+
+Trans your ckpt into hf format:
+
+use `BAGEL/scripts/trans2hf.sh`
+
+```bash
+#!/bin/bash
+INPUT_CHECKPOINT_PATH="/workspace/reconstruction-alignment/BAGEL/checkpoints/0000250"
+
+# 1. Construct the output path for the converted model (append _hf to the original path)
+#    Example: /workspace/reconstruction-alignment/BAGEL/results/hf_weights/checkpoint_reg_2e5_0.1_hf
+OUTPUT_HF_PATH="/workspace/reconstruction-alignment/BAGEL/results/hf_weights/reca_0000250"
+TEMPLATE_MODEL="/workspace/SRUM/BAGEL-7B-MoT"
+# Print the command that will be executed, for easy debugging
+echo "############################################################"
+echo "### Processing: ${INPUT_CHECKPOINT_PATH}"
+echo "### Output to:  ${OUTPUT_HF_PATH}"
+echo "############################################################"
+
+# 2. Execute the Python conversion script
+python scripts/trans2hf.py \
+  --training_checkpoint_path "${INPUT_CHECKPOINT_PATH}" \
+  --template_model_path "${TEMPLATE_MODEL}" \
+  --output_path "${OUTPUT_HF_PATH}"
+
+echo "Checkpoint for weight has been processed."
+```
+
+change the `INPUT_CHECKPOINT_PATH` to `your_output_path`, `TEMPLATE_MODEL` to `Bagel_official_path`
 
 ## Evaluation
 
