@@ -5,3 +5,4 @@ flash-attn==2.6.3
 deepspeed==0.16.7
 mmengine
 timm==0.9.12
+diffusers
