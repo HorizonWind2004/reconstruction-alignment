@@ -120,6 +120,7 @@ torchrun \
   --wandb_runid 1 \
   --use_flex \
   --lr 0.00004 \
+  --total_steps 1000
 ```
 
 After training, you can transfer your ckpt into hf format:
