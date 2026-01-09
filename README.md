@@ -10,7 +10,7 @@
   </h4>
 
   <h4 style="margin: 15px 0; color: #2c3e50;">
-    🔧 Verified on numerous architecture: <a href="https://github.com/showlab/Show-o">Show-o (VQGAN, CLIP)</a>, <a href="https://github.com/wusize/Harmon">Harmon</a>, <a href="https://github.com/wusize/OpenUni/tree/main/scripts">OpenUni</a>, <a href="https://github.com/ByteDance-Seed/Bagel">BAGEL</a>!
+    🔧 Verified on numerous architecture: <a href="https://github.com/showlab/Show-o">Show-o (VQGAN, CLIP)</a>, <a href="https://github.com/Gen-Verse/MMaDA">MMaDA</a>, <a href="https://github.com/wusize/Harmon">Harmon</a>, <a href="https://github.com/wusize/OpenUni/tree/main/scripts">OpenUni</a>, <a href="https://github.com/ByteDance-Seed/Bagel">BAGEL</a>!
   </h4>
   
   <h4 style="margin: 15px 0; color: #2c3e50;">
@@ -47,6 +47,7 @@
 </div>
 
 ## 🔥 News
+- **2026.1.9**: RecA is validated on [MMaDA](https://github.com/Gen-Verse/MMaDA)! Many thanks to [Lin Xu](https://github.com/mumu-code)!
 - **2025.12.6**: Show-o training code is released! And we add a reproduction guide for people to better understand RecA!
 - **2025.12.5**: 🔥 We evaluate our fine-tuned model on [T2I-Compbench](https://github.com/WayneJin0918/SRUM/tree/main/CompBench_eval). Many thanks to [Weiyang](https://waynejin0918.github.io/home/)!
 - **2025.12.5**: OpenUni training code is released!
