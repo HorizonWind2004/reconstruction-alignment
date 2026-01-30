@@ -119,6 +119,56 @@ accelerate launch \
 
 ## Evaluation
 
+### Image Reconstruction Demo
+
+Show-o provides reconstruction demo scripts for both CLIP and VQGAN variants. These scripts allow you to visualize the reconstruction quality of your trained models.
+
+#### CLIP Variant Reconstruction
+
+Use this script to perform image reconstruction with the CLIP-based model:
+
+```bash
+export PYTHONPATH=.
+python inference_recon_clip.py \
+    config=configs/showo_demo_w_clip_vit_512x512.yaml \
+    model.showo.pretrained_model_path=/path/to/checkpoint-xxxx/unwrapped_model \
+    batch_size=1 \
+    guidance_scale=5 \
+    generation_timesteps=30
+```
+
+**Key parameters:**
+- `config`: Configuration file for CLIP variant (512×512 or other resolutions)
+- `model.showo.pretrained_model_path`: Path to your trained checkpoint
+- `guidance_scale`: Classifier-free guidance scale (default: 5)
+- `generation_timesteps`: Number of denoising steps (default: 30)
+
+The script will automatically process all images in the `recon_validation/` directory and save reconstructed images with `_recon.jpg` suffix.
+
+#### VQGAN Variant Reconstruction
+
+Use this script to perform image reconstruction with the VQGAN-based model:
+
+```bash
+export PYTHONPATH=.
+CUDA_VISIBLE_DEVICES=0 python inference_recon.py \
+    config=configs/showo_demo_512x512.yaml \
+    model.showo.pretrained_model_path=/path/to/checkpoint-xxxx/unwrapped_model \
+    batch_size=1 \
+    guidance_scale=5 \
+    generation_timesteps=20
+```
+
+**Key parameters:**
+- `config`: Configuration file for VQGAN variant
+- `model.showo.pretrained_model_path`: Path to your trained checkpoint
+- `guidance_scale`: Classifier-free guidance scale (default: 5)
+- `generation_timesteps`: Number of denoising steps (default: 20)
+
+**Note**: The VQGAN variant script includes options for different downsampling strategies:
+- Standard resize: Direct resizing to lower resolution
+- Blur strategy: 8× downsample followed by upsample (see `showo_reca_blur8.yaml`)
+
 ### Unified Inference Script
 
 Show-o provides a unified inference script that supports multiple evaluation frameworks. Our script will automatically calculate the number of samples per prompt (12 for GenEval, 4 for DPG, 1 for WISE). 
