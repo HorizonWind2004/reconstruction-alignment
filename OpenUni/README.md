@@ -1,6 +1,6 @@
 # OpenUni Training Guide
 
-> Note: This repository is heavily based on [wusize/OpenUni](https://github.com/wusize/OpenUni). ation scripts. For inference scripts and additional resources, please refer to the original repository.
+> Note: This repository is heavily based on [wusize/OpenUni](https://github.com/wusize/OpenUni). For inference scripts and additional resources, please refer to the original repository.
 
 This guide provides comprehensive instructions for training OpenUni models with Reconstruction Alignment (RecA).
 

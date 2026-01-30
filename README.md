@@ -10,11 +10,13 @@
   </h4>
 
   <h4 style="margin: 15px 0; color: #2c3e50;">
-    🔧 Verified on numerous architecture: <a href="https://github.com/showlab/Show-o">Show-o (VQGAN, CLIP)</a>, <a href="https://github.com/wusize/Harmon">Harmon</a>, <a href="https://github.com/wusize/OpenUni/tree/main/scripts">OpenUni</a>, <a href="https://github.com/ByteDance-Seed/Bagel">BAGEL</a>!
+    🔧 Verified on numerous architecture: <a href="https://github.com/showlab/Show-o">Show-o (VQGAN, CLIP)</a>, <a href="https://github.com/Gen-Verse/MMaDA">MMaDA</a>, <a href="https://github.com/wusize/Harmon">Harmon</a>, <a href="https://github.com/wusize/OpenUni/tree/main/scripts">OpenUni</a>, <a href="https://github.com/ByteDance-Seed/Bagel">BAGEL</a>!
   </h4>
+  
   <h4 style="margin: 15px 0; color: #2c3e50;">
     🚀 Just 6 × 80GB A100s × 4.5 hours to boost BAGEL performance across all tasks! Our BAGEL outperforms FLUX-Kontext in image editing capabilities!
   </h4>
+  
   [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2509.07295)
   [![alphaXiv](https://img.shields.io/badge/arXiv-A42C25?style=for-the-badge&logo=arxiv&logoColor=white&color=blue)](https://alphaxiv.org/abs/2509.07295)
   [![Hugging Face Collection](https://img.shields.io/badge/HF_Models-fcd022?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/collections/sanaka87/realign-68ad2176380355a3dcedc068)
@@ -45,6 +47,7 @@
 </div>
 
 ## 🔥 News
+- **2026.1.9**: RecA is verified on [MMaDA](https://github.com/Gen-Verse/MMaDA)! Many thanks to [Lin Xu](https://github.com/mumu-code)!
 - **2025.12.6**: Show-o training code is released! And we add a reproduction guide for people to better understand RecA!
 - **2025.12.5**: 🔥 We evaluate our fine-tuned model on [T2I-Compbench](https://github.com/WayneJin0918/SRUM/tree/main/CompBench_eval). Many thanks to [Weiyang](https://waynejin0918.github.io/home/)!
 - **2025.12.5**: OpenUni training code is released!
@@ -88,6 +91,8 @@ You can also download weight of NF4 and INT8 version of BAGEL in [BAGEL-RecA](ht
 
 4. Full Training & Evaluation: For detailed instructions on installation, training, and evaluation, please refer to the respective repository READMEs:
 
+- **[Benchmark Evaluation Guide](./Benchmark/README.md)**: Multi-benchmark evaluation scripts and setup instructions.
+
 - **[BAGEL Installation Guide](./BAGEL/README.md)**: Complete guide for BAGEL model training and evaluation.
 
 - **[Harmon Installation Guide](./Harmon/README.md)**: Comprehensive instructions for Harmon model training and evaluation.
@@ -95,8 +100,6 @@ You can also download weight of NF4 and INT8 version of BAGEL in [BAGEL-RecA](ht
 - **[OpenUni Training Guide](./OpenUni/README.md)**: Detailed training and evaluation guide for OpenUni models.
 
 - **[Show-o Training Guide](./Show-o/README.md)**: Comprehensive training guide for Show-o models with CLIP and VQGAN variants.
-
-- **[Benchmark Evaluation Guide](./Benchmark/README.md)**: Multi-benchmark evaluation scripts and setup instructions.
 
 ## 🏆 Model Zoo
 

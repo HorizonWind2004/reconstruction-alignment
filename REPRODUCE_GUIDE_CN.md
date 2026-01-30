@@ -26,9 +26,11 @@
 
 更有意思的是：如果输入图像的分辨率与生成相同，且它们处于**统一的表示空间**（举个例子，都是 VQGAN token，或者像 RAE 一样都是 siglip feature），模型很容易学会直接 copy-and-paste，从而导致模式崩塌。以 Show-o 的 VQGAN 版为例，如果我们输入 512x512 的图像（对应 16x16 个 VQ tokens），并让它重建 16x16 个 VQ tokens，模型的内部表示空间就会崩溃，训练几千步后 CE loss 就降为 0 了。将输入图像缩放到 256x256 就可解决（首选方案）。或者对输入图像进行模糊处理（次选方案）。
 
-![Show-o VQGAN变体示意图](Show-o/assets/VQGAN.png)
+<div align="center">
+  <img src="Show-o/assets/VQGAN.png" alt="" width="60%">
+</div>
 
-Janus 的其输入和输出分辨率虽然都是 384x384，但输入是 SigLIP features，输出是 VQGAN features，二者之间天然存在 information bottleneck，因此无需特殊处理。
+Janus 的输入输出分辨率虽然都是 384x384，但输入是 SigLIP features，输出是 VQGAN features，二者之间天然存在 information bottleneck，因此无需特殊处理。
 
 ## 尽可能冻结理解组件
 

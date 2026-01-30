@@ -101,7 +101,7 @@ export PYTHONPATH=.
 accelerate launch \
     --config_file accelerate_configs/0.yaml \
     --main_process_port=8881 \
-    training/train_w_clip_vit.py \
+    training/train_recon_w_clip_vit.py \
     config=configs/showo_reca_clip.yaml
 ```
 
