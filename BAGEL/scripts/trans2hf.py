@@ -11,7 +11,7 @@ import argparse # Import the argparse module
 # --- Global Configuration (Adjust as needed) ---
 
 # Filenames to be converted to bfloat16
-FILES_TO_CONVERT = {"ema.safetensors", "ema.safetensors"}
+FILES_TO_CONVERT = {"model.safetensors", "model.safetensors"}
 
 # Maximum number of processes to use for parallel processing (None means use all available CPU cores)
 MAX_WORKERS = None # Can be set to a specific number, e.g., 4
