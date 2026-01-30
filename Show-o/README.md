@@ -119,59 +119,41 @@ accelerate launch \
 
 ## Evaluation
 
-### Image Reconstruction Demo
+### Checkpoints
 
-Show-o provides reconstruction demo scripts for both CLIP and VQGAN variants. These scripts allow you to visualize the reconstruction quality of your trained models.
+Checkpoints are saved in:
+
+```
+checkpoint-xxxx/
+├── unwrapped_model/
+│   ├── config.json
+│   ├── pytorch_model.bin
+│   └── ...
+└── ...
+```
+
+### Visualization
+
+Use the scripts below to perform image reconstruction with the Show-o model:
 
 #### CLIP Variant Reconstruction
 
-Use this script to perform image reconstruction with the CLIP-based model:
-
 ```bash
 export PYTHONPATH=.
-python inference_recon_clip.py \
+python scripts/inference_recon_clip.py \
     config=configs/showo_demo_w_clip_vit_512x512.yaml \
-    model.showo.pretrained_model_path=/path/to/checkpoint-xxxx/unwrapped_model \
-    batch_size=1 \
-    guidance_scale=5 \
-    generation_timesteps=30
+    model.showo.pretrained_model_path=sanaka87/Show-o-512x512-RecA \
+    input_image=inpainting_validation/bedroom.jpg \
+    output_image=results/bedroom_recon.jpg \
+    generation_timesteps=8 \
+    guidance_scale=1.75
 ```
 
-**Key parameters:**
-- `config`: Configuration file for CLIP variant (512×512 or other resolutions)
-- `model.showo.pretrained_model_path`: Path to your trained checkpoint
-- `guidance_scale`: Classifier-free guidance scale (default: 5)
-- `generation_timesteps`: Number of denoising steps (default: 30)
+### Benchmark Evaluation
 
-The script will automatically process all images in the `recon_validation/` directory and save reconstructed images with `_recon.jpg` suffix.
+We provides a unified inference script that supports multiple evaluation frameworks. Our script will automatically calculate the number of samples per prompt (12 for GenEval, 4 for DPG, 1 for WISE).
 
-#### VQGAN Variant Reconstruction
-
-Use this script to perform image reconstruction with the VQGAN-based model:
-
-```bash
-export PYTHONPATH=.
-CUDA_VISIBLE_DEVICES=0 python inference_recon.py \
-    config=configs/showo_demo_512x512.yaml \
-    model.showo.pretrained_model_path=/path/to/checkpoint-xxxx/unwrapped_model \
-    batch_size=1 \
-    guidance_scale=5 \
-    generation_timesteps=20
-```
-
-**Key parameters:**
-- `config`: Configuration file for VQGAN variant
-- `model.showo.pretrained_model_path`: Path to your trained checkpoint
-- `guidance_scale`: Classifier-free guidance scale (default: 5)
-- `generation_timesteps`: Number of denoising steps (default: 20)
-
-**Note**: The VQGAN variant script includes options for different downsampling strategies:
-- Standard resize: Direct resizing to lower resolution
-- Blur strategy: 8× downsample followed by upsample (see `showo_reca_blur8.yaml`)
-
-### Unified Inference Script
-
-Show-o provides a unified inference script that supports multiple evaluation frameworks. Our script will automatically calculate the number of samples per prompt (12 for GenEval, 4 for DPG, 1 for WISE). 
+#### GenEval
 
 ```bash
 export PYTHONPATH=.
@@ -179,12 +161,34 @@ python scripts/inference_benchmark.py \
     /path/to/your/checkpoint-xxxx/unwrapped_model \
     --config configs/showo_demo_512x512.yaml \
     --gpus 0,1,2,3,4,5,6,7 \
-    --framework geneval # (or dpg or wise) 
-    # (optional) --num_samples 12 
-
+    --framework geneval
 ```
 
-You can evaluate multiple checkpoints in sequence. For example:
+#### DPGBench
+
+```bash
+export PYTHONPATH=.
+python scripts/inference_benchmark.py \
+    /path/to/your/checkpoint-xxxx/unwrapped_model \
+    --config configs/showo_demo_512x512.yaml \
+    --gpus 0,1,2,3,4,5,6,7 \
+    --framework dpg
+```
+
+#### WISE
+
+```bash
+export PYTHONPATH=.
+python scripts/inference_benchmark.py \
+    /path/to/your/checkpoint-xxxx/unwrapped_model \
+    --config configs/showo_demo_512x512.yaml \
+    --gpus 0,1,2,3,4,5,6,7 \
+    --framework wise
+```
+
+**Example with multiple checkpoints:**
+
+You can evaluate multiple checkpoints in sequence:
 
 ```bash
 python scripts/inference_benchmark.py \
@@ -192,7 +196,7 @@ python scripts/inference_benchmark.py \
     /path/to/your/checkpoint-2000/unwrapped_model \
     /path/to/your/checkpoint-3000/unwrapped_model \
     --framework geneval \
-    --config configs/showo_demo_512x512.yaml
-    ...
+    --config configs/showo_demo_512x512.yaml \
+    --gpus 0,1,2,3,4,5,6,7
 ```
 
