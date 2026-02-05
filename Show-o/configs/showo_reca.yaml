@@ -87,7 +87,7 @@ lr_scheduler:
 training:
     # use_template: True
     # use_template_prob: 0.5
-    gradient_accumulation_steps: 5
+    gradient_accumulation_steps: 20
     noise_type: "mask"
     batch_size_t2i: 1
     batch_size_lm: -1
