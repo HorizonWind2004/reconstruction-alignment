@@ -23,7 +23,7 @@ model:
 
     showo:
         load_from_showo: True
-        pretrained_model_path: "Gen-Verse/HermesFlow"
+        pretrained_model_path: "showlab/show-o-512x512"
         w_clip_vit: False
         vocab_size: 58498
         llm_vocab_size: 50295
