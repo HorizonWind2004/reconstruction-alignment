@@ -10,7 +10,7 @@
   </h4>
 
   <h4 style="margin: 15px 0; color: #2c3e50;">
-    🔧 Verified on numerous architecture: <a href="https://github.com/showlab/Show-o">Show-o (VQGAN, CLIP)</a>, <a href="https://github.com/Gen-Verse/MMaDA">MMaDA</a>, <a href="https://github.com/wusize/Harmon">Harmon</a>, <a href="https://github.com/wusize/OpenUni/tree/main/scripts">OpenUni</a>, <a href="https://github.com/ByteDance-Seed/Bagel">BAGEL</a>!
+    🔧 Verified on numerous architecture: <a href="https://huggingface.co/Tongyi-MAI/Z-Image/">Z-Image</a>, <a href="https://github.com/deepseek-ai/janus">Janus</a>, <a href="https://github.com/showlab/Show-o">Show-o</a>, <a href="https://github.com/Gen-Verse/MMaDA">MMaDA</a>, <a href="https://github.com/wusize/Harmon">Harmon</a>, <a href="https://github.com/wusize/OpenUni/tree/main/scripts">OpenUni</a>, <a href="https://github.com/ByteDance-Seed/Bagel">BAGEL</a>!
   </h4>
   
   <h4 style="margin: 15px 0; color: #2c3e50;">
