@@ -193,7 +193,6 @@ If you find our work inspiring or use our codebase in your research, please cons
  editor = {C. Vondrick and B. Hariharan and C. Raffel and L. Pinto and D. Yang and A. Faust},
  pages = {120095--120137},
  title = {Reconstruction Alignment Improves Unified Multimodal Models},
- url = {https://proceedings.iclr.cc/paper_files/paper/2026/file/c34ddd05eb089991f06f3c5dc36836e0-Paper-Conference.pdf},
  volume = {2026},
  year = {2026}
 }
