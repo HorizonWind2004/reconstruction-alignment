@@ -204,6 +204,6 @@ If you find our work inspiring or use our codebase in your research, please cons
 
   ⭐ **If you find this project helpful, please consider giving it a star!** ⭐
 
-  [![Star History Chart](https://api.star-history.com/svg?repos=HorizonWind2004/reconstruction-alignment&type=Date)](https://www.star-history.com/#HorizonWind2004/reconstruction-alignment&Date)
+  [![Star History Chart](https://star-history.dera.page/svg?repos=HorizonWind2004/reconstruction-alignment&type=Date)](https://star-history.dera.page/#HorizonWind2004/reconstruction-alignment&Date)
 
 </div>
