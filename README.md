@@ -41,10 +41,6 @@
 
 **Improving image generation through visual understanding.** Reconstruction Alignment (RecA) is a **self-supervised post-training method for pretrained unified multimodal models (UMMs)**. It trains a model to reconstruct images from its own visual understanding features, using the original images as targets instead of image-specific captions. This semantic reconstruction objective transfers to text-to-image generation and image editing while preserving the model's original inference interface.
 
-The paper evaluates RecA on **Show-o, Harmon, OpenUni, and BAGEL**. It studies **understanding-to-generation transfer** through **self-supervised post-training**. See the [paper](https://arxiv.org/abs/2509.07295), [results](#-results), and [model checkpoints](#-model-zoo).
-
-**Training scope:** the reconstruction objective needs no paired captions. Models with shared understanding and generation parameters also retain image-to-text training to preserve understanding; decoupled understanding components can remain frozen. Architecture-specific settings and the semantic information bottleneck are explained in the guide below.
-
 > **📖 Want to try RecA on your own architecture?** Please read our [**Reproduction Guide**](./REPRODUCE_GUIDE.md) or its [**Chinese Version**](./REPRODUCE_GUIDE_CN.md) first! It contains crucial details and insights that are essential for successful reproduction.
 
 <br>
