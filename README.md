@@ -10,11 +10,11 @@
   </h4>
 
   <h4 style="margin: 15px 0; color: #2c3e50;">
-    🔧 Verified on numerous architecture: <a href="https://huggingface.co/Tongyi-MAI/Z-Image/">Z-Image</a>, <a href="https://github.com/deepseek-ai/janus">Janus</a>, <a href="https://github.com/showlab/Show-o">Show-o</a>, <a href="https://github.com/Gen-Verse/MMaDA">MMaDA</a>, <a href="https://github.com/wusize/Harmon">Harmon</a>, <a href="https://github.com/wusize/OpenUni/tree/main/scripts">OpenUni</a>, <a href="https://github.com/ByteDance-Seed/Bagel">BAGEL</a>!
+    🔧 Verified on multiple architectures: <a href="https://huggingface.co/Tongyi-MAI/Z-Image/">Z-Image</a>, <a href="https://github.com/deepseek-ai/janus">Janus</a>, <a href="https://github.com/showlab/Show-o">Show-o</a>, <a href="https://github.com/Gen-Verse/MMaDA">MMaDA</a>, <a href="https://github.com/wusize/Harmon">Harmon</a>, <a href="https://github.com/wusize/OpenUni/tree/main/scripts">OpenUni</a>, <a href="https://github.com/ByteDance-Seed/Bagel">BAGEL</a>!
   </h4>
   
   <h4 style="margin: 15px 0; color: #2c3e50;">
-    🚀 Just 6 × 80GB A100s × 4.5 hours to boost BAGEL performance across all tasks! Our BAGEL outperforms FLUX-Kontext in image editing capabilities!
+    🚀 6 × 80GB A100s × 4.5 hours to improve BAGEL on the reported generation and editing benchmarks. See the results and training settings below.
   </h4>
   
   [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2509.07295)
@@ -36,6 +36,14 @@
 </div>
 
 <br>
+
+## Method Overview
+
+**Improving image generation through visual understanding.** Reconstruction Alignment (RecA) is a **self-supervised post-training method for pretrained unified multimodal models (UMMs)**. It trains a model to reconstruct images from its own visual understanding features, using the original images as targets instead of image-specific captions. This semantic reconstruction objective transfers to text-to-image generation and image editing while preserving the model's original inference interface.
+
+The paper evaluates RecA on **Show-o, Harmon, OpenUni, and BAGEL**. It studies **understanding-to-generation transfer** through **self-supervised post-training**. See the [paper](https://arxiv.org/abs/2509.07295), [results](#-results), and [model checkpoints](#-model-zoo).
+
+**Training scope:** the reconstruction objective needs no paired captions. Models with shared understanding and generation parameters also retain image-to-text training to preserve understanding; decoupled understanding components can remain frozen. Architecture-specific settings and the semantic information bottleneck are explained in the guide below.
 
 > **📖 Want to try RecA on your own architecture?** Please read our [**Reproduction Guide**](./REPRODUCE_GUIDE.md) or its [**Chinese Version**](./REPRODUCE_GUIDE_CN.md) first! It contains crucial details and insights that are essential for successful reproduction.
 
@@ -60,6 +68,7 @@
 
 ## 📑 Table of Contents
 
+- [Method Overview](#method-overview)
 - [🔧 Quick Start](#-quick-start)
 - [🏆 Model Zoo](#-model-zoo)
 - [🍭 Results](#-results)
@@ -121,7 +130,7 @@ A collection of RecA models on Hugging Face with benchmark performance:
 
 > Unlocking the Massive Zero-shot Potential in Unified Multimodal Models through Self-supervised Learning.
 
-**RecA** achieves state-of-the-art performance on generation benchmarks with remarkable efficiency. Despite using only 1.5B parameters, RecA surpasses models with 7B-24B parameters, achieving GenEval **0.86** and DPGBench **87.21** without GPT-4o distillation data or reinforcement learning. RecA also improves BAGEL's editing performance significantly across all categories. Further two-stage fine-tuning with GPT-4o-Image distillation data enhances the score to **0.90** and **88.15** respectively.
+**Harmon-1.5B with RecA** achieves GenEval **0.86** and DPGBench **87.21** without GPT-4o distillation data or reinforcement learning. A separate two-stage experiment, using GPT-4o-Image distillation data for supervised fine-tuning before RecA, reaches **0.90** and **88.15**, respectively. **BAGEL-RecA** improves generation and editing scores as listed in the [Model Zoo](#-model-zoo). These are separate model configurations; see the [paper](https://arxiv.org/abs/2509.07295) for baselines, evaluation protocols, and per-model training costs.
 
 <div align="center">
   <img src="./assets/main.png" alt="" style="width: 80%; margin: 20px 0;">
@@ -131,7 +140,7 @@ A collection of RecA models on Hugging Face with benchmark performance:
   <img src="./assets/edit_result.png" alt="" style="width: 80%; margin: 20px 0;">
 </div>
 
-We've tested RecA on various base architectures, including Show-o, OpenUni, Harmon, and BAGEL, consistently observing significant performance improvements across all models and benchmarks.
+The paper reports generation improvements on Show-o, OpenUni, Harmon, and BAGEL. Understanding evaluations and architecture-specific limitations are discussed in the [paper](https://arxiv.org/abs/2509.07295) and [Reproduction Guide](./REPRODUCE_GUIDE.md).
 
 <div align="center">
   <img src="./assets/geneval.jpg" alt="" style="width: 80%; margin: 20px 0;">
@@ -143,7 +152,7 @@ We've tested RecA on various base architectures, including Show-o, OpenUni, Harm
 
 ## 🎨 Edit Comparison
 
-Our method demonstrates superior image editing capabilities compared to state-of-the-art models including ICEdit, FLUX-Kontext, and GPT-4o:
+Qualitative image-editing comparisons with ICEdit, FLUX-Kontext, and GPT-4o are shown below. For aggregate editing scores and evaluation settings, see Table 3 of the [paper](https://arxiv.org/abs/2509.07295).
 
 <div align="center">
   <img src="./assets/edit_comparisons.jpg" alt="Edit Comparison" style="width: 80%; margin: 20px 0;">
@@ -179,6 +188,8 @@ If you have any general questions, feel free to email us at sanaka@berkeley.edu 
 
 If you find our work inspiring or use our codebase in your research, please consider giving a star ⭐ and a citation.
 
+The [CITATION.cff](./CITATION.cff) file provides machine-readable citation metadata and identifies the ICLR 2026 paper as the preferred citation.
+
 ```bibtex
 @article{xie2025reconstruction,
   title={Reconstruction Alignment Improves Unified Multimodal Models},
@@ -188,13 +199,14 @@ If you find our work inspiring or use our codebase in your research, please cons
 }
 
 @inproceedings{xie2026reconstruction,
- author = {Xie, Ji and darrell, trevor and Zettlemoyer, Luke and Wang, Xudong},
+ author = {Xie, Ji and Darrell, Trevor and Zettlemoyer, Luke and Wang, XuDong},
  booktitle = {International Conference on Learning Representations},
  editor = {C. Vondrick and B. Hariharan and C. Raffel and L. Pinto and D. Yang and A. Faust},
  pages = {120095--120137},
  title = {Reconstruction Alignment Improves Unified Multimodal Models},
  volume = {2026},
- year = {2026}
+ year = {2026},
+ url = {https://openreview.net/forum?id=ppQWp8yrm7}
 }
 ```
 

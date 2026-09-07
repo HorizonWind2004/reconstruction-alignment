@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use RecA, please cite the ICLR 2026 paper listed below."
+type: software
+title: "RecA: Reconstruction Alignment Improves Unified Multimodal Models"
+authors:
+  - family-names: Xie
+    given-names: Ji
+  - family-names: Darrell
+    given-names: Trevor
+  - family-names: Zettlemoyer
+    given-names: Luke
+  - family-names: Wang
+    given-names: XuDong
+repository-code: "https://github.com/HorizonWind2004/reconstruction-alignment"
+url: "https://reconstruction-alignment.github.io/"
+abstract: >-
+  Self-supervised post-training for unified multimodal models through
+  image reconstruction conditioned on visual understanding features.
+keywords:
+  - unified multimodal models
+  - visual understanding
+  - self-supervised learning
+  - post-training
+  - image reconstruction
+  - text-to-image generation
+  - image editing
+preferred-citation:
+  type: conference-paper
+  title: "Reconstruction Alignment Improves Unified Multimodal Models"
+  authors:
+    - family-names: Xie
+      given-names: Ji
+    - family-names: Darrell
+      given-names: Trevor
+    - family-names: Zettlemoyer
+      given-names: Luke
+    - family-names: Wang
+      given-names: XuDong
+  collection-title: "International Conference on Learning Representations"
+  year: 2026
+  url: "https://openreview.net/forum?id=ppQWp8yrm7"
