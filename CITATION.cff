@@ -20,13 +20,16 @@ keywords:
   - unified multimodal models
   - visual understanding
   - self-supervised learning
+  - self-supervised post-training
+  - understanding-to-generation transfer
+  - unified understanding and generation
   - post-training
   - image reconstruction
   - text-to-image generation
   - image editing
 preferred-citation:
   type: conference-paper
-  title: "Reconstruction Alignment Improves Unified Multimodal Models"
+  title: "Reconstruction alignment improves unified multimodal models"
   authors:
     - family-names: Xie
       given-names: Ji
@@ -38,4 +41,7 @@ preferred-citation:
       given-names: XuDong
   collection-title: "International Conference on Learning Representations"
   year: 2026
+  volume: "2026"
+  start: "120095"
+  end: "120137"
   url: "https://openreview.net/forum?id=ppQWp8yrm7"

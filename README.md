@@ -184,25 +184,16 @@ If you have any general questions, feel free to email us at sanaka@berkeley.edu 
 
 If you find our work inspiring or use our codebase in your research, please consider giving a star ⭐ and a citation.
 
-The [CITATION.cff](./CITATION.cff) file provides machine-readable citation metadata and identifies the ICLR 2026 paper as the preferred citation.
+[Download BibTeX](./citation.bib) · [Paper abstract and publication details](https://reconstruction-alignment.github.io/paper.html). The [CITATION.cff](./CITATION.cff) file provides machine-readable metadata for the ICLR 2026 paper, with the full author list.
 
 ```bibtex
-@article{xie2025reconstruction,
-  title={Reconstruction Alignment Improves Unified Multimodal Models},
-  author={Xie, Ji and Darrell, Trevor and Zettlemoyer, Luke and Wang, XuDong},
-  journal={arXiv preprint arXiv:2509.07295},
-  year={2025}
-}
-
 @inproceedings{xie2026reconstruction,
- author = {Xie, Ji and Darrell, Trevor and Zettlemoyer, Luke and Wang, XuDong},
- booktitle = {International Conference on Learning Representations},
- editor = {C. Vondrick and B. Hariharan and C. Raffel and L. Pinto and D. Yang and A. Faust},
- pages = {120095--120137},
- title = {Reconstruction Alignment Improves Unified Multimodal Models},
- volume = {2026},
- year = {2026},
- url = {https://openreview.net/forum?id=ppQWp8yrm7}
+  title={Reconstruction alignment improves unified multimodal models},
+  author={Xie, Ji and Zettlemoyer, Luke and Wang, Xudong and others},
+  booktitle={International Conference on Learning Representations},
+  volume={2026},
+  pages={120095--120137},
+  year={2026}
 }
 ```
 
