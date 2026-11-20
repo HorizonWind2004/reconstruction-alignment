@@ -188,12 +188,13 @@ If you find our work inspiring or use our codebase in your research, please cons
 
 ```bibtex
 @inproceedings{xie2026reconstruction,
-  title={Reconstruction alignment improves unified multimodal models},
-  author={Xie, Ji and Zettlemoyer, Luke and Wang, Xudong and others},
+  title={Reconstruction Alignment Improves Unified Multimodal Models},
+  author={Xie, Ji and Darrell, Trevor and Zettlemoyer, Luke and Wang, XuDong},
   booktitle={International Conference on Learning Representations},
   volume={2026},
   pages={120095--120137},
-  year={2026}
+  year={2026},
+  url={https://openreview.net/forum?id=ppQWp8yrm7}
 }
 ```
 
